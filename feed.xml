@@ -5,20 +5,62 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 14 Nov 2026 00:25:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 20:40:00 +0800</lastBuildDate>
+    <item>
+      <title>Next ~24h (Taipei) from 20:40 Tue Nov 17: US Oct retail sales + import/export prices 21:30; US Oct industrial production ~22:15 (time per usual schedule); Fed speakers Musalem, Waller, Williams today (exact times UNKNOWN); NVIDIA Q3 FY27 results after US close (~Wed 05:20); Anthropic IPO pricing Wed; FOMC October minutes Wed Nov 18 2pm ET (Thu 03:00 Taipei); UK jobs and CPI later this week; Fed meeting Dec 8-9. USDJPY ~159.5 near past intervention zone (no intervention confirmed)</title>
+      <link>https://www.fxstreet.com/news/forex-today-us-dollar-corrects-lower-ahead-of-mid-tier-data-releases-202611170718</link>
+      <description>[事實] 影響: XAUUSD/DXY/USDJPY/EURUSD/GBPUSD | 重點: 今晚21:30零售銷售、22:15工業生產與多位Fed官員講話，週三盤後NVIDIA財報，週四凌晨3點FOMC會議紀要 | 發布: FXStreet 2026-11-17 15:18 (Asia/Taipei) | 抓取: 2026-11-17 20:40 (Asia/Taipei)</description>
+      <pubDate>Tue, 17 Nov 2026 20:40:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611172040-next24h</guid>
+    </item>
+    <item>
+      <title>Source conflict on US Oct retail sales consensus (release 21:30 Taipei Nov 17): CNBC cites economists at +0.6% m/m (prior 0.8%); ING (via FXStreet) expects +0.1% headline and +0.3% ex autos &amp; gas. Dec Fed hike pricing: CME FedWatch 95% for 25bp (CNBC); LSEG 96% for 25bp and ~4% for 50bp (MarketScreener/Dow Jones). Actual print UNKNOWN at time of writing</title>
+      <link>https://www.fxstreet.com/analysis/fx-daily-dollar-showing-resilience-to-tech-stock-instability-202611170810</link>
+      <description>[UNKNOWN] 影響: DXY/XAUUSD/EURUSD | 重點: 今晚美國零售銷售預期來源矛盾(CNBC +0.6% vs ING +0.1%)，實際值發布前未知；12月升息1碼機率約95-96% | 發布: FXStreet/CNBC 2026-11-17 (Asia/Taipei) | 抓取: 2026-11-17 20:40 (Asia/Taipei)</description>
+      <pubDate>Tue, 17 Nov 2026 16:30:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611171630-retail-sales-consensus-conflict</guid>
+    </item>
+    <item>
+      <title>Tue Nov 17 Asia/Europe: spot gold $3,869.13 at 0301 GMT (11:01 Taipei), little changed near 1-year low; Dec futures +0.5% $3,872.10 (CNBC/Reuters). DXY ~103.50 after 19-month high near 103.70 on Monday (FXStreet). US10Y 5.118% flat, US02Y 4.806% (-2bp), US30Y 5.472% (CNBC 16:23 Taipei). Stooq XAUUSD 17 Nov range 3841.43-3890.39 so far; Nov 16 range 3830.31-3902.21, close 3856.47</title>
+      <link>https://www.cnbc.com/2026/11/17/gold-hovers-near-over-one-year-low-as-firm-dollar-fed-hike-bets-weigh.html</link>
+      <description>[事實] 影響: XAUUSD/DXY/US10Y/US02Y | 重點: 金價在約3840-3890區間整理、貼近一年低點3830；DXY約103.5，10年債5.12%、2年債4.81% | 發布: CNBC 2026-11-17 11:01 / 16:23 (Asia/Taipei) | 抓取: 2026-11-17 20:40 (Asia/Taipei)</description>
+      <pubDate>Tue, 17 Nov 2026 16:23:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611171623-asia-europe-snapshot</guid>
+    </item>
+    <item>
+      <title>NY Fed Empire State manufacturing index (Nov 16, 21:30 Taipei release): 7.8 in November vs 25.5 in October, consensus 18 (per OCBC Daily Treasury Outlook 17 Nov). US stocks Mon: S&amp;P 500 -1.9%, Nasdaq -2.5%, chip index -5.3% (Nvidia CEO Jensen Huang ouster fallout; Commerce Dept interim rule on remote AI-chip access licences)</title>
+      <link>https://www.ocbc.com/iwov-resources/sg/ocbc/gbc/pdf/daily%20treasury%20outlook/2026/dto%20171126.pdf</link>
+      <description>[事實] 影響: DXY/XAUUSD/US10Y | 重點: 紐約州製造業指數11月7.8大幅低於預期18，美股科技股連三日重挫、標普跌1.9% | 發布: OCBC 2026-11-17 早上(確切時間UNKNOWN) (Asia/Taipei) | 抓取: 2026-11-17 20:40 (Asia/Taipei)</description>
+      <pubDate>Tue, 17 Nov 2026 07:00:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611162130-empire-state-risk-off</guid>
+    </item>
+    <item>
+      <title>Cleveland Fed Hammack (FOMC voter, Bloomberg TV Nov 16): prefers smaller, predictable hikes but 'if we get behind the curve... we absolutely can move in those larger increments'; inflation broadening, financial conditions not restrictive enough, higher market borrowing costs needed; policy rate 3.75%-4.00%. Fed Chair Warsh (SF AI conference): spoke on AI productivity and risks, gave no near-term rate guidance</title>
+      <link>https://www.fxstreet.com/news/feds-hammack-backs-slow-hikes-as-inflation-broadens-202611161948</link>
+      <description>[事實] 影響: XAUUSD/DXY/US02Y/EURUSD | 重點: Hammack偏好小步升息但不排除加大幅度，稱金融條件仍不夠緊；Warsh未給近期利率指引 | 發布: FXStreet 2026-11-17 03:48 (Asia/Taipei) | 抓取: 2026-11-17 20:40 (Asia/Taipei)</description>
+      <pubDate>Tue, 17 Nov 2026 03:48:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611170348-fed-hammack-warsh</guid>
+    </item>
+    <item>
+      <title>Reuters (Nov 16): spot gold hit $3,830.74/oz, lowest since Oct 2, 2025, down 31.5% from January record $5,594.82; on track for worst year since 2015. At 1:45pm ET spot -0.8% at $3,848.51, Dec futures settled -0.9% at $3,853. Drivers cited: high Treasury yields, dollar near highest since April 2025, Dec Fed hike expectations</title>
+      <link>https://www.mining.com/web/gold-drops-to-more-than-one-year-low-as-us-dollar-marches-higher/</link>
+      <description>[事實] 影響: XAUUSD | 重點: 金價週一觸及3830.74、創2025年10月以來新低，較1月高點5594.82跌31.5% | 發布: Reuters 2026-11-17 02:45 (Asia/Taipei) | 抓取: 2026-11-17 20:40 (Asia/Taipei)</description>
+      <pubDate>Tue, 17 Nov 2026 02:45:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611170245-gold-1yr-low</guid>
+    </item>
+    <item>
+      <title>Japan Q3 GDP prelim (Cabinet Office, released 07:50 Taipei Nov 16): q/q 0.0% (consensus 0.1%, prior 0.4%); annualized -0.1% (Reuters poll +0.3%, prior +1.4%). Net exports cut 0.6pp (energy import costs). LSEG: 75.6% chance of BoJ 25bp hike in December. USDJPY ~159.5-159.8 after release. Opinions split: State Street says 'hardly a green light' for Dec hike; Capital Economics and Commerzbank still expect a Dec hike</title>
+      <link>https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html</link>
+      <description>[事實] 影響: USDJPY/EURJPY | 重點: 日本Q3 GDP年化-0.1%遜於預期+0.3%，LSEG顯示12月BoJ升息機率75.6%，分析師對12月升息看法分歧 | 發布: CNBC 2026-11-16 07:57 (Asia/Taipei) | 抓取: 2026-11-17 20:40 (Asia/Taipei)</description>
+      <pubDate>Mon, 16 Nov 2026 07:57:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611160750-japan-q3-gdp</guid>
+    </item>
     <item>
       <title>US session ~00:20 Taipei Nov 14 (TradingView): OANDA XAUUSD 3878.37 (+0.78 / +0.02%; H 3923.09 L 3867.67), gave back post-PPI gains; COMEX GC1! 3881.6 (-0.10%; L 3871.1); DXY 103.35 (+0.17%; H 103.381, new high of this move); EURUSD 1.10319 (-0.21%; L 1.10257); USDJPY 159.90 (H 160.19, briefly above 160 again); GBPUSD 1.32181; AUDUSD 0.67771 (-0.45%); US02Y 4.850% (-3.4bp), US10Y 5.133% (unch; H 5.172); WTI CL1! 88.92 (+0.20%). Dow Jones headline (00:00 Taipei): 'Gold little changed with focus on yields, geopolitical tension'</title>
       <link>https://www.tradingview.com/symbols/XAUUSD/</link>
       <description>[事實] 影響: XAUUSD/DXY/USDJPY/EURUSD/AUDUSD | 重點: 金價回吐PPI後漲幅至約3878，DXY升至103.35本波高點，USDJPY盤中再破160至160.19，2年債殖利率回落 | 發布: TradingView 報價 2026-11-14 00:20 (Asia/Taipei) | 抓取: 2026-11-14 00:25 (Asia/Taipei)</description>
       <pubDate>Sat, 14 Nov 2026 00:20:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611140020-us-session-snapshot</guid>
-    </item>
-    <item>
-      <title>Next ~24h (Taipei) from 00:20 Sat Nov 14: rest of US Friday session, no further tier-1 US data scheduled; other Fed speakers tonight UNKNOWN. USDJPY touched 160.19: Japan intervention risk (none confirmed). Weekend: FX/gold markets closed from Sat ~06:00 Taipei until Mon open. Next week: Japan Q3 GDP Mon Nov 16 (Mace News economists: +0.1% q/q, +0.4% annualized); US Empire State Mon, Oct retail sales Tue, FOMC October minutes Wed Nov 18 (Kitco); NVIDIA Q3 results Tue Nov 17 after US close (Wed ~05:20 Taipei); Fed meeting Dec 8-9</title>
-      <link>https://www.kitco.com/news/article/2026-11-13/gold-rebounds-13-month-low-ppi-complicates-fed-outlook-kitco-am-report</link>
-      <description>[事實] 影響: XAUUSD/DXY/USDJPY | 重點: 今晚無一級數據，週六清晨後休市；下週一日本GDP與紐約州製造業、週二零售銷售與NVIDIA財報、週三FOMC會議紀要 | 發布: Kitco/Mace News 日曆 (Asia/Taipei) | 抓取: 2026-11-14 00:25 (Asia/Taipei)</description>
-      <pubDate>Sat, 14 Nov 2026 00:20:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611140020-next24h</guid>
     </item>
     <item>
       <title>Reuters (Sherin Sans, 23:13 Taipei Nov 13): spot gold +0.6% at $3,898.84 as of 9:50am ET after a post-PPI session high $3,922.97; Dec futures +0.5% at $3,903.00; down &gt;4% this week, on track for worst week since early June. CME FedWatch per Reuters: 89.4% chance of 25bp Dec hike (96.2% before PPI), 50bp 10.6% (13.8% before PPI). Tai Wong (independent analyst, opinion): gold struggling to hold PPI gains, core 0.3% m/m still too high for policymakers, may struggle to retake $4,000. Note: Reuters' pre-PPI pair (96.2% + 13.8%) sums &gt;100%, so the 'before' snapshot is likely from different times; treat as approximate</title>
@@ -173,48 +215,6 @@
       <description>[事實] 影響: US30Y/US10Y/XAUUSD/DXY | 重點: 30年期標售得標5.441%、尾差0.4bp，投標倍數2.36低於均值、交易商承接11.39%偏高，長端需求偏弱（強弱評價各來源不一） | 發布: Newsquawk 2026-11-13 02:22 (Asia/Taipei) | 抓取: 2026-11-13 04:25 (Asia/Taipei)</description>
       <pubDate>Fri, 13 Nov 2026 02:22:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611130222-us-30y-auction-5441</guid>
-    </item>
-    <item>
-      <title>Late evening ~00:25 Taipei Nov 13 (TradingView): OANDA XAUUSD 3874.95 (-112.76 / -2.83%; H 4000.73 L 3852.58), new YTD low area; COMEX GC1! 3877.8 (-3.07%; L 3856.7); DXY 103.152 (+0.30%; H 103.211); EURUSD 1.10611 (-0.25%; L 1.10535); USDJPY 159.939 (H 159.984, near 160); GBPUSD 1.3237 (-0.27%); AUDUSD 0.68132 (-0.49%; L 0.67978); US02Y 4.839% (+9.3bp), US10Y 5.072% (+7.2bp); WTI CL1! 86.88 (+0.40%)</title>
-      <link>https://www.tradingview.com/symbols/XAUUSD/</link>
-      <description>[事實] 影響: XAUUSD/DXY/USDJPY/EURUSD/AUDUSD | 重點: 美盤現貨金單日跌約2.8%至3875附近（日低3852.58），DXY升至103.15、2年期美債4.839%（+9.3bp）、10年期5.072%，USDJPY逼近160干預敏感區 | 發布: TradingView 報價 2026-11-13 00:25 (Asia/Taipei) | 抓取: 2026-11-13 00:30 (Asia/Taipei)</description>
-      <pubDate>Fri, 13 Nov 2026 00:25:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611130025-snapshot-xau-3875</guid>
-    </item>
-    <item>
-      <title>FXStreet (15:25 GMT / 23:25 Taipei Nov 12): XAU/USD ~$3,853, fresh year-to-date low, down &gt;3% on the day; DXY ~103.10 (highest since Apr 2025). Selling intensified as US stocks fell on reports Nvidia CEO Jensen Huang resigned (possible margin-call/loss-cover selling, FXStreet's view). Cleveland Fed Hammack: policy needs to become restrictive, higher energy costs feeding into other prices; smaller moves less disruptive but larger hike could be needed if Fed falls behind. Daily: below lower Bollinger Band (~$3,865 resistance), RSI 36</title>
-      <link>https://www.fxstreet.com/news/gold-falls-below-4-000-as-traders-weigh-a-half-point-fed-rate-hike-202611121051</link>
-      <description>[事實] 影響: XAUUSD/DXY | 重點: 金價創年內新低約3853，Hammack稱政策需轉為限制性、落後時可能需更大升幅；FXStreet推測美股因Nvidia CEO辭職下跌引發的保證金賣壓加重金跌（此因果為觀點） | 發布: FXStreet 2026-11-12 23:25 (Asia/Taipei) | 抓取: 2026-11-13 00:30 (Asia/Taipei)</description>
-      <pubDate>Thu, 12 Nov 2026 23:25:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611122325-fxstreet-ytd-low-hammack</guid>
-    </item>
-    <item>
-      <title>NVIDIA announces CEO transition (company press release, Nov 12, 2026; exact time UNKNOWN): Jensen Huang resigned as President, CEO and board member effective immediately; CFO Colette Kress appointed Interim CEO; Harvey C. Jones named first-ever Board Chair. Q3 FY2027 results still scheduled Tue Nov 17 ~1:20pm PT (Wed Nov 18 ~05:20 Taipei). Media (NBC/AP/Politico) link resignation to reports of affairs</title>
-      <link>https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/</link>
-      <description>[事實] 影響: XAUUSD/美股風險情緒/USDJPY | 重點: Nvidia宣布黃仁勳即刻辭任CEO與董事，CFO Kress任代理CEO；美股走弱並被FXStreet列為金價加速下跌的背景之一 | 發布: NVIDIA 2026-11-12（台北時間 UNKNOWN） | 抓取: 2026-11-13 00:30 (Asia/Taipei)</description>
-      <pubDate>Thu, 12 Nov 2026 23:00:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-20261112-nvidia-ceo-transition</guid>
-    </item>
-    <item>
-      <title>US Oct existing home sales (NAR, Nov 12 10:00 ET / 23:00 Taipei): 3.75M SAAR, -5.5% m/m (consensus 3.85M per MNI / 3.80M per AP; Sep revised 3.97M), -8.8% y/y, lowest since Aug 2010; inventory 1.59M (5.1 months); median price $416,700 (+0.4% y/y). NAR's Yun: mortgage rates highest since 2000 aside from one month in 2023</title>
-      <link>https://www.nar.realtor/newsroom/existing-home-sales-decreased-5-5-percent-october-nar-report</link>
-      <description>[事實] 影響: DXY/US10Y/XAUUSD | 重點: 10月成屋銷售年化375萬戶，月減5.5%、低於預期，創2010年8月以來最低，反映高房貸利率壓抑房市 | 發布: NAR 2026-11-12 23:00 (Asia/Taipei) | 抓取: 2026-11-13 00:30 (Asia/Taipei)</description>
-      <pubDate>Thu, 12 Nov 2026 23:00:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611122300-us-existing-home-sales-375m</guid>
-    </item>
-    <item>
-      <title>Source discrepancy on Fed hike pricing (Nov 12): CNBC/Reuters cite CME FedWatch 89% for 25bp Dec hike / 11% for 50bp; Kitco cites 88-91% for 25bp; Investing.com says Dec 25bp 'fully priced'; FXStreet says ~62% chance of a cumulative 50bp across the next two meetings (Dec + Jan/Mar). Different snapshots and measures, not directly comparable</title>
-      <link>https://www.fxstreet.com/news/forex-today-us-dollar-index-climbs-to-fresh-19-month-high-gold-drops-below-4-000-202611120724</link>
-      <description>[事實] 影響: XAUUSD/DXY/US02Y | 重點: 各來源FedWatch數字不同：12月升25bp約89%~100%、50bp約11%，FXStreet另稱未來兩次會議累計50bp機率約62%，口徑不同需注意 | 發布: 多來源 2026-11-12 15:24–22:30 (Asia/Taipei) | 抓取: 2026-11-13 00:30 (Asia/Taipei)</description>
-      <pubDate>Thu, 12 Nov 2026 22:35:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-20261112-fedwatch-discrepancy</guid>
-    </item>
-    <item>
-      <title>Kitco AM technicals (Nov 12, US morning): spot gold first resistance $3,944.00 then $3,948.98, sustained move targets $3,992 then $4,022; first support $3,919.18 then $3,896.00, deeper $3,870. Note: price has since traded below these supports (TradingView low 3852.58); FXStreet cites lower Bollinger Band ~$3,865 as resistance. Reuters (Wang Tao, earlier) flagged double-top target ~$3,895 and possible wave (5) below $3,870</title>
-      <link>https://www.kitco.com/news/article/2026-11-12/gold-silver-extend-losses-fed-hike-bets-lift-dollar-treasury-yields-kitco</link>
-      <description>[推測] 影響: XAUUSD | 重點: 分析師所列3919/3896/3870支撐已多數被跌破，目前價位接近Reuters雙頂目標3895下方與3870波浪參考，屬技術觀點非事實 | 發布: Kitco 2026-11-12 約22:30 (Asia/Taipei，時間約略) | 抓取: 2026-11-13 00:30 (Asia/Taipei)</description>
-      <pubDate>Thu, 12 Nov 2026 22:30:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-20261112-kitco-gold-technicals</guid>
     </item>
   </channel>
 </rss>
