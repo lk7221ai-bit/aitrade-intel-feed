@@ -5,13 +5,27 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 17 Nov 2026 22:45:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 00:30:00 +0800</lastBuildDate>
+    <item>
+      <title>Kitco spot gold 11:14am ET (00:14 Taipei Nov 18): bid 3,869.10, +13.60 (+0.35%) on the day; day range 3,836.00-3,891.60. Rebounded ~20 USD from post-retail-sales low area (~3,848, Kitco 21:30-22:00 Taipei). Silver 47.63 (+1.63%). Drivers of the rebound not stated by sources = UNKNOWN</title>
+      <link>https://www.kitco.com/charts/gold</link>
+      <description>[事實] 影響: XAUUSD | 重點: 金價從數據後約3848回升至3869(+0.35%)，日內區間3836-3891.6，反彈原因來源未說明 | 發布: Kitco 2026-11-18 00:14 (Asia/Taipei) | 抓取: 2026-11-18 00:30 (Asia/Taipei)</description>
+      <pubDate>Wed, 18 Nov 2026 00:14:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611180014-gold-us-session-rebound</guid>
+    </item>
     <item>
       <title>Next ~24h (Taipei) from 22:40 Tue Nov 17: Fed Hammack remarks on Treasury market 22:30; Fed Williams fireside chat Wed 03:25; NVIDIA Q3 FY27 results after US close (~Wed 05:20); Anthropic IPO pricing Wed; FOMC Oct 27-28 minutes Thu 03:00 (Wed 2pm ET); Trump meets Xi and Putin in Shenzhen Thursday (Iran/Hormuz energy in focus per ActionForex); ECB OIS prices ~24bp hike for Dec 17; Fed meeting Dec 8-9. USDJPY ~159.5 near past intervention zone (no intervention confirmed)</title>
       <link>https://www.newsquawk.com/headlines/primer---todays-fedspeak-17th-november-2026-includes-musalem-waller-hammack-williams</link>
       <description>[事實] 影響: XAUUSD/DXY/USDJPY/EURUSD | 重點: 接下來看Williams(週三03:25)、NVIDIA財報(週三約05:20)、FOMC紀要(週四03:00)、週四川習普深圳會談 | 發布: Newsquawk/ActionForex 2026-11-17 (Asia/Taipei) | 抓取: 2026-11-17 22:40 (Asia/Taipei)</description>
       <pubDate>Tue, 17 Nov 2026 22:40:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611172240-next24h</guid>
+    </item>
+    <item>
+      <title>Cleveland Fed Hammack (Brookings, 9:30am ET = 22:30 Taipei Nov 17, 'Lessons from a Burning River'): Fed should set principles now for temporary, targeted Treasury-market interventions; bar should be high; supports enhancing standing repo (SRP) operations (all-day access, possible FedNow link); Treasury purchases may be considered if repos insufficient; communications must separate market-functioning actions from monetary policy. Topic was market functioning, not the rate path</title>
+      <link>https://www.clevelandfed.org/collections/press-releases/2026/pr-20261117-cleveland-fed-president-hammack-speech</link>
+      <description>[事實] 影響: US10Y/US30Y/DXY | 重點: Hammack主張Fed先訂好國債市場干預原則(門檻高、暫時且有退場)，屬市場功能議題、未談利率路徑 | 發布: Cleveland Fed 2026-11-17 22:30 (Asia/Taipei) | 抓取: 2026-11-18 00:30 (Asia/Taipei)</description>
+      <pubDate>Tue, 17 Nov 2026 22:30:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611172230-fed-hammack-treasury-market</guid>
     </item>
     <item>
       <title>US industrial production, October (Fed G.17, released 9:15am ET = 22:15 Taipei): -0.4% m/m vs +0.1% expected (Breaking The News); Sept revised to +0.7%. Manufacturing +0.3%, mining -0.8%, utilities -4.3%. Capacity utilization 76.4% (Sept rev 76.8%). +2.1% y/y</title>
@@ -201,20 +215,6 @@
       <description>[事實] 影響: XAUUSD/DXY/USDJPY/AUDUSD | 重點: 美盤尾段現貨金約3885、單日跌約2.6%（日低3852.58未再破），2年期美債升至4.867%、10年期5.107%，USDJPY盤中短暫突破160（高160.047） | 發布: TradingView 報價 2026-11-13 04:20 (Asia/Taipei) | 抓取: 2026-11-13 04:25 (Asia/Taipei)</description>
       <pubDate>Fri, 13 Nov 2026 04:20:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611130420-snapshot-xau-3885</guid>
-    </item>
-    <item>
-      <title>US Monthly Treasury Statement Oct 2026 (FY2027 first month; Treasury Nov 12 2pm ET / 03:00 Taipei): deficit $404.064bn (Oct 2025: $284.333bn); receipts $368.940bn, outlays $773.004bn. TradingEconomics: vs forecast $298.6bn deficit. Treasury: some Nov 1 payments shifted into October (Nov 1 fell on a weekend). CBO had estimated $409bn</title>
-      <link>https://fiscaldata.treasury.gov/static-data/published-reports/mts/MonthlyTreasuryStatement_202610.pdf</link>
-      <description>[事實] 影響: US10Y/US30Y/DXY | 重點: 美國10月財政赤字4040.6億美元，大於去年同期2843億與預期約2986億（部分因11月付款提前至10月），增添長債供給壓力背景 | 發布: 美國財政部 2026-11-13 03:00 (Asia/Taipei，時間約略) | 抓取: 2026-11-13 04:25 (Asia/Taipei)</description>
-      <pubDate>Fri, 13 Nov 2026 03:00:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611130300-us-oct-budget-404bn</guid>
-    </item>
-    <item>
-      <title>SF Fed Daly at SIEPR Stanford (FXStreet 18:54 GMT / 02:54 Taipei Nov 13; Bloomberg 18:54 UTC): 'My bias is that further tightening will be needed'; inflation pressure 'up, not down', bleeding into services; firms increasingly say they will pass on higher costs; AI contributing only modestly to inflation; 'exactly how much Fed tightening and when is a decision we don't need to make now'</title>
-      <link>https://www.fxstreet.com/news/feds-daly-warns-ai-is-fueling-inflation-sees-more-rate-hikes-ahead-202611121854</link>
-      <description>[事實] 影響: XAUUSD/DXY/US02Y | 重點: 舊金山Fed Daly稱傾向需進一步緊縮、通膨壓力上升且擴散至服務業，但幅度與時點不必現在決定，延續本週Fed鷹派基調 | 發布: FXStreet/Bloomberg 2026-11-13 02:54 (Asia/Taipei) | 抓取: 2026-11-13 04:25 (Asia/Taipei)</description>
-      <pubDate>Fri, 13 Nov 2026 02:54:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611130254-fed-daly-further-tightening</guid>
     </item>
   </channel>
 </rss>
