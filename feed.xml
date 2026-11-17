@@ -5,20 +5,41 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 17 Nov 2026 20:40:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 22:45:00 +0800</lastBuildDate>
     <item>
-      <title>Next ~24h (Taipei) from 20:40 Tue Nov 17: US Oct retail sales + import/export prices 21:30; US Oct industrial production ~22:15 (time per usual schedule); Fed speakers Musalem, Waller, Williams today (exact times UNKNOWN); NVIDIA Q3 FY27 results after US close (~Wed 05:20); Anthropic IPO pricing Wed; FOMC October minutes Wed Nov 18 2pm ET (Thu 03:00 Taipei); UK jobs and CPI later this week; Fed meeting Dec 8-9. USDJPY ~159.5 near past intervention zone (no intervention confirmed)</title>
-      <link>https://www.fxstreet.com/news/forex-today-us-dollar-corrects-lower-ahead-of-mid-tier-data-releases-202611170718</link>
-      <description>[事實] 影響: XAUUSD/DXY/USDJPY/EURUSD/GBPUSD | 重點: 今晚21:30零售銷售、22:15工業生產與多位Fed官員講話，週三盤後NVIDIA財報，週四凌晨3點FOMC會議紀要 | 發布: FXStreet 2026-11-17 15:18 (Asia/Taipei) | 抓取: 2026-11-17 20:40 (Asia/Taipei)</description>
-      <pubDate>Tue, 17 Nov 2026 20:40:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611172040-next24h</guid>
+      <title>Next ~24h (Taipei) from 22:40 Tue Nov 17: Fed Hammack remarks on Treasury market 22:30; Fed Williams fireside chat Wed 03:25; NVIDIA Q3 FY27 results after US close (~Wed 05:20); Anthropic IPO pricing Wed; FOMC Oct 27-28 minutes Thu 03:00 (Wed 2pm ET); Trump meets Xi and Putin in Shenzhen Thursday (Iran/Hormuz energy in focus per ActionForex); ECB OIS prices ~24bp hike for Dec 17; Fed meeting Dec 8-9. USDJPY ~159.5 near past intervention zone (no intervention confirmed)</title>
+      <link>https://www.newsquawk.com/headlines/primer---todays-fedspeak-17th-november-2026-includes-musalem-waller-hammack-williams</link>
+      <description>[事實] 影響: XAUUSD/DXY/USDJPY/EURUSD | 重點: 接下來看Williams(週三03:25)、NVIDIA財報(週三約05:20)、FOMC紀要(週四03:00)、週四川習普深圳會談 | 發布: Newsquawk/ActionForex 2026-11-17 (Asia/Taipei) | 抓取: 2026-11-17 22:40 (Asia/Taipei)</description>
+      <pubDate>Tue, 17 Nov 2026 22:40:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611172240-next24h</guid>
     </item>
     <item>
-      <title>Source conflict on US Oct retail sales consensus (release 21:30 Taipei Nov 17): CNBC cites economists at +0.6% m/m (prior 0.8%); ING (via FXStreet) expects +0.1% headline and +0.3% ex autos &amp; gas. Dec Fed hike pricing: CME FedWatch 95% for 25bp (CNBC); LSEG 96% for 25bp and ~4% for 50bp (MarketScreener/Dow Jones). Actual print UNKNOWN at time of writing</title>
-      <link>https://www.fxstreet.com/analysis/fx-daily-dollar-showing-resilience-to-tech-stock-instability-202611170810</link>
-      <description>[UNKNOWN] 影響: DXY/XAUUSD/EURUSD | 重點: 今晚美國零售銷售預期來源矛盾(CNBC +0.6% vs ING +0.1%)，實際值發布前未知；12月升息1碼機率約95-96% | 發布: FXStreet/CNBC 2026-11-17 (Asia/Taipei) | 抓取: 2026-11-17 20:40 (Asia/Taipei)</description>
-      <pubDate>Tue, 17 Nov 2026 16:30:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611171630-retail-sales-consensus-conflict</guid>
+      <title>US industrial production, October (Fed G.17, released 9:15am ET = 22:15 Taipei): -0.4% m/m vs +0.1% expected (Breaking The News); Sept revised to +0.7%. Manufacturing +0.3%, mining -0.8%, utilities -4.3%. Capacity utilization 76.4% (Sept rev 76.8%). +2.1% y/y</title>
+      <link>https://www.federalreserve.gov/releases/G17/Current/table0.htm</link>
+      <description>[事實] 影響: DXY/XAUUSD | 重點: 美國10月工業生產-0.4%遜於預期+0.1%，主因公用事業-4.3%，製造業+0.3% | 發布: Federal Reserve 2026-11-17 22:15 (Asia/Taipei) | 抓取: 2026-11-17 22:40 (Asia/Taipei)</description>
+      <pubDate>Tue, 17 Nov 2026 22:15:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611172215-us-industrial-production-oct</guid>
+    </item>
+    <item>
+      <title>Fed Governor Waller (Clearing House conference, NY, prepared text, Reuters Nov 17): speech on payments innovation and central bank money; no monetary-policy comments in the text. Earlier (Nov 10) he said 50bp should be considered in Dec if core CPI ~0.3%+ (Oct core CPI printed 0.3%). Dec 50bp odds per CME FedWatch ~5.5% (CNBC), down from 14.5% last Thursday; Kitco cites 96.6%/3.4% for 25/50bp</title>
+      <link>https://sa.marketscreener.com/news/fed-s-waller-says-central-bank-will-work-with-private-sector-on-digital-finance-ce785edcdb8cf121</link>
+      <description>[事實] 影響: DXY/US02Y/XAUUSD | 重點: Waller今晚講稿只談支付、未談利率；12月升息2碼機率約3-6%，較上週四14.5%回落 | 發布: Reuters 2026-11-17 22:10 (Asia/Taipei) | 抓取: 2026-11-17 22:40 (Asia/Taipei)</description>
+      <pubDate>Tue, 17 Nov 2026 22:10:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611172210-fed-waller-payments</guid>
+    </item>
+    <item>
+      <title>Post-retail-sales market (FXPremiere, 14:05 UTC = 22:05 Taipei): COMEX gold front-month 3,852.6 (-0.01%; day range 3,839.2-3,889.6; 20-day low 3,835.2); DXY 103.689 (+0.13%, intraday 103.78 = 20-day high); US10Y 5.145% (+2.4bp). Kitco: spot gold 3,848.64 (-0.20%) near session lows after data; ActionForex: dollar strengthened vs most majors on stronger core sales. SOURCE CONFLICT: Kitco AM Report said the dollar and Treasury yields were 'modestly lower' in early US trade, vs FXPremiere showing DXY and 10Y higher — likely timing difference, direction intraday UNCLEAR</title>
+      <link>https://www.fxpremiere.com/gold-after-retail-sales-17-nov-2026/</link>
+      <description>[事實] 影響: XAUUSD/DXY/US10Y | 重點: 數據後金價約3848-3853貼近20日低點3835，DXY升至103.78新高；Kitco與FXPremiere對美元/殖利率方向說法矛盾 | 發布: FXPremiere/Kitco 2026-11-17 22:05 (Asia/Taipei) | 抓取: 2026-11-17 22:40 (Asia/Taipei)</description>
+      <pubDate>Tue, 17 Nov 2026 22:05:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611172205-post-retail-sales-reaction</guid>
+    </item>
+    <item>
+      <title>US Census advance retail sales, October (released 8:30am ET = 21:30 Taipei Nov 17): +0.2% m/m to $748.2B (Reuters poll +0.2%; Sept unrevised +0.8%); 90% confidence interval includes zero. +6.8% y/y. Ex-autos +0.6% (consensus +0.4%); ex-autos &amp; gas +0.5%; control group (ex autos, gas, building materials, food services) +0.6% vs +0.4% expected, Sept revised up to +0.5% (Reuters). Motor vehicles -1.6%, gas stations +1.5%, nonstore +1.2%. Earlier pre-release consensus conflict (CNBC +0.6% vs ING +0.1%) resolved: headline matched Reuters poll</title>
+      <link>https://www.census.gov/retail/sales.html</link>
+      <description>[事實] 影響: DXY/XAUUSD/US02Y/EURUSD | 重點: 美國10月零售銷售+0.2%符合預期，但除汽車+0.6%與控制組+0.6%均高於預期+0.4%，內需底層仍有韌性 | 發布: US Census 2026-11-17 21:30 (Asia/Taipei) | 抓取: 2026-11-17 22:40 (Asia/Taipei)</description>
+      <pubDate>Tue, 17 Nov 2026 21:30:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611172130-us-retail-sales-oct</guid>
     </item>
     <item>
       <title>Tue Nov 17 Asia/Europe: spot gold $3,869.13 at 0301 GMT (11:01 Taipei), little changed near 1-year low; Dec futures +0.5% $3,872.10 (CNBC/Reuters). DXY ~103.50 after 19-month high near 103.70 on Monday (FXStreet). US10Y 5.118% flat, US02Y 4.806% (-2bp), US30Y 5.472% (CNBC 16:23 Taipei). Stooq XAUUSD 17 Nov range 3841.43-3890.39 so far; Nov 16 range 3830.31-3902.21, close 3856.47</title>
@@ -194,27 +215,6 @@
       <description>[事實] 影響: XAUUSD/DXY/US02Y | 重點: 舊金山Fed Daly稱傾向需進一步緊縮、通膨壓力上升且擴散至服務業，但幅度與時點不必現在決定，延續本週Fed鷹派基調 | 發布: FXStreet/Bloomberg 2026-11-13 02:54 (Asia/Taipei) | 抓取: 2026-11-13 04:25 (Asia/Taipei)</description>
       <pubDate>Fri, 13 Nov 2026 02:54:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611130254-fed-daly-further-tightening</guid>
-    </item>
-    <item>
-      <title>Houthis claim attacks on Saudi energy sites (Reuters 1:49pm ET / 02:49 Taipei Nov 13): pumping station on Saudi East-West oil pipeline and an oil facility in Yanbu; also claimed attack on an Aramco building in Riyadh (no immediate Saudi confirmation). Iran's military says four tankers hit by explosions in Hormuz (unverified by Reuters). Brent +$2.44 (+2.63%) to $95.20, WTI +$1.66 to $88.19; both still ~3% lower on the week</title>
-      <link>https://live.euronext.com/en/financial-news/oil-gains-over-2-attacks-saudi-energy-sites-strait-hormuz-disruptions</link>
-      <description>[事實] 影響: XAUUSD/WTI/DXY/USDJPY | 重點: 胡塞武裝宣稱攻擊沙烏地東西輸油管泵站與延布設施（利雅德Aramco大樓遭襲說法未獲沙方證實），油價日內反彈逾2美元，推升通膨與升息擔憂 | 發布: Reuters 2026-11-13 02:49 (Asia/Taipei) | 抓取: 2026-11-13 04:25 (Asia/Taipei)</description>
-      <pubDate>Fri, 13 Nov 2026 02:49:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611130249-houthi-saudi-energy-attacks</guid>
-    </item>
-    <item>
-      <title>KC Fed Schmid (Nov 12, Bloomberg 18:30 UTC / 02:30 Taipei; Newsquawk 18:51 UTC): prepared remarks on housing costs, no comment on outlook or monetary policy; said housing affordability could worsen as labor and material costs rise</title>
-      <link>https://www.kansascityfed.org/speeches/</link>
-      <description>[事實] 影響: DXY/US10Y | 重點: 堪城Fed Schmid講稿只談房屋負擔能力、未談經濟前景或貨幣政策，無新政策訊號 | 發布: 堪城Fed/Bloomberg 2026-11-13 02:30 (Asia/Taipei) | 抓取: 2026-11-13 04:25 (Asia/Taipei)</description>
-      <pubDate>Fri, 13 Nov 2026 02:30:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611130230-fed-schmid-housing-no-policy</guid>
-    </item>
-    <item>
-      <title>US 30-year bond auction (Treasury, Nov 12 1pm ET; Newsquawk 18:22 UTC / 02:22 Taipei): $25bn at 5.441% high yield, 0.4bp tail vs 5.437% WI (prev 0.1bp tail; 6-auction avg -0.1bp); bid-to-cover 2.36x (prev 2.54x, avg 2.44x); indirect 68.11% (prev 72.32%), dealer 11.39% (prev 6.79%), direct 20.5%. Follows soft 10Y auction Tue (1.0bp tail). Helious graded it 'in line', investingLive called it disappointing</title>
-      <link>https://www.newsquawk.com/headlines/us-sells-usd-25bln-of-30-year-bonds-tail-04bps-</link>
-      <description>[事實] 影響: US30Y/US10Y/XAUUSD/DXY | 重點: 30年期標售得標5.441%、尾差0.4bp，投標倍數2.36低於均值、交易商承接11.39%偏高，長端需求偏弱（強弱評價各來源不一） | 發布: Newsquawk 2026-11-13 02:22 (Asia/Taipei) | 抓取: 2026-11-13 04:25 (Asia/Taipei)</description>
-      <pubDate>Fri, 13 Nov 2026 02:22:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611130222-us-30y-auction-5441</guid>
     </item>
   </channel>
 </rss>
