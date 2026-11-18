@@ -5,7 +5,28 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 18 Nov 2026 16:25:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 20:25:00 +0800</lastBuildDate>
+    <item>
+      <title>Gold evening snapshot (exa gold minute price, minute starting 20:20 Taipei Nov 18): XAUUSD 3,771.29, -91.67 / -2.37% vs that source's prior close 3,862.96; small bounce from ~3,762 at 16:20. Earlier European spot 3,771.54 at 08:30 CET = 15:30 Taipei (Goldreporter), silver 45.93. Next catalysts: US housing starts 21:30, FOMC minutes Thu 03:00 Taipei</title>
+      <link>https://exa.ai/library/markets/commodity/gold</link>
+      <description>[事實] 影響: XAUUSD/XAGUSD | 重點: 台北20:20金價約3,771、日跌約2.4%，較16:20低點3,762小幅回升；市場等待21:30美國新屋開工與週四03:00 FOMC紀要 | 發布: exa 2026-11-18 20:20 (Asia/Taipei) | 抓取: 2026-11-18 20:25 (Asia/Taipei)</description>
+      <pubDate>Wed, 18 Nov 2026 20:20:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611182020-gold-3771</guid>
+    </item>
+    <item>
+      <title>Eurozone Oct HICP final (Eurostat, 18:00 Taipei Nov 18): headline 4.0% y/y confirmed (Sep 3.8%, year earlier 2.1%), +0.5% m/m; core (ex energy, food, alcohol, tobacco) 2.6% y/y, revised up from 2.5% flash; energy 21.0% (flash 20.8%); services 3.3%. Italy 5.6%, France 3.7%, Germany 2.9% (ActionForex summary, 19:20 Taipei)</title>
+      <link>https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-18112026-ap</link>
+      <description>[事實] 影響: EURUSD/EURGBP/EURJPY | 重點: 歐元區10月HICP終值確認4.0%，核心上修至2.6%(初值2.5%)、能源21.0%，基本通膨壓力略強於初值 | 發布: Eurostat 2026-11-18 18:00 (Asia/Taipei) | 抓取: 2026-11-18 20:25 (Asia/Taipei)</description>
+      <pubDate>Wed, 18 Nov 2026 18:00:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611181800-ez-hicp-final-oct</guid>
+    </item>
+    <item>
+      <title>ECB Financial Stability Review Nov 2026 (published Nov 18): risks from AI valuations (ambitious earnings expectations leave markets vulnerable to abrupt adjustments), fiscal imbalances in major advanced economies could trigger global repricing of sovereign risk, geoeconomic tensions; VP Vujcic: risks remain elevated, banks well placed, non-banks more vulnerable. Exact release time UNKNOWN</title>
+      <link>https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html</link>
+      <description>[事實] 影響: EURUSD/美債殖利率/XAUUSD | 重點: ECB金融穩定報告警告AI估值可能急速修正、主要經濟體財政失衡恐引發主權風險重新定價 | 發布: ECB 2026-11-18 (時刻UNKNOWN) | 抓取: 2026-11-18 20:25 (Asia/Taipei)</description>
+      <pubDate>Wed, 18 Nov 2026 17:00:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611181700-ecb-fsr-nov</guid>
+    </item>
     <item>
       <title>Gold extends slide (exa gold minute price, minute starting 16:20 Taipei Nov 18): XAUUSD 3,761.93, -101.03 / -2.62% vs that source's previous close 3,862.96 (other sources show prior close ~3,849-3,850, so % change differs by source). Price now inside/below the Reuters technical target zone 3,745-3,776 cited earlier; X trending summary attributes the drop to 19-month-high USD, ~5% Treasury yields and Fed hike bets</title>
       <link>https://exa.ai/library/markets/commodity/gold</link>
@@ -194,27 +215,6 @@
       <description>[事實] 影響: XAUUSD/DXY/USDJPY/EURUSD/AUDUSD | 重點: 金價回吐PPI後漲幅至約3878，DXY升至103.35本波高點，USDJPY盤中再破160至160.19，2年債殖利率回落 | 發布: TradingView 報價 2026-11-14 00:20 (Asia/Taipei) | 抓取: 2026-11-14 00:25 (Asia/Taipei)</description>
       <pubDate>Sat, 14 Nov 2026 00:20:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611140020-us-session-snapshot</guid>
-    </item>
-    <item>
-      <title>Reuters (Sherin Sans, 23:13 Taipei Nov 13): spot gold +0.6% at $3,898.84 as of 9:50am ET after a post-PPI session high $3,922.97; Dec futures +0.5% at $3,903.00; down &gt;4% this week, on track for worst week since early June. CME FedWatch per Reuters: 89.4% chance of 25bp Dec hike (96.2% before PPI), 50bp 10.6% (13.8% before PPI). Tai Wong (independent analyst, opinion): gold struggling to hold PPI gains, core 0.3% m/m still too high for policymakers, may struggle to retake $4,000. Note: Reuters' pre-PPI pair (96.2% + 13.8%) sums &gt;100%, so the 'before' snapshot is likely from different times; treat as approximate</title>
-      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46U0NA:0-rate-hike-bets-keep-gold-on-track-for-its-worst-week-in-four-months/</link>
-      <description>[事實] 影響: XAUUSD/US02Y/DXY | 重點: Reuters稱PPI後12月升息2碼機率由13.8%降至10.6%，金價本週累跌逾4%、恐創6月初以來最差單週；分析師觀點：難以重回4000 | 發布: Reuters 2026-11-13 23:13 (Asia/Taipei) | 抓取: 2026-11-14 00:25 (Asia/Taipei)</description>
-      <pubDate>Fri, 13 Nov 2026 23:13:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611132313-reuters-gold-fedwatch-post-ppi</guid>
-    </item>
-    <item>
-      <title>Post-PPI ~22:35 Taipei Nov 13 (TradingView): OANDA XAUUSD 3887.89 (+10.30 / +0.27%), below pre-PPI 3895 and well under resistance $3,931; COMEX GC1! 3890.1 (+0.12%); DXY 103.264 (+0.09%); EURUSD 1.10477; USDJPY 159.956; GBPUSD 1.32264; AUDUSD 0.67855 (-0.33%); US02Y 4.878% (-0.6bp), US10Y 5.162% (+2.9bp). Kitco (early US trading): spot ~$3,891.50 +0.39%, mixed PPI offered limited relief from Fed tightening expectations; FXStreet: XAU/USD pared gains to ~$3,880 after briefly topping $3,900. FinanceFeeds reference levels $3,963 / $3,800 (outlet's own view). Next week per Kitco: Empire State Mon, Oct retail sales Tue, FOMC Oct minutes Wed Nov 18</title>
-      <link>https://www.kitco.com/news/article/2026-11-13/gold-rebounds-13-month-low-ppi-complicates-fed-outlook-kitco-am-report</link>
-      <description>[事實] 影響: XAUUSD/DXY/US10Y | 重點: PPI後金價漲幅收斂至約3888（+0.27%），10年債殖利率升至5.162%、DXY 103.26；Kitco/FXStreet稱混合數據未緩解Fed緊縮預期 | 發布: TradingView 報價 22:35／Kitco 2026-11-13 (確切時間UNKNOWN, Asia/Taipei) | 抓取: 2026-11-13 22:35 (Asia/Taipei)</description>
-      <pubDate>Fri, 13 Nov 2026 22:35:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611132235-post-ppi-snapshot</guid>
-    </item>
-    <item>
-      <title>Chicago Fed Goolsbee on CNBC (Mace News headlines 21:44-21:52 Taipei Nov 13): 'the Fed has work to do; lately we have not made any progress and inflation is going the wrong way'; 'right now we're not on a path to 2% and we've got to deal with that'; pace and magnitude of rate hikes will be determined by how quickly inflation returns to 2%; overheating demand from AI buildout is compounding supply shock; services inflation incl. medical costs concerning; jobs market looks stable, maybe tightening a little; central bank has work to do to establish credibility. No explicit December size reported in these headlines</title>
-      <link>https://www.tradingview.com/news/macenews:3e8d2aef1094b:0-more-fed-s-goolsbee-the-fed-has-work-to-do-lately-we-have-not-made-any-progress-and-inflation-is-going-the-wrong-way/</link>
-      <description>[事實] 影響: XAUUSD/DXY/US02Y/EURUSD | 重點: 芝加哥Fed Goolsbee稱通膨走錯方向、目前不在回到2%的路徑上，升息步伐與幅度取決於通膨回落速度；未提12月升息幅度 | 發布: Mace News 2026-11-13 21:44 (Asia/Taipei) | 抓取: 2026-11-14 00:25 (Asia/Taipei)</description>
-      <pubDate>Fri, 13 Nov 2026 21:44:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611132144-fed-goolsbee-cnbc</guid>
     </item>
   </channel>
 </rss>
