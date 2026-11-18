@@ -5,7 +5,49 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 18 Nov 2026 08:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 12:25:00 +0800</lastBuildDate>
+    <item>
+      <title>Midday Asia ~12:25 Taipei Nov 18 (TradingView): OANDA XAUUSD 3790.33 (-58.88 / -1.53%; H 3857.61 L 3781.24); COMEX GC1! 3787.6 (-1.98%; L 3782.3); DXY 103.654 (+0.05%; H 103.711); EURUSD 1.09872; USDJPY 159.361; GBPUSD 1.31943; AUDUSD 0.67227 (-0.18%); US02Y 4.791% (-1.5bp), US10Y 5.089% (-2.0bp). Source contradiction: Reuters/OANDA cite higher yields as a driver, but in today's Asia session US yields are slightly lower while gold falls; X trending summary (12:04 Taipei) described a ~30-minute liquidation burst in gold and silver (size figures from X posts unverified)</title>
+      <link>https://www.tradingview.com/symbols/XAUUSD/</link>
+      <description>[事實] 影響: XAUUSD/DXY/USDJPY/EURUSD | 重點: 午盤金價3,790、日低3,781；DXY 103.65近19個月高；美債殖利率亞洲盤小跌，與「殖利率推升」說法矛盾 | 發布: TradingView 2026-11-18 12:25 (Asia/Taipei) | 抓取: 2026-11-18 12:25 (Asia/Taipei)</description>
+      <pubDate>Wed, 18 Nov 2026 12:25:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611181225-asia-midday</guid>
+    </item>
+    <item>
+      <title>Reuters technicals (TradingView News headline, Nov 18): 'Spot gold may extend loss into $3,745-$3,776 range'. Article body not retrievable; publication time UNKNOWN. Analyst's own view</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46Z030:0-spot-gold-may-extend-loss-into-3-745-3-776-range/</link>
+      <description>[推測] 影響: XAUUSD | 重點: Reuters技術分析標題稱現貨金可能續跌至3,745-3,776區間(分析師觀點，內文未取得) | 發布: UNKNOWN (2026-11-18) | 抓取: 2026-11-18 12:25 (Asia/Taipei)</description>
+      <pubDate>Wed, 18 Nov 2026 12:20:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611181220-reuters-tech-3745</guid>
+    </item>
+    <item>
+      <title>Dollar near 19-month high (Reuters via CNBC, 11:01 Taipei Nov 18): DXY +0.05% at 103.66 after touching 103.78 overnight, highest since April 2, 2025; EURUSD -0.12% at 1.0984; USDJPY 159.46; GBP 1.32; AUD near 10-month low. US Oct import prices +1.1% vs 0.7% expected; retail sales +0.2% in line. ANZ's Henry Russell (opinion): data warrants further Fed hikes. Timing note: this article calls the FOMC minutes a 'Thursday' release, while the Fed calendar lists Wed Nov 18 2:00pm ET (= Thu Nov 19 03:00 Taipei)</title>
+      <link>https://www.cnbc.com/2026/11/18/dollar-holds-near-19-month-high-as-data-supports-case-for-rate-hikes.html</link>
+      <description>[事實] 影響: DXY/EURUSD/USDJPY/AUDUSD | 重點: 美元指數103.66，隔夜高103.78創19個月新高；10月進口物價+1.1%高於預期0.7%；FOMC紀要台北時間週四03:00 | 發布: Reuters/CNBC 2026-11-18 11:01 (Asia/Taipei) | 抓取: 2026-11-18 12:25 (Asia/Taipei)</description>
+      <pubDate>Wed, 18 Nov 2026 11:01:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611181101-dollar-19m-high</guid>
+    </item>
+    <item>
+      <title>Gold breaks below $3,800 to lowest since Sept 2025 (Reuters via CNBC, as of 02:42 GMT = 10:42 Taipei Nov 18): spot -1.4% at $3,796.37; Dec futures -1.7% at $3,799.30; silver -2.9% at $46.01, platinum -1.3% $1,410.64, palladium -1.9% $952.04. CME FedWatch 95.7% for 25bp Dec hike / 4.3% for 50bp. OANDA's Kelvin Wong (opinion): selloff driven by sentiment and technicals, hawkish Fed reaffirmation and higher yields firming USD; KCM Trade's Tim Waterer (opinion): gold treated as a liquidity asset, positions cut to cover volatility</title>
+      <link>https://www.cnbc.com/2026/11/18/gold-slides-to-over-one-year-low-on-firm-dollar-us-rate-outlook.html</link>
+      <description>[事實] 影響: XAUUSD/XAGUSD | 重點: 現貨金跌1.4%至3,796.37美元，跌破3,800、創2025年9月以來新低；FedWatch 12月升息25bp機率95.7% | 發布: Reuters/CNBC 2026-11-18 11:21 (Asia/Taipei)，數據時點10:42 | 抓取: 2026-11-18 12:25 (Asia/Taipei)</description>
+      <pubDate>Wed, 18 Nov 2026 10:42:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611181042-gold-below-3800</guid>
+    </item>
+    <item>
+      <title>ANZ view on gold (Investing.com, 09:11 Taipei Nov 18): base case Fed 25bp hikes in Dec, Jan and Mar, cannot rule out 50bp next month; with ~80bp of tightening priced, further hikes could deepen the near-term correction; expects strategic/retail buying to build support around $3,600, with potential $4,800 in 2027 (bank's own forecast). St. Louis Fed Musalem said several more hikes likely needed before spring; spot was $3,822.03 at 00:48 GMT</title>
+      <link>https://www.investing.com/news/commodities-news/gold-falls-toward-3800-as-fed-hawks-reinforce-ratehike-outlook-5034463</link>
+      <description>[推測] 影響: XAUUSD | 重點: ANZ認為續升息恐加深短線修正，預估3,600附近有買盤支撐、2027年看4,800(機構觀點，非事實) | 發布: Investing.com 2026-11-18 09:11 (Asia/Taipei) | 抓取: 2026-11-18 12:25 (Asia/Taipei)</description>
+      <pubDate>Wed, 18 Nov 2026 09:11:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611180911-anz-gold-view</guid>
+    </item>
+    <item>
+      <title>BoJ Governor Ueda (FXStreet, ~08:56 Taipei Nov 18): BoJ must assess whether underlying inflation anchors around 2%; will keep raising the policy rate in line with economic, price and financial trends. USDJPY ~159.55 early Asia. MUFG (opinion): market still prices ~85% chance of a 25bp December BoJ hike; intervention risk and BoJ normalisation constrain USDJPY above 160. Japan FinMin Katayama last week warned against one-sided, rapid moves</title>
+      <link>https://www.fxstreet.com/news/japanese-yen-softens-ahead-of-fomc-minutes-intervention-risk-in-focus-202611180056</link>
+      <description>[事實] 影響: USDJPY | 重點: 植田稱將依經濟物價情勢持續升息；市場約85%押12月日銀升息25bp(MUFG引述)，USDJPY在160下方受干預風險壓制 | 發布: FXStreet 2026-11-18 08:56 (Asia/Taipei) | 抓取: 2026-11-18 12:25 (Asia/Taipei)</description>
+      <pubDate>Wed, 18 Nov 2026 08:56:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611180856-boj-ueda</guid>
+    </item>
     <item>
       <title>Next ~24h (Taipei) from 08:30 Wed Nov 18: UK Oct CPI 15:00 (TD consensus 3.6% y/y, prior 3.5%; core 2.8%); Eurozone Oct CPI final 18:00 (4.0% y/y, core 2.5%); Anthropic IPO pricing Wed; US Oct housing starts/permits 21:30 (starts 1,240k, permits 1,378k); FOMC Oct 27-28 minutes Thu 03:00; Fed Williams Thu 03:30; Kashkari Thu 05:15; Japan Oct national CPI Thu 07:30 (TD: headline 2.5% y/y; Octa: ex-fresh food 2.3% vs 2.1% prior); Trump-Xi-Putin Shenzhen meeting Thursday. CME FedWatch ~96% for 25bp Dec hike</title>
       <link>https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-11-13/upcoming.htm</link>
@@ -173,48 +215,6 @@
       <description>[事實] 影響: XAUUSD/WTI/CAD | 重點: IEA月報稱伊朗戰爭以來首次出現供給超過需求、油市有再平衡跡象；細項數字UNKNOWN | 發布: FinancialJuice 2026-11-13 17:00 (Asia/Taipei) | 抓取: 2026-11-13 20:20 (Asia/Taipei)</description>
       <pubDate>Fri, 13 Nov 2026 17:00:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611131700-iea-omr-rebalancing</guid>
-    </item>
-    <item>
-      <title>Afternoon Asia ~16:20 Taipei Nov 13 (TradingView): OANDA XAUUSD 3898.33 (+20.74 / +0.53%; H 3923.09 L 3875.23), gave back part of midday bounce, still below Reuters-cited resistance $3,931; COMEX GC1! 3901.0 (+0.40%); DXY 103.129 (H 103.23); EURUSD 1.10649; USDJPY 159.914 (H 160.19); GBPUSD 1.3239; AUDUSD 0.67942 (-0.21%); US02Y 4.857% (-2.7bp), US10Y 5.129%; WTI CL1! 88.78. Reuters (Sukanya Mitra, 07:40 GMT / 15:40 Taipei): spot +0.6% at $3,898.27, -4.1% so far this week; Dec futures $3,902.70; CME FedWatch 89% for 25bp Dec hike / 11% for 50bp; focus on US PPI 13:30 GMT</title>
-      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46U0BQ:0-gold-rises-on-bargain-hunting-but-heads-for-weekly-decline/</link>
-      <description>[事實] 影響: XAUUSD/DXY/USDJPY/AUDUSD | 重點: 現貨金午後回落至約3898（日內高3923未破3931阻力），Reuters稱本週累跌約4.1%；DXY 103.13高位、2年債小降至4.857% | 發布: TradingView 報價 16:20／Reuters 2026-11-13 15:48 (Asia/Taipei) | 抓取: 2026-11-13 16:25 (Asia/Taipei)</description>
-      <pubDate>Fri, 13 Nov 2026 16:20:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611131620-snapshot-xau-3898</guid>
-    </item>
-    <item>
-      <title>USD/JPY breaks 160 in Asia afternoon (X posts by FinancialJuice/FirstSquawk, 13:45-14:09 Taipei Nov 13): briefly reached 160, then 160.08-160.09, highest since early September; TradingView session high 160.19, last ~159.91 at 16:20 Taipei. Reuters FX (13:47 Taipei): Japan FinMin Katayama said government will respond appropriately to FX volatility; Japan spent 15.4 trillion yen after yen hit 163.99 in late July; MUFG: risk-reward of chasing USDJPY higher less attractive near 160. Dollar set for 0.9% weekly gain, best since September. No intervention confirmed as of fetch</title>
-      <link>https://x.com/financialjuice/status/2121122714538709332</link>
-      <description>[事實] 影響: USDJPY/DXY | 重點: USDJPY下午短暫突破160（高160.19，9月初以來最高），目前約159.9；日財相僅口頭警告，截至抓取未見確認干預 | 發布: FinancialJuice/FirstSquawk 14:07／Reuters 13:47 (Asia/Taipei) | 抓取: 2026-11-13 16:25 (Asia/Taipei)</description>
-      <pubDate>Fri, 13 Nov 2026 14:07:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611131407-usdjpy-160-break</guid>
-    </item>
-    <item>
-      <title>BoJ Deputy Governor Himino (X posts by FinancialJuice/FirstSquawk, 12:38 Taipei Nov 13): no plans for additional review of the bank's ETF sales at this time. No comment on rates or FX reported in these headlines</title>
-      <link>https://x.com/FirstSquawk/status/2121100527832572136</link>
-      <description>[事實] 影響: USDJPY | 重點: 日銀副總裁氷見野表示目前無計畫再檢討ETF出售策略；未見利率或匯率相關表態 | 發布: FinancialJuice/FirstSquawk 2026-11-13 12:38 (Asia/Taipei) | 抓取: 2026-11-13 16:25 (Asia/Taipei)</description>
-      <pubDate>Fri, 13 Nov 2026 12:38:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611131238-boj-himino-etf</guid>
-    </item>
-    <item>
-      <title>Midday Asia ~12:20 Taipei Nov 13 (TradingView): OANDA XAUUSD 3909.06 (+31.47 / +0.81%; H 3923.09 L 3875.23), rebound from Thursday's 13-month low; COMEX GC1! 3921.8 (+0.94%; H 3927.2); DXY 103.183 (H 103.23); EURUSD 1.10572; USDJPY 159.936 (H 159.963); GBPUSD 1.32282; AUDUSD 0.68024; US02Y 4.867% (-1.7bp), US10Y 5.129%; WTI CL1! 88.37 (-0.42%). Reuters (Sukanya Mitra, 03:22 GMT / 11:22 Taipei): spot +1% at $3,915.31 on bargain hunting but -3.5% on the week; Dec futures $3,919.60; OANDA's Kelvin Wong: a 'positioning adjustment' after intraday momentum hit extreme oversold; a turn lower in Treasury yields would be the short-term bullish driver; focus on US PPI 13:30 GMT</title>
-      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46U03D:0-gold-rises-on-bargain-hunting-but-heads-for-weekly-decline/</link>
-      <description>[事實] 影響: XAUUSD/DXY/USDJPY | 重點: 現貨金午盤反彈約0.8%至3909（高3923），Reuters稱屬超賣後部位調整、本週仍跌約3.5%；DXY維持103.18高位、USDJPY 159.94貼近160 | 發布: TradingView 報價 12:20／Reuters 2026-11-13 11:42 (Asia/Taipei) | 抓取: 2026-11-13 12:25 (Asia/Taipei)</description>
-      <pubDate>Fri, 13 Nov 2026 12:20:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611131220-snapshot-xau-3909</guid>
-    </item>
-    <item>
-      <title>Reuters technicals (Wang Tao, 11:58 Taipei Nov 13): spot gold may end its bounce around resistance $3,931 (upper line of falling channel) and resume its fall; current move seen as wave d of a five-wave cycle from $4,148, to be followed by wave e. A break above $3,931 could open the way toward $3,999. Daily: wave (5) expected to travel far below wave (3) bottom at $3,870; bounce tentatively a second pullback toward the June 30 low $3,943. Analyst's own view</title>
-      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46U062:0-spot-gold-may-end-bounce-around-3-931/</link>
-      <description>[推測] 影響: XAUUSD | 重點: Reuters分析師Wang Tao認為反彈可能止於下降通道上緣3931後續跌，日線浪(5)看遠低於3870；若突破3931則看3999（分析師個人觀點） | 發布: Reuters 2026-11-13 11:58 (Asia/Taipei) | 抓取: 2026-11-13 12:25 (Asia/Taipei)</description>
-      <pubDate>Fri, 13 Nov 2026 11:58:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611131158-reuters-tech-3931</guid>
-    </item>
-    <item>
-      <title>Source discrepancy on 50bp December hike odds (Nov 13): Reuters FX report (09:51 Taipei) cites CME FedWatch at 14.5% for a 50bp hike; Reuters gold report (11:42 Taipei) cites 89% for 25bp / 11% for 50bp; Seeking Alpha (06:40 Taipei) said 87% for 25bp. Different snapshot times of the same tool; direction (rising 50bp odds vs last week) consistent</title>
-      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46U02T:0-dollar-near-19-month-high-on-fed-hike-bets-yen-tests-160/</link>
-      <description>[事實] 影響: XAUUSD/DXY/US02Y | 重點: 12月升息50bp機率各報導不一（Reuters外匯稿14.5%、Reuters黃金稿11%），屬FedWatch不同時間快照，方向皆為較上週上升 | 發布: Reuters 2026-11-13 09:51／11:42 (Asia/Taipei) | 抓取: 2026-11-13 12:25 (Asia/Taipei)</description>
-      <pubDate>Fri, 13 Nov 2026 11:45:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611131145-discrepancy-fedwatch-50bp</guid>
     </item>
   </channel>
 </rss>
