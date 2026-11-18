@@ -5,13 +5,27 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 19 Nov 2026 00:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 04:40:00 +0800</lastBuildDate>
     <item>
-      <title>Next 24h (Taipei): Thu Nov 19 03:00 FOMC minutes of Oct 27-28 meeting (held 3.75%-4.00%, 10-2 vote; Cook and Hammack dissented for a 25bp hike); Thu 07:30 Japan Oct CPI. Other US releases and Fed speaker times for Thu: UNKNOWN (not verified this run)</title>
-      <link>https://www.federalreserve.gov/newsevents/calendar.htm</link>
-      <description>[事實] 影響: XAUUSD/DXY/USDJPY/美債殖利率 | 重點: 未來24小時主軸是週四03:00 FOMC紀要與07:30日本CPI；其他時點UNKNOWN | 發布: 整理 2026-11-19 00:30 (Asia/Taipei) | 抓取: 2026-11-19 00:30 (Asia/Taipei)</description>
-      <pubDate>Thu, 19 Nov 2026 00:30:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611190030-next24h</guid>
+      <title>Correction + next 24h (Taipei): Japan Oct national CPI is Fri Nov 20 07:30 Taipei (23:30 GMT Nov 19), not Thu as our 00:30 item said; Reuters poll core 2.3% (prior 2.1%), TD lists headline consensus 2.5% (prior 2.1%). Thu Nov 19: 21:30 US initial jobless claims (consensus 199K Investing.com / 197K TD; prior 200K) and Philly Fed mfg (19.2; prior 20.9); 21:50 Hammack; 22:25 Vice Chair Jefferson; 23:00 US Q3 advance services report; Fri 01:30 Goolsbee; 02:00 10y TIPS reopening auction; 03:15 Barr on AI</title>
+      <link>https://www.federalreserve.gov/newsevents/2026-november.htm</link>
+      <description>[事實] 影響: XAUUSD/DXY/USDJPY/美債殖利率 | 重點: 更正日本CPI為週五07:30公布；週四21:30美初領失業金與費城Fed指數，晚間起多位Fed官員發言；初領預期值兩來源不一（199K/197K） | 發布: 整理 2026-11-19 04:40 (Asia/Taipei) | 抓取: 2026-11-19 04:40 (Asia/Taipei)</description>
+      <pubDate>Thu, 19 Nov 2026 04:40:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611190440-next24h</guid>
+    </item>
+    <item>
+      <title>Post-minutes market (Nov 18 US session): Kitco says spot gold fell to session lows after the minutes, last $3,720.20, down more than 3% on the day, below $3,800 support (exact quote time UNKNOWN). CNBC: US10Y -4bp to 5.066%, US30Y 5.412%, US02Y little changed 4.798% after earlier 4.83% (curve flattening); CME FedWatch ~95% for 25bp Dec hike, futures price solid odds of two more hikes in 2027. LPL's Roach (opinion): minutes held no major surprises, expects 25bp not 50bp in Dec, more tightening in Q1</title>
+      <link>https://www.kitco.com/news/article/2026-11-18/gold-prices-remain-under-pressure-fed-minutes-show-central-bank-committed</link>
+      <description>[事實] 影響: XAUUSD/US10Y/US02Y | 重點: 紀要後金價再探低至約3,720（日跌逾3%），長端殖利率回落、短端持平；LPL認為紀要無大意外、12月升1碼（觀點） | 發布: Kitco/CNBC 2026-11-19 約03:00後，確切時間UNKNOWN (Asia/Taipei) | 抓取: 2026-11-19 04:40 (Asia/Taipei)</description>
+      <pubDate>Thu, 19 Nov 2026 03:30:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611190330-post-minutes-gold</guid>
+    </item>
+    <item>
+      <title>FOMC minutes, Oct 27-28 meeting (released 03:00 Taipei Nov 19): 'almost all participants' judged further action to raise the fed funds target range 'would likely be appropriate'; 'some' favored a 25bp hike at that meeting and 'a couple' noted a larger increase might be needed in December; inflation pressures 'broad based', AI demand 'a material source of inflation risk' and potential financial-stability risk; vast majority saw upside inflation risks (energy, refined fuel supply). Vote 10-2 hold at 3.75%-4.00% (Cook, Hammack for +25bp)</title>
+      <link>https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm</link>
+      <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/EURUSD/USDJPY | 重點: Fed紀要顯示幾乎所有與會者認為進一步升息可能是適當的，有人提到12月或需更大幅度升息，AI被視為通膨風險來源，偏鷹 | 發布: Fed 2026-11-19 03:00 (Asia/Taipei) | 抓取: 2026-11-19 04:40 (Asia/Taipei)</description>
+      <pubDate>Thu, 19 Nov 2026 03:00:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611190300-fomc-minutes</guid>
     </item>
     <item>
       <title>Gold fresh 14-month low (Nov 18-19): exa gold minute price for minute starting 00:22 Taipei Nov 19: XAUUSD 3,741.02, -121.94 / -3.16% vs that source's prior close 3,862.96. BullionVault (23:50 Taipei): London PM fix beneath $3,768, lowest benchmark since late Sept 2025; silver near $45 (London midday fix ~$45.90, lowest since Sept 26 2025); platinum low $1,363, palladium $944</title>
@@ -201,20 +215,6 @@
       <description>[事實] 影響: XAUUSD/DXY/US10Y | 重點: 數據後金價約3848-3853貼近20日低點3835，DXY升至103.78新高；Kitco與FXPremiere對美元/殖利率方向說法矛盾 | 發布: FXPremiere/Kitco 2026-11-17 22:05 (Asia/Taipei) | 抓取: 2026-11-17 22:40 (Asia/Taipei)</description>
       <pubDate>Tue, 17 Nov 2026 22:05:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611172205-post-retail-sales-reaction</guid>
-    </item>
-    <item>
-      <title>US Census advance retail sales, October (released 8:30am ET = 21:30 Taipei Nov 17): +0.2% m/m to $748.2B (Reuters poll +0.2%; Sept unrevised +0.8%); 90% confidence interval includes zero. +6.8% y/y. Ex-autos +0.6% (consensus +0.4%); ex-autos &amp; gas +0.5%; control group (ex autos, gas, building materials, food services) +0.6% vs +0.4% expected, Sept revised up to +0.5% (Reuters). Motor vehicles -1.6%, gas stations +1.5%, nonstore +1.2%. Earlier pre-release consensus conflict (CNBC +0.6% vs ING +0.1%) resolved: headline matched Reuters poll</title>
-      <link>https://www.census.gov/retail/sales.html</link>
-      <description>[事實] 影響: DXY/XAUUSD/US02Y/EURUSD | 重點: 美國10月零售銷售+0.2%符合預期，但除汽車+0.6%與控制組+0.6%均高於預期+0.4%，內需底層仍有韌性 | 發布: US Census 2026-11-17 21:30 (Asia/Taipei) | 抓取: 2026-11-17 22:40 (Asia/Taipei)</description>
-      <pubDate>Tue, 17 Nov 2026 21:30:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611172130-us-retail-sales-oct</guid>
-    </item>
-    <item>
-      <title>Tue Nov 17 Asia/Europe: spot gold $3,869.13 at 0301 GMT (11:01 Taipei), little changed near 1-year low; Dec futures +0.5% $3,872.10 (CNBC/Reuters). DXY ~103.50 after 19-month high near 103.70 on Monday (FXStreet). US10Y 5.118% flat, US02Y 4.806% (-2bp), US30Y 5.472% (CNBC 16:23 Taipei). Stooq XAUUSD 17 Nov range 3841.43-3890.39 so far; Nov 16 range 3830.31-3902.21, close 3856.47</title>
-      <link>https://www.cnbc.com/2026/11/17/gold-hovers-near-over-one-year-low-as-firm-dollar-fed-hike-bets-weigh.html</link>
-      <description>[事實] 影響: XAUUSD/DXY/US10Y/US02Y | 重點: 金價在約3840-3890區間整理、貼近一年低點3830；DXY約103.5，10年債5.12%、2年債4.81% | 發布: CNBC 2026-11-17 11:01 / 16:23 (Asia/Taipei) | 抓取: 2026-11-17 20:40 (Asia/Taipei)</description>
-      <pubDate>Tue, 17 Nov 2026 16:23:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611171623-asia-europe-snapshot</guid>
     </item>
   </channel>
 </rss>
