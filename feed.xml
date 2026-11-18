@@ -5,13 +5,34 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 18 Nov 2026 04:35:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 08:30:00 +0800</lastBuildDate>
     <item>
-      <title>Next ~24h (Taipei) from 04:35 Wed Nov 18: NVIDIA Q3 FY27 results ~05:20; UK Oct CPI 15:00 (TD consensus 3.6% y/y, prior 3.5%; core 2.8%); Eurozone Oct CPI final 18:00 (4.0% y/y, core 2.5%); Anthropic IPO pricing Wed; US Oct housing starts/permits 21:30 (starts 1,240k, permits 1,378k); FOMC Oct 27-28 minutes Thu 03:00; Fed Williams remarks Thu 03:30; Kashkari Thu 05:15; Japan Oct CPI Thu 07:30 (consensus 2.5% y/y); Trump-Xi-Putin Shenzhen meeting Thursday</title>
+      <title>Next ~24h (Taipei) from 08:30 Wed Nov 18: UK Oct CPI 15:00 (TD consensus 3.6% y/y, prior 3.5%; core 2.8%); Eurozone Oct CPI final 18:00 (4.0% y/y, core 2.5%); Anthropic IPO pricing Wed; US Oct housing starts/permits 21:30 (starts 1,240k, permits 1,378k); FOMC Oct 27-28 minutes Thu 03:00; Fed Williams Thu 03:30; Kashkari Thu 05:15; Japan Oct national CPI Thu 07:30 (TD: headline 2.5% y/y; Octa: ex-fresh food 2.3% vs 2.1% prior); Trump-Xi-Putin Shenzhen meeting Thursday. CME FedWatch ~96% for 25bp Dec hike</title>
       <link>https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-11-13/upcoming.htm</link>
-      <description>[事實] 影響: XAUUSD/DXY/GBPUSD/EURUSD/USDJPY | 重點: 接下來NVIDIA財報(05:20)、英國CPI(15:00)、歐元區CPI(18:00)、美國新屋開工(21:30)、FOMC紀要(週四03:00)、日本CPI(週四07:30) | 發布: TD Economics 日曆 (Asia/Taipei) | 抓取: 2026-11-18 04:35 (Asia/Taipei)</description>
-      <pubDate>Wed, 18 Nov 2026 04:35:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611180435-next24h</guid>
+      <description>[事實] 影響: XAUUSD/DXY/GBPUSD/EURUSD/USDJPY | 重點: 英國CPI(15:00)、歐元區CPI終值(18:00)、美國新屋開工(21:30)、FOMC紀要(週四03:00)、日本CPI(週四07:30) | 發布: TD Economics/Octa 日曆 (Asia/Taipei) | 抓取: 2026-11-18 08:30 (Asia/Taipei)</description>
+      <pubDate>Wed, 18 Nov 2026 08:30:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611180830-next24h</guid>
+    </item>
+    <item>
+      <title>Asia morning Nov 18: spot gold ~$3,854 early (fx678 07:34 Taipei), prior session close $3,849.42 (-0.17%); XAUUSD Asia range 3,843.59-3,857.40 as of 08:02 Taipei (ICC Terminal); minute price ~3,840.22 at 08:19 Taipei (exa). USDJPY rose from ~159.30 to 159.56-159.57 in Tokyo, capped below Tuesday high 159.61 on intervention caution; EURUSD fell to 1.0984-1.0988 (DZH/Fisco, ~08:05-08:11 Taipei). Opinion (CMS Prime's Bennett): 10Y ~5.14% and 19-month-high dollar weigh on gold; FOMC minutes showing division could trigger relief rally</title>
+      <link>https://gold.fx678.com/content/202611180528482466</link>
+      <description>[事實] 影響: XAUUSD/USDJPY/EURUSD | 重點: 亞洲早盤金價在3840-3857窄幅偏弱、仍貼近一年低點；美元/日圓升至159.57但未破159.61，歐元/美元跌破1.10至1.0984；觀點：FOMC紀要若顯示分歧可能帶動金價反彈 | 發布: 匯通網/ザイFX 2026-11-18 08:11 (Asia/Taipei) | 抓取: 2026-11-18 08:30 (Asia/Taipei)</description>
+      <pubDate>Wed, 18 Nov 2026 08:11:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611180811-asia-am</guid>
+    </item>
+    <item>
+      <title>Japan Oct trade (MOF, 07:50 Taipei Nov 18): deficit JPY 476.5B vs Reuters median JPY 956.0B deficit (prior 556.5B), 6th straight monthly deficit; exports +20.5% y/y (est. 20%, chip equipment +49.7%, to US +23.9%, to China +13.3%); imports +21.6% (est. 25.8%), petroleum imports +60.5%</title>
+      <link>https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html</link>
+      <description>[事實] 影響: USDJPY/EURJPY | 重點: 日本10月貿易逆差4765億日圓，小於預期9560億；出口+20.5%略優於預期，進口+21.6%遠低於預期 | 發布: 日本財務省/CNBC 2026-11-18 07:50 (Asia/Taipei) | 抓取: 2026-11-18 08:30 (Asia/Taipei)</description>
+      <pubDate>Wed, 18 Nov 2026 07:50:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611180750-japan-trade-oct</guid>
+    </item>
+    <item>
+      <title>NVIDIA Q3 FY27 (reported after US close Nov 17, ~05:20 Taipei): revenue $115.8B (+103% y/y) vs LSEG est. $109.1B; adj. EPS $2.68 vs $2.48 est.; Data Center $107.6B; Q4 guide $130B +/-3% vs ~$125B est.; FY28 growth outlook raised to ~75% from 70%. NVDA +3% to +4.6% after hours (~$162.56 vs $155.46 close). First report since Jensen Huang resigned as CEO</title>
+      <link>https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html</link>
+      <description>[事實] 影響: XAUUSD/USDJPY/風險情緒 | 重點: NVIDIA營收1158億美元、EPS 2.68、下季指引1300億皆優於預期，盤後漲約3-4.6%，緩和AI股拋售壓力(對金價、日圓避險需求的影響UNKNOWN) | 發布: CNBC 2026-11-18 05:20 (Asia/Taipei) | 抓取: 2026-11-18 08:30 (Asia/Taipei)</description>
+      <pubDate>Wed, 18 Nov 2026 05:20:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611180520-nvda-q3</guid>
     </item>
     <item>
       <title>NY Fed Williams (FOMC voter, Axios BFD summit, Nov 17): inflation 'stubbornly high', shocks spilling into broader inflation; 'I don't think the situation calls for dramatic policy action' (downplays 50bp in Dec); current approach 'working well'; AI investment and stock wealth strengthening economy and 'will argue that we may need to raise rates more' (Axios: possibly into 2027); financial conditions still supportive of growth. St. Louis Fed Musalem (Nov 17, per Reuters via Livemint): Fed may need several hikes and should act soon</title>
@@ -194,27 +215,6 @@
       <description>[事實] 影響: XAUUSD/DXY/US02Y | 重點: 12月升息50bp機率各報導不一（Reuters外匯稿14.5%、Reuters黃金稿11%），屬FedWatch不同時間快照，方向皆為較上週上升 | 發布: Reuters 2026-11-13 09:51／11:42 (Asia/Taipei) | 抓取: 2026-11-13 12:25 (Asia/Taipei)</description>
       <pubDate>Fri, 13 Nov 2026 11:45:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611131145-discrepancy-fedwatch-50bp</guid>
-    </item>
-    <item>
-      <title>Reuters FX (09:51 Taipei Nov 13): dollar near 19-month high, DXY 103.17 (highest since Apr 2025); US 2-year yields +34bp over two sessions, sharpest two-day rise in 3-1/2 years; EURUSD 1.1049 near lowest since Apr 2025, -0.8% on the week; USDJPY 159.875 near lowest yen since early Sep; Japan FinMin Satsuki Katayama said the government will respond appropriately to FX volatility after yen briefly hit 160 Thursday; AUD worst G10 performer over past month (~-2.5%). CME FedWatch: 14.5% chance of 50bp Dec hike (0% last week). CBA's Carol Kong: further equity selloff could weigh on USD, but more Fed support for 50bp next week would add upside</title>
-      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46U02T:0-dollar-near-19-month-high-on-fed-hike-bets-yen-tests-160/</link>
-      <description>[事實] 影響: USDJPY/DXY/EURUSD/AUDUSD/XAUUSD | 重點: 美元守19個月高點，2年期美債兩日升34bp為3年半最大；日財相片山稱將適當因應匯率波動（口頭干預警告），USDJPY約159.9逼近160 | 發布: Reuters 2026-11-13 09:51 (Asia/Taipei) | 抓取: 2026-11-13 12:25 (Asia/Taipei)</description>
-      <pubDate>Fri, 13 Nov 2026 09:51:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611130951-reuters-fx-yen-160-katayama</guid>
-    </item>
-    <item>
-      <title>Asia open ~08:20 Taipei Nov 13 (TradingView): OANDA XAUUSD 3887.01 (+0.24%; session H 3889.77 L 3875.23), small bounce after Thursday's ~-2.6% drop; COMEX GC1! 3890.8 (+0.14%); DXY 103.17 (H 103.242, near 19-month high); EURUSD 1.10488 (L 1.10474, lowest since Apr 2025 per CNBC); USDJPY 159.831 (just below 160); GBPUSD 1.3229; AUDUSD 0.68028; US02Y 4.872%, US10Y 5.125%; WTI CL1! 88.66</title>
-      <link>https://www.tradingview.com/symbols/XAUUSD/</link>
-      <description>[事實] 影響: XAUUSD/DXY/EURUSD/USDJPY | 重點: 亞洲早盤現貨金約3887小幅反彈，DXY維持103.17高位、EURUSD 1.1049續探低、USDJPY貼近160，10年期美債5.125% | 發布: TradingView 報價 2026-11-13 08:20 (Asia/Taipei) | 抓取: 2026-11-13 08:25 (Asia/Taipei)</description>
-      <pubDate>Fri, 13 Nov 2026 08:20:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611130820-snapshot-xau-3887</guid>
-    </item>
-    <item>
-      <title>NY Fed Williams at UC Berkeley alumni panel (X posts by FinancialJuice/FirstSquawk, 07:58-08:12 Taipei Nov 13): inflation 'remains stubbornly persistent and elevated'; Fed 'still has work to do to reach right monetary policy stance' and 'will have to act over time to bring inflation back to 2%'; has maintained consistent pace of gathering data; policy targets inflation, not price levels, since pushing overall prices lower risks economic disruptions. No explicit view on December size (25bp vs 50bp) reported in these headlines</title>
-      <link>https://x.com/financialjuice/status/2121029786915225874</link>
-      <description>[事實] 影響: XAUUSD/DXY/US02Y/USDJPY | 重點: 紐約Fed Williams稱通膨頑固偏高、Fed仍有工作要做、需隨時間行動使通膨回到2%，但目前標題未見他對12月升息25或50bp表態 | 發布: X FinancialJuice/FirstSquawk 2026-11-13 07:58-08:12 (Asia/Taipei) | 抓取: 2026-11-13 08:25 (Asia/Taipei)</description>
-      <pubDate>Fri, 13 Nov 2026 07:58:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611130758-fed-williams-berkeley-panel</guid>
     </item>
   </channel>
 </rss>
