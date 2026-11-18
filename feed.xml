@@ -5,7 +5,28 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 18 Nov 2026 20:25:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 22:40:00 +0800</lastBuildDate>
+    <item>
+      <title>Next 24h (Taipei): Thu Nov 19 03:00 FOMC minutes of Oct 27-28 meeting (market tests pricing of ~3 more hikes through mid-2027, per Bybit's Han Tan, opinion); Thu 07:30 Japan Oct CPI. Other US releases and Fed speaker times for Thu: UNKNOWN (not verified this run)</title>
+      <link>https://www.federalreserve.gov/newsevents/calendar.htm</link>
+      <description>[事實] 影響: XAUUSD/DXY/USDJPY/美債殖利率 | 重點: 未來24小時主軸是週四03:00 FOMC紀要與07:30日本CPI；其他時點UNKNOWN | 發布: 整理 2026-11-18 22:40 (Asia/Taipei) | 抓取: 2026-11-18 22:40 (Asia/Taipei)</description>
+      <pubDate>Wed, 18 Nov 2026 22:40:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611182240-next24h</guid>
+    </item>
+    <item>
+      <title>Gold US-session snapshot (Nov 18): Kitco, minutes after the 21:30 Taipei housing data, spot $3,775.74 (-1.90%), off session lows (Kitco article time UNKNOWN); exa gold minute price for minute starting 22:34 Taipei: 3,770.49 (-2.39% vs that source's prior close 3,862.96). Reuters via CNBC: session low $3,757, lowest since Sept 2025; CME FedWatch 97.8% for 25bp Dec hike / ~2.2% for 50bp. FOMC minutes of Oct 27-28 meeting (held 3.75%-4.00%, 10-2 vote, Cook and Hammack dissented for a hike) due 03:00 Taipei Thu</title>
+      <link>https://www.cnbc.com/2026/11/18/gold-slides-to-over-one-year-low-on-firm-dollar-us-rate-outlook.html</link>
+      <description>[事實] 影響: XAUUSD/XAGUSD/DXY | 重點: 新屋開工公布後金價自日低3,757小幅回升至約3,770-3,776，仍日跌約2%，市場等週四03:00 FOMC紀要 | 發布: exa 2026-11-18 22:34 (Asia/Taipei)；Kitco時刻UNKNOWN | 抓取: 2026-11-18 22:40 (Asia/Taipei)</description>
+      <pubDate>Wed, 18 Nov 2026 22:34:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611182234-gold-post-housing</guid>
+    </item>
+    <item>
+      <title>US Oct housing starts (Census/HUD, 21:30 Taipei Nov 18): 1.309M SAAR, +9.9% m/m (Sep revised 1.191M), above 1.25M consensus (Bloomberg/AA); single-family 864K (+4.0%), 5+ units 433K. Building permits 1.295M, -7.4% m/m, below 1.38M consensus; completions 1.272M. Census notes both starts changes are within margins of error</title>
+      <link>https://www.census.gov/construction/nrc/pdf/newresconst_202610.pdf</link>
+      <description>[事實] 影響: XAUUSD/DXY/美債殖利率 | 重點: 美國10月新屋開工1.309M優於預期1.25M（主要靠多戶住宅），但營建許可1.295M低於預期1.38M，數據好壞參半 | 發布: Census 2026-11-18 21:30 (Asia/Taipei) | 抓取: 2026-11-18 22:40 (Asia/Taipei)</description>
+      <pubDate>Wed, 18 Nov 2026 21:30:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611182130-us-housing-starts-oct</guid>
+    </item>
     <item>
       <title>Gold evening snapshot (exa gold minute price, minute starting 20:20 Taipei Nov 18): XAUUSD 3,771.29, -91.67 / -2.37% vs that source's prior close 3,862.96; small bounce from ~3,762 at 16:20. Earlier European spot 3,771.54 at 08:30 CET = 15:30 Taipei (Goldreporter), silver 45.93. Next catalysts: US housing starts 21:30, FOMC minutes Thu 03:00 Taipei</title>
       <link>https://exa.ai/library/markets/commodity/gold</link>
@@ -89,13 +110,6 @@
       <description>[事實] 影響: USDJPY | 重點: 植田稱將依經濟物價情勢持續升息；市場約85%押12月日銀升息25bp(MUFG引述)，USDJPY在160下方受干預風險壓制 | 發布: FXStreet 2026-11-18 08:56 (Asia/Taipei) | 抓取: 2026-11-18 12:25 (Asia/Taipei)</description>
       <pubDate>Wed, 18 Nov 2026 08:56:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611180856-boj-ueda</guid>
-    </item>
-    <item>
-      <title>Next ~24h (Taipei) from 08:30 Wed Nov 18: UK Oct CPI 15:00 (TD consensus 3.6% y/y, prior 3.5%; core 2.8%); Eurozone Oct CPI final 18:00 (4.0% y/y, core 2.5%); Anthropic IPO pricing Wed; US Oct housing starts/permits 21:30 (starts 1,240k, permits 1,378k); FOMC Oct 27-28 minutes Thu 03:00; Fed Williams Thu 03:30; Kashkari Thu 05:15; Japan Oct national CPI Thu 07:30 (TD: headline 2.5% y/y; Octa: ex-fresh food 2.3% vs 2.1% prior); Trump-Xi-Putin Shenzhen meeting Thursday. CME FedWatch ~96% for 25bp Dec hike</title>
-      <link>https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-11-13/upcoming.htm</link>
-      <description>[事實] 影響: XAUUSD/DXY/GBPUSD/EURUSD/USDJPY | 重點: 英國CPI(15:00)、歐元區CPI終值(18:00)、美國新屋開工(21:30)、FOMC紀要(週四03:00)、日本CPI(週四07:30) | 發布: TD Economics/Octa 日曆 (Asia/Taipei) | 抓取: 2026-11-18 08:30 (Asia/Taipei)</description>
-      <pubDate>Wed, 18 Nov 2026 08:30:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611180830-next24h</guid>
     </item>
     <item>
       <title>Asia morning Nov 18: spot gold ~$3,854 early (fx678 07:34 Taipei), prior session close $3,849.42 (-0.17%); XAUUSD Asia range 3,843.59-3,857.40 as of 08:02 Taipei (ICC Terminal); minute price ~3,840.22 at 08:19 Taipei (exa). USDJPY rose from ~159.30 to 159.56-159.57 in Tokyo, capped below Tuesday high 159.61 on intervention caution; EURUSD fell to 1.0984-1.0988 (DZH/Fisco, ~08:05-08:11 Taipei). Opinion (CMS Prime's Bennett): 10Y ~5.14% and 19-month-high dollar weigh on gold; FOMC minutes showing division could trigger relief rally</title>
@@ -201,20 +215,6 @@
       <description>[事實] 影響: XAUUSD | 重點: 金價週一觸及3830.74、創2025年10月以來新低，較1月高點5594.82跌31.5% | 發布: Reuters 2026-11-17 02:45 (Asia/Taipei) | 抓取: 2026-11-17 20:40 (Asia/Taipei)</description>
       <pubDate>Tue, 17 Nov 2026 02:45:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611170245-gold-1yr-low</guid>
-    </item>
-    <item>
-      <title>Japan Q3 GDP prelim (Cabinet Office, released 07:50 Taipei Nov 16): q/q 0.0% (consensus 0.1%, prior 0.4%); annualized -0.1% (Reuters poll +0.3%, prior +1.4%). Net exports cut 0.6pp (energy import costs). LSEG: 75.6% chance of BoJ 25bp hike in December. USDJPY ~159.5-159.8 after release. Opinions split: State Street says 'hardly a green light' for Dec hike; Capital Economics and Commerzbank still expect a Dec hike</title>
-      <link>https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html</link>
-      <description>[事實] 影響: USDJPY/EURJPY | 重點: 日本Q3 GDP年化-0.1%遜於預期+0.3%，LSEG顯示12月BoJ升息機率75.6%，分析師對12月升息看法分歧 | 發布: CNBC 2026-11-16 07:57 (Asia/Taipei) | 抓取: 2026-11-17 20:40 (Asia/Taipei)</description>
-      <pubDate>Mon, 16 Nov 2026 07:57:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611160750-japan-q3-gdp</guid>
-    </item>
-    <item>
-      <title>US session ~00:20 Taipei Nov 14 (TradingView): OANDA XAUUSD 3878.37 (+0.78 / +0.02%; H 3923.09 L 3867.67), gave back post-PPI gains; COMEX GC1! 3881.6 (-0.10%; L 3871.1); DXY 103.35 (+0.17%; H 103.381, new high of this move); EURUSD 1.10319 (-0.21%; L 1.10257); USDJPY 159.90 (H 160.19, briefly above 160 again); GBPUSD 1.32181; AUDUSD 0.67771 (-0.45%); US02Y 4.850% (-3.4bp), US10Y 5.133% (unch; H 5.172); WTI CL1! 88.92 (+0.20%). Dow Jones headline (00:00 Taipei): 'Gold little changed with focus on yields, geopolitical tension'</title>
-      <link>https://www.tradingview.com/symbols/XAUUSD/</link>
-      <description>[事實] 影響: XAUUSD/DXY/USDJPY/EURUSD/AUDUSD | 重點: 金價回吐PPI後漲幅至約3878，DXY升至103.35本波高點，USDJPY盤中再破160至160.19，2年債殖利率回落 | 發布: TradingView 報價 2026-11-14 00:20 (Asia/Taipei) | 抓取: 2026-11-14 00:25 (Asia/Taipei)</description>
-      <pubDate>Sat, 14 Nov 2026 00:20:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611140020-us-session-snapshot</guid>
     </item>
   </channel>
 </rss>
