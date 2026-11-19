@@ -5,7 +5,28 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 19 Nov 2026 12:20:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 16:30:00 +0800</lastBuildDate>
+    <item>
+      <title>Next 24h US calendar (Taipei time): Thu 21:30 initial jobless claims w/e Nov 14 (consensus 197K per TD, 198K per Investing; prior 200K), continuing claims (prior 1,697K) and Philly Fed Nov (prior 20.9; consensus 20.6 per Investing vs 17 per TradingCharts = SOURCE CONFLICT); 21:50 Cleveland Fed Hammack opening remarks; 23:00 Conference Board LEI Oct (prior 0.0%). Fri 01:30 Chicago Fed Goolsbee; 03:15 Fed Vice Chair for Supervision Barr on AI; 05:00 Richmond Fed Barkin; 07:30 Philadelphia Fed Paulson; 07:30 Japan Oct national CPI; 21:25 Waller welcoming remarks; 21:30 Canada Sep retail sales. Sat 01:15 Fed Governor Cook on US economy. Times converted from ET (EST, UTC-5)</title>
+      <link>https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-11-13/upcoming.htm</link>
+      <description>[事實] 影響: XAUUSD/DXY/USDJPY/USDCAD | 重點: 今晚21:30美國初領失業金（預期約197-198K）與費城聯儲指數（預期20.6或17，來源不一），之後Hammack、Goolsbee、Barr、Barkin、Paulson等Fed官員密集發言，週五07:30日本CPI | 發布: TD Economics 11/13 行事曆、Investing 11/19 | 抓取: 2026-11-19 16:30 (Asia/Taipei)</description>
+      <pubDate>Thu, 19 Nov 2026 16:25:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611191625-next24h</guid>
+    </item>
+    <item>
+      <title>Afternoon snapshot Nov 19: exa gold minute price XAUUSD $3,735.46 for minute starting 16:24 Taipei (08:24 GMT). Investing.com daily row for Nov 19: open 3,741.12, high 3,758.44, low 3,693.46, +0.27% vs Nov 18 close 3,723.60. SOURCE CONFLICT: exa labels the move -2.97% 'today' against a prior close of 3,849.98 (the Nov 17 close), so its daily % is not comparable. USDJPY 159.76 at 16:22 Taipei (exa, +0.26% vs 159.35), edging toward 160. JGB 10Y 2.840% (-3bp, Minkabu 11:39 Taipei); US 10Y 5.06% after -4bp overnight (Westpac/CNBC). Futures imply year-end fed funds 4.16% with further hikes fully priced for Mar and Jun 2027 (Westpac, opinion of pricing)</title>
+      <link>https://exa.ai/library/markets/commodity/gold</link>
+      <description>[事實] 影響: XAUUSD/USDJPY/US10Y | 重點: 金價16:24約3,735，日內區間約3,693-3,758（Investing）；美元兌日圓升至約159.76逼近160；exa的-2.97%是對11/17收盤計算，與Investing+0.27%不可直接比 | 發布: exa 2026-11-19 16:24、Investing 11/19 (Asia/Taipei) | 抓取: 2026-11-19 16:30 (Asia/Taipei)</description>
+      <pubDate>Thu, 19 Nov 2026 16:24:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611191624-afternoon-snapshot</guid>
+    </item>
+    <item>
+      <title>Shenzhen summit update (Nov 19): Trump-Putin bilateral lasted 35-40 min, Ukraine the main topic, 'no major statements' (Kremlin aide Ushakov via BBC, 06:51 GMT = 14:51 Taipei). Trump-Xi bilateral ended 06:39 GMT (14:39 Taipei, CCTV via BBC): Trump said US and China both want energy flowing through the Strait of Hormuz, Iran must not get a nuclear weapon, and both want the Ukraine war to end; Xi called ties 'overall stable' and 'improving'. Trilateral heavily delayed from 14:30 schedule: Putin arrived at Kylin Villa 08:12 GMT (16:12 Taipei), talks expected shortly; Kremlin set aside at most 1 hour; joint statement UNKNOWN. Taiwan MND: two Russian Tu-95 entered Taiwan ADIZ today (BBC 08:19 GMT). SOURCE CONFLICT on timing: our 12:18 item cited BBC saying Trump-Xi talks were about to begin ~12:17 Taipei; later BBC/CCTV timeline puts the Xi bilateral ending 14:39 Taipei and a working lunch still underway after 15:30</title>
+      <link>https://www.bbc.com/news/live/cmlye926e2eet</link>
+      <description>[事實] 影響: XAUUSD/USDCNH/AUDUSD/原油 | 重點: 川普與普丁、習近平雙邊會已結束，川普稱美中都希望荷莫茲海峽能源暢通、伊朗不得擁核、俄烏戰爭結束；三方會談延後，普丁16:12才抵達會場，尚無結果，聯合聲明UNKNOWN | 發布: BBC 2026-11-19 14:39-16:19 (Asia/Taipei) | 抓取: 2026-11-19 16:30 (Asia/Taipei)</description>
+      <pubDate>Thu, 19 Nov 2026 16:19:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611191619-summit-bilaterals</guid>
+    </item>
     <item>
       <title>Shenzhen summit timing update: BBC live (04:17 GMT = 12:17 Taipei) says Xi and Trump about to begin their one-on-one (Newsquawk schedule: bilateral and working lunch 12:45 local, trilateral with Putin 14:30 local = Taipei); a separate Trump-Putin bilateral confirmed by a US official (Axios/BBC), time UNKNOWN. Same day, Witkoff and Kushner meet Ukrainian and European officials in Berlin on security guarantees (Axios). Kremlin aide Ushakov: joint communique under negotiation, otherwise separate leader assessments. US-China trade truce expires in January (BBC). No outcomes yet = UNKNOWN; readouts expected Thursday afternoon/evening Taipei</title>
       <link>https://www.axios.com/2026/11/18/trump-putin-china-meeting-ukraine</link>
@@ -19,6 +40,13 @@
       <description>[事實] 影響: XAUUSD/DXY | 重點: 金價亞洲早盤從14個月低點反彈至約3,755後回落，12:17約3,726；分析師視為空頭獲利了結（觀點），12月升息2碼機率約10%；前低是否跌破3,700來源不一 | 發布: Investing 09:18、CNBC 10:40、exa 12:17 2026-11-19 (Asia/Taipei) | 抓取: 2026-11-19 12:20 (Asia/Taipei)</description>
       <pubDate>Thu, 19 Nov 2026 12:17:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611191217-gold-asia-fade</guid>
+    </item>
+    <item>
+      <title>IMF Managing Director Georgieva at APEC Shenzhen (Nov 19): energy supply shocks and AI demand are accelerating global inflation to 4.7%, calling for monetary policy tightening in many economies (Reuters via France 24 liveblog entry stamped 03:40; assumed Paris time = about 10:40 Taipei, exact time UNKNOWN). Adds to hawkish central bank backdrop after FOMC minutes</title>
+      <link>https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting</link>
+      <description>[事實] 影響: XAUUSD/DXY/全球利率 | 重點: IMF總裁稱能源衝擊與AI需求推升全球通膨至4.7%，多國需緊縮貨幣政策 | 發布: France 24 2026-11-19 約10:40 (Asia/Taipei，時區推定) | 抓取: 2026-11-19 16:30 (Asia/Taipei)</description>
+      <pubDate>Thu, 19 Nov 2026 10:40:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611191040-imf-georgieva</guid>
     </item>
     <item>
       <title>Australia Oct labour force (ABS, released 11:30 AEDT = 08:30 Taipei Nov 19): unemployment rate 4.9% s.a. (Sep 4.7%; consensus 4.7%), highest since Oct 2021; employment -43,500 (consensus about +25K; Sep revised -36.4K); participation 66.6% (-0.2pt); employment-to-population 63.3%; trend unemployment 4.8%. AUD/USD fell about 0.4% to 0.6691 (Investing/Reuters), lowest since January near 0.6695 (FXStreet); ASX 200 -0.9%. RBA hiked to 4.85% on Nov 4; economists (ABC) now see hold until at least Feb (opinion). SOURCE CONFLICT: ABC article cites employment-to-population 63.9% to 63.6%, ABS table shows 63.6% to 63.3%; ABS text says rate 'increased 0.1pts' while rounded figures show 4.7% to 4.9% (unrounded calc)</title>
@@ -187,34 +215,6 @@
       <description>[事實] 影響: USDJPY | 重點: 植田稱將依經濟物價情勢持續升息；市場約85%押12月日銀升息25bp(MUFG引述)，USDJPY在160下方受干預風險壓制 | 發布: FXStreet 2026-11-18 08:56 (Asia/Taipei) | 抓取: 2026-11-18 12:25 (Asia/Taipei)</description>
       <pubDate>Wed, 18 Nov 2026 08:56:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611180856-boj-ueda</guid>
-    </item>
-    <item>
-      <title>Asia morning Nov 18: spot gold ~$3,854 early (fx678 07:34 Taipei), prior session close $3,849.42 (-0.17%); XAUUSD Asia range 3,843.59-3,857.40 as of 08:02 Taipei (ICC Terminal); minute price ~3,840.22 at 08:19 Taipei (exa). USDJPY rose from ~159.30 to 159.56-159.57 in Tokyo, capped below Tuesday high 159.61 on intervention caution; EURUSD fell to 1.0984-1.0988 (DZH/Fisco, ~08:05-08:11 Taipei). Opinion (CMS Prime's Bennett): 10Y ~5.14% and 19-month-high dollar weigh on gold; FOMC minutes showing division could trigger relief rally</title>
-      <link>https://gold.fx678.com/content/202611180528482466</link>
-      <description>[事實] 影響: XAUUSD/USDJPY/EURUSD | 重點: 亞洲早盤金價在3840-3857窄幅偏弱、仍貼近一年低點；美元/日圓升至159.57但未破159.61，歐元/美元跌破1.10至1.0984；觀點：FOMC紀要若顯示分歧可能帶動金價反彈 | 發布: 匯通網/ザイFX 2026-11-18 08:11 (Asia/Taipei) | 抓取: 2026-11-18 08:30 (Asia/Taipei)</description>
-      <pubDate>Wed, 18 Nov 2026 08:11:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611180811-asia-am</guid>
-    </item>
-    <item>
-      <title>Japan Oct trade (MOF, 07:50 Taipei Nov 18): deficit JPY 476.5B vs Reuters median JPY 956.0B deficit (prior 556.5B), 6th straight monthly deficit; exports +20.5% y/y (est. 20%, chip equipment +49.7%, to US +23.9%, to China +13.3%); imports +21.6% (est. 25.8%), petroleum imports +60.5%</title>
-      <link>https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html</link>
-      <description>[事實] 影響: USDJPY/EURJPY | 重點: 日本10月貿易逆差4765億日圓，小於預期9560億；出口+20.5%略優於預期，進口+21.6%遠低於預期 | 發布: 日本財務省/CNBC 2026-11-18 07:50 (Asia/Taipei) | 抓取: 2026-11-18 08:30 (Asia/Taipei)</description>
-      <pubDate>Wed, 18 Nov 2026 07:50:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611180750-japan-trade-oct</guid>
-    </item>
-    <item>
-      <title>NVIDIA Q3 FY27 (reported after US close Nov 17, ~05:20 Taipei): revenue $115.8B (+103% y/y) vs LSEG est. $109.1B; adj. EPS $2.68 vs $2.48 est.; Data Center $107.6B; Q4 guide $130B +/-3% vs ~$125B est.; FY28 growth outlook raised to ~75% from 70%. NVDA +3% to +4.6% after hours (~$162.56 vs $155.46 close). First report since Jensen Huang resigned as CEO</title>
-      <link>https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html</link>
-      <description>[事實] 影響: XAUUSD/USDJPY/風險情緒 | 重點: NVIDIA營收1158億美元、EPS 2.68、下季指引1300億皆優於預期，盤後漲約3-4.6%，緩和AI股拋售壓力(對金價、日圓避險需求的影響UNKNOWN) | 發布: CNBC 2026-11-18 05:20 (Asia/Taipei) | 抓取: 2026-11-18 08:30 (Asia/Taipei)</description>
-      <pubDate>Wed, 18 Nov 2026 05:20:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611180520-nvda-q3</guid>
-    </item>
-    <item>
-      <title>NY Fed Williams (FOMC voter, Axios BFD summit, Nov 17): inflation 'stubbornly high', shocks spilling into broader inflation; 'I don't think the situation calls for dramatic policy action' (downplays 50bp in Dec); current approach 'working well'; AI investment and stock wealth strengthening economy and 'will argue that we may need to raise rates more' (Axios: possibly into 2027); financial conditions still supportive of growth. St. Louis Fed Musalem (Nov 17, per Reuters via Livemint): Fed may need several hikes and should act soon</title>
-      <link>https://www.axios.com/2026/11/17/john-williams-new-york-fed-axios-bfd</link>
-      <description>[事實] 影響: XAUUSD/DXY/US02Y/EURUSD | 重點: Williams稱不需要「激進行動」(淡化12月升2碼)，但AI投資與經濟強勁可能需要更多次升息；Musalem稱可能需數次升息 | 發布: Investing.com/Axios 2026-11-18 03:58 (Asia/Taipei) | 抓取: 2026-11-18 04:35 (Asia/Taipei)</description>
-      <pubDate>Wed, 18 Nov 2026 03:58:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611180358-fed-williams-musalem</guid>
     </item>
   </channel>
 </rss>
