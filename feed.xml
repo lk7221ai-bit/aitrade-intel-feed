@@ -5,7 +5,21 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 19 Nov 2026 20:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 22:30:00 +0800</lastBuildDate>
+    <item>
+      <title>Market reaction to 21:30 US data (Nov 19): spot gold $3,714.73 (-0.28% d/d) after claims (Kitco, updated 13:43 GMT = 21:43 Taipei), little reaction to Philly Fed, $3,714 (-0.24%) (Kitco). Dollar slightly softer: USDJPY 159.97 -&gt; 159.93, EURUSD 1.0990 -&gt; 1.1000, GBPUSD 1.3160 -&gt; 1.3146 then 1.3153 (Zaikei/Fisco, 22:59 JST = 21:59 Taipei). Earlier: DXY ~103.65 after 19-month high 103.96 (FXStreet 13:02 GMT); CME FedWatch ~90% for +25bp in December, ~11% for +50bp (CNBC/Reuters). Gold yearly low $3,693.13 earlier Thursday (Reuters); FXStreet technical levels (opinion): support $3,700, resistance $3,800. Treasury yield reaction = UNKNOWN</title>
+      <link>https://www.kitco.com/news/article/2026-11-19/gold-price-approaches-3700oz-after-us-weekly-jobless-claims-rise-203k</link>
+      <description>[事實] 影響: XAUUSD/DXY/USDJPY/EURUSD/GBPUSD | 重點: 數據偏弱後美元小幅走軟（歐元兌美元觸1.1000），但金價未獲支撐，約3,714（-0.24%~-0.28%），仍貼近今日低點3,693；市場仍押12月升息25bp約九成；殖利率反應UNKNOWN | 發布: Kitco 2026-11-19 21:43、財經新聞 21:59 (Asia/Taipei) | 抓取: 2026-11-19 22:30 (Asia/Taipei)</description>
+      <pubDate>Thu, 19 Nov 2026 21:50:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611192150-data-reaction</guid>
+    </item>
+    <item>
+      <title>US data 21:30 Taipei (Nov 19), ACTUALS: initial jobless claims w/e Nov 14 203K (prior revised 202K from 200K; 4-wk avg 197,750), highest since early Sep per Zaikei; continuing claims w/e Nov 7 1.763M (+70K, prior 1.693M), highest since Aug. Philly Fed Nov general activity 6.3 vs 20.9 prior, lowest since May; new orders -0.4; prices paid 58.2 (+15, highest since Apr); prices received 47.0 (highest since Jun 2022); employment 11.6. SOURCE CONFLICT on consensus: claims 197K (Reuters poll) vs 198K (Zaikei); Philly Fed 20.6 (Investing), 20.0 (TradingEconomics), 20.1 (Zaikei), 17.0 (RTTNews), 23.2 (Yahoo via MLQ) - all well above actual</title>
+      <link>https://www.dol.gov/newsroom/releases</link>
+      <description>[事實] 影響: XAUUSD/DXY/EURUSD/USDJPY | 重點: 初領失業金20.3萬（預期約19.7-19.8萬、前值修正20.2萬），續領176.3萬為8月來最高；費城Fed指數驟降至6.3（前值20.9、預期17-23不等），但物價支付分項升至58.2、收取價格47.0創2022年6月來新高——活動轉弱但通膨壓力升 | 發布: 美國勞工部/費城Fed 2026-11-19 21:30 (Asia/Taipei) | 抓取: 2026-11-19 22:30 (Asia/Taipei)</description>
+      <pubDate>Thu, 19 Nov 2026 21:30:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611192130-claims-phillyfed</guid>
+    </item>
     <item>
       <title>Evening snapshot Nov 19: exa gold minute price XAUUSD about $3,719 for minute starting 20:11 Taipei (12:11 GMT), giving back the European-morning rebound. FXStreet (European session, URL stamp 08:37 GMT = 16:37 Taipei): fresh yearly low $3,693.50 earlier Thursday, rebound to about $3,740; DXY extending rally toward 104.00 on hawkish Fed narrative; 50-day EMA $4,072.78, RSI(14) near 31 (technical opinion: bearish bias, near oversold). LBMA gold AM price $3,727.35 (Nov 18 PM 3,759.35). USDJPY 159.95 at 20:14 Taipei (exa, +0.38% vs 159.35), still just under 160; Japan's Nov 13 warnings of action against one-sided moves stand, no new intervention reported (UNKNOWN). Next: 21:30 US jobless claims and Philly Fed</title>
       <link>https://www.fxstreet.com/news/gold-price-forecast-xau-usd-regains-ground-below-3-700-outlook-remains-fragile-202611190837</link>
@@ -201,20 +215,6 @@
       <description>[事實] 影響: DXY/EURUSD/USDJPY/AUDUSD | 重點: 美元指數103.66，隔夜高103.78創19個月新高；10月進口物價+1.1%高於預期0.7%；FOMC紀要台北時間週四03:00 | 發布: Reuters/CNBC 2026-11-18 11:01 (Asia/Taipei) | 抓取: 2026-11-18 12:25 (Asia/Taipei)</description>
       <pubDate>Wed, 18 Nov 2026 11:01:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611181101-dollar-19m-high</guid>
-    </item>
-    <item>
-      <title>Gold breaks below $3,800 to lowest since Sept 2025 (Reuters via CNBC, as of 02:42 GMT = 10:42 Taipei Nov 18): spot -1.4% at $3,796.37; Dec futures -1.7% at $3,799.30; silver -2.9% at $46.01, platinum -1.3% $1,410.64, palladium -1.9% $952.04. CME FedWatch 95.7% for 25bp Dec hike / 4.3% for 50bp. OANDA's Kelvin Wong (opinion): selloff driven by sentiment and technicals, hawkish Fed reaffirmation and higher yields firming USD; KCM Trade's Tim Waterer (opinion): gold treated as a liquidity asset, positions cut to cover volatility</title>
-      <link>https://www.cnbc.com/2026/11/18/gold-slides-to-over-one-year-low-on-firm-dollar-us-rate-outlook.html</link>
-      <description>[事實] 影響: XAUUSD/XAGUSD | 重點: 現貨金跌1.4%至3,796.37美元，跌破3,800、創2025年9月以來新低；FedWatch 12月升息25bp機率95.7% | 發布: Reuters/CNBC 2026-11-18 11:21 (Asia/Taipei)，數據時點10:42 | 抓取: 2026-11-18 12:25 (Asia/Taipei)</description>
-      <pubDate>Wed, 18 Nov 2026 10:42:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611181042-gold-below-3800</guid>
-    </item>
-    <item>
-      <title>ANZ view on gold (Investing.com, 09:11 Taipei Nov 18): base case Fed 25bp hikes in Dec, Jan and Mar, cannot rule out 50bp next month; with ~80bp of tightening priced, further hikes could deepen the near-term correction; expects strategic/retail buying to build support around $3,600, with potential $4,800 in 2027 (bank's own forecast). St. Louis Fed Musalem said several more hikes likely needed before spring; spot was $3,822.03 at 00:48 GMT</title>
-      <link>https://www.investing.com/news/commodities-news/gold-falls-toward-3800-as-fed-hawks-reinforce-ratehike-outlook-5034463</link>
-      <description>[推測] 影響: XAUUSD | 重點: ANZ認為續升息恐加深短線修正，預估3,600附近有買盤支撐、2027年看4,800(機構觀點，非事實) | 發布: Investing.com 2026-11-18 09:11 (Asia/Taipei) | 抓取: 2026-11-18 12:25 (Asia/Taipei)</description>
-      <pubDate>Wed, 18 Nov 2026 09:11:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611180911-anz-gold-view</guid>
     </item>
   </channel>
 </rss>
