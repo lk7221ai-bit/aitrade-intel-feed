@@ -5,7 +5,21 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 20 Nov 2026 00:25:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 04:24:00 +0800</lastBuildDate>
+    <item>
+      <title>Gold extends slide into US close (Nov 19 session): OANDA XAUUSD low 3662.08, last ~3668.27 (-56.91 / -1.53% d/d) per TradingView quote ~04:23 Taipei Nov 20; COMEX GC1! 3668.5 (-1.96%, low 3663.3). CNBC/Reuters: spot -1.24% at $3,676.27 at 1:18 pm ET (02:18 Taipei), lowest since Sep 2025; CME FedWatch 96.4% for +25bp in Dec, ~4% for +50bp. Same TradingView snapshot: DXY 103.89 (+0.07%), EURUSD 1.0974, USDJPY 159.674 (+0.21%, high 159.969), GBPUSD 1.30999 (-0.38%), AUDUSD 0.66611 (-0.77%), US02Y 4.772% (-3.2bp), US10Y 5.046% (-2.4bp). SOURCE CONTRADICTION: Treasury yields fell yet gold kept falling; explanation (dollar strength vs. liquidation tied to AI-equity selloff, per Investing/Reuters opinion) is not confirmed = UNKNOWN</title>
+      <link>https://www.cnbc.com/2026/11/19/gold-silver-metals-price-treasury.html</link>
+      <description>[事實] 影響: XAUUSD/DXY/USDJPY/AUDUSD | 重點: 美盤尾段金價續跌，OANDA最低3,662.08、現約3,668（-1.53%），再刷14個月新低；同時美債殖利率下滑（2年4.77%、10年5.05%），殖利率跌而金價仍跌的原因UNKNOWN；CME FedWatch 12月升息1碼機率96.4% | 發布: TradingView報價 2026-11-20 04:23、CNBC/Reuters 2026-11-20 02:18 (Asia/Taipei) | 抓取: 2026-11-20 04:24 (Asia/Taipei)</description>
+      <pubDate>Fri, 20 Nov 2026 04:23:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611200423-gold-us-close-low</guid>
+    </item>
+    <item>
+      <title>Fed speakers Nov 19 (US afternoon): Chicago Fed's Goolsbee (2027 voter) at Indiana forum: inflation 'way higher' than 2% goal, tariff impact more persistent than expected, job market stable, consumer demand strong; Fed's job is to keep AI-driven investment/spending from overheating the economy; less weight on monthly payrolls due to immigration changes (Reuters via Investing, 1:25 pm ET = 02:25 Taipei Nov 20). Governor Barr at FinRegLab AI Symposium: financial conditions 'quite accommodative', inflation too high, 'we're going to need to adjust monetary policy further' (Newsquawk 19:41 UTC = 03:41 Taipei). Neither gave a specific December hike size (UNKNOWN)</title>
+      <link>https://www.investing.com/news/economy-news/feds-goolsbee-says-ai-boom-risks-overheating-economy-5039734</link>
+      <description>[事實] 影響: XAUUSD/DXY/USDJPY | 重點: Fed的Goolsbee稱通膨遠高於2%、關稅影響比預期持久、要防AI投資讓經濟過熱；Barr稱金融條件相當寬鬆、貨幣政策需要進一步調整，兩人都偏鷹但未表態12月升息幅度 | 發布: Goolsbee 2026-11-20 02:25、Barr 2026-11-20 03:41 (Asia/Taipei) | 抓取: 2026-11-20 04:24 (Asia/Taipei)</description>
+      <pubDate>Fri, 20 Nov 2026 03:41:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611200341-goolsbee-barr</guid>
+    </item>
     <item>
       <title>Gold breaks to fresh 14-month low in US session (Nov 19): OANDA XAUUSD low 3669.70, last ~3678.55 (-46.6 / -1.25% d/d; high 3758.73) per TradingView quote ~00:24 Taipei Nov 20; COMEX GC1! 3680.1 (-1.65%, low 3671.0). Below the earlier Thursday low $3,693.13 (Reuters) and Kitco's 2nd support $3,678. Same snapshot: DXY 103.838 (+0.02%, high 103.974), EURUSD 1.09778, USDJPY 159.84 (+0.32%), GBPUSD 1.31145 (-0.27%), AUDUSD 0.66776 (-0.52%), US02Y 4.817% (+1.3bp), US10Y 5.072% (+0.2bp). Reuters headline 22:50 Taipei: 'Strong dollar, tighter Fed policy bets leave gold to languish at 14-month low' (body paywalled). Source contradiction: weaker claims/Philly Fed did not lift gold; yields roughly flat, so driver of this leg = UNKNOWN</title>
       <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L2N4700KU:0-strong-dollar-tighter-fed-policy-bets-leave-gold-to-languish-at-14-month-low/</link>
@@ -201,20 +215,6 @@
       <description>[事實] 影響: GBPUSD/GBPJPY/EURGBP | 重點: 英國10月CPI年增3.6%(前值3.5%)、月增0.5%，核心2.8%持平；預期值來源矛盾(FXStreet稱預期3.7%低於預期、CNBC稱符合路透調查)，公布後英鎊走弱 | 發布: ONS 2026-11-18 15:00 (Asia/Taipei) | 抓取: 2026-11-18 16:25 (Asia/Taipei)</description>
       <pubDate>Wed, 18 Nov 2026 15:00:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611181500-uk-cpi-oct</guid>
-    </item>
-    <item>
-      <title>Iran army says drones targeted US Patriot systems at Ali Al-Salem base in Kuwait (AFP via Dawn, citing IRIB, 12:35 Taipei Nov 18). Kuwait said air defences were intercepting hostile drones; neither Kuwait nor the US confirmed hits; damage/casualties UNKNOWN. Newsquawk also notes sirens in Bahrain</title>
-      <link>https://www.dawn.com/news/2045376/iran-army-says-targeted-us-military-equipment-at-kuwait-base-irib</link>
-      <description>[事實] 影響: XAUUSD/油價/USD | 重點: 伊朗軍方稱以無人機攻擊科威特美軍基地愛國者系統(此為伊方說法)，科威特稱正在攔截；損害UNKNOWN；金價同時仍下跌，避險買盤未見明顯反映 | 發布: Dawn/AFP 2026-11-18 12:35 (Asia/Taipei) | 抓取: 2026-11-18 16:25 (Asia/Taipei)</description>
-      <pubDate>Wed, 18 Nov 2026 12:35:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611181235-iran-kuwait-drones</guid>
-    </item>
-    <item>
-      <title>Midday Asia ~12:25 Taipei Nov 18 (TradingView): OANDA XAUUSD 3790.33 (-58.88 / -1.53%; H 3857.61 L 3781.24); COMEX GC1! 3787.6 (-1.98%; L 3782.3); DXY 103.654 (+0.05%; H 103.711); EURUSD 1.09872; USDJPY 159.361; GBPUSD 1.31943; AUDUSD 0.67227 (-0.18%); US02Y 4.791% (-1.5bp), US10Y 5.089% (-2.0bp). Source contradiction: Reuters/OANDA cite higher yields as a driver, but in today's Asia session US yields are slightly lower while gold falls; X trending summary (12:04 Taipei) described a ~30-minute liquidation burst in gold and silver (size figures from X posts unverified)</title>
-      <link>https://www.tradingview.com/symbols/XAUUSD/</link>
-      <description>[事實] 影響: XAUUSD/DXY/USDJPY/EURUSD | 重點: 午盤金價3,790、日低3,781；DXY 103.65近19個月高；美債殖利率亞洲盤小跌，與「殖利率推升」說法矛盾 | 發布: TradingView 2026-11-18 12:25 (Asia/Taipei) | 抓取: 2026-11-18 12:25 (Asia/Taipei)</description>
-      <pubDate>Wed, 18 Nov 2026 12:25:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611181225-asia-midday</guid>
     </item>
   </channel>
 </rss>
