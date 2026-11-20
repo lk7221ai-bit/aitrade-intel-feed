@@ -5,7 +5,14 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 20 Nov 2026 20:19:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 20:41:00 +0800</lastBuildDate>
+    <item>
+      <title>Evening snapshot update Fri Nov 20 (TradingView ~20:39 Taipei): OANDA XAUUSD 3,570.33 (-54.31 / -1.50% d/d; day high 3,636.93, low 3,514.56); 5-min bars 20:19-20:39 low ~3,568.7, i.e. spot did NOT re-break $3,550 in that window; COMEX GC1! 3,579.8 (-2.87%, low 3,514.9). Silver: COMEX SI1! 42.22 (-4.82%, low 41.02); TVC:SILVER 42.29 (-1.40%, low 41.11); exa XAGUSD 42.29 (-7.01% vs prev close 45.48, 20:39). Platinum NYMEX PL1! 1,306.4 (-3.05%), palladium PA1! 907.5 (-1.19%). DXY 103.739 (-0.18%, range 103.704-103.953, still above FXEmpire's 103.70 pivot); USDJPY 158.75 (-0.57%, low 158.71); EURUSD 1.0979, GBPUSD 1.3108, AUDUSD 0.6665, USDCAD 1.4310; US10Y 4.966% (new day low), US02Y 4.687%, US30Y 5.343%; S&amp;P e-mini 7,136.75 (-0.84%), Nasdaq e-mini 26,164.25 (-1.64%); WTI CL1! 82.24 (-0.24%); BTCUSD 61,544 (-0.57%). Earlier (merged from 20:17 item): FXStreet 19:23 Taipei gold ~$3,586, worst week since March, RSI ~25 oversold; Nikkei 225 closed -5.06% at 56,436.65. SOURCE CONTRADICTIONS: X News summary (20:17-20:32 Taipei) said gold re-broke $3,550 near $3,547 and fell &gt;3% on the day, silver fell nearly 9% below $42, platinum/palladium &gt;5% - not confirmed by quotes at 20:19-20:39 (those levels match Asia-session lows: Straits Times 15:10 SGT spot $3,552.06, silver $41.88; BusinessToday: gold futures -4.02% to $3,537, silver -6.43%); daily % changes differ by reference close (gold -1.50% OANDA vs -2.87% GC1!; silver -1.40%/-4.82%/-7.01%); silver -9% = UNKNOWN/unverified; FedWatch Dec +25bp 93.9%/97.3%/98.7%/99.3% by source</title>
+      <link>https://www.cnbc.com/2026/11/20/gold-federal-reserve-price-dollar-metals.html</link>
+      <description>[事實] 影響: XAUUSD/XAGUSD/DXY/USDJPY/US10Y | 重點: 20:39金價約3,570（日跌約1.5%），20:19後最低約3,568.7、並未再跌破3,550；白銀約42.2、日跌幅依基準不同為1.4%~7%，X稱「單日跌近9%」與「金價近3,547」未獲報價證實（應為亞洲盤低點）；美元指數103.74小跌、USDJPY 158.75、美10年債殖利率創日低4.966% | 發布: TradingView報價 2026-11-20 20:39、X News 20:17-20:32 (Asia/Taipei) | 抓取: 2026-11-20 20:41 (Asia/Taipei)</description>
+      <pubDate>Fri, 20 Nov 2026 20:39:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611202039-evening-snapshot</guid>
+    </item>
     <item>
       <title>Updated next 24h (Taipei time, from 20:18 Fri Nov 20): 21:00 Bundesbank's Nagel panel at European Banking Congress (14:00 Frankfurt); 21:25 Fed Governor Waller speech (8:25 ET; topic UNKNOWN; on Nov 18 he told CNBC a 50bp Dec hike is probably needed unless the Fed signals a January move); 21:30 Canada Sep retail sales m/m (fcst 0.7%, prior 1.2%); 23:00 US UMich Nov final sentiment (fcst 51.7, prelim 51.0) and 1y inflation expectations (prelim 4.3%), Eurozone flash consumer confidence (fcst -18); Sat 01:15 Fed Governor Cook (voted for a hike in October per ING). Next week: Wed Oct core PCE, ING sees y/y rising to 3.2% with upside risks; Mon Nov 23 flash PMIs. ING keeps 104.60 near-term DXY target (opinion). SOURCE CONTRADICTION: ING lists Waller at 10:15 CET; Fed-calendar-based sources say 8:25 ET (21:25 Taipei)</title>
       <link>https://think.ing.com/articles/fx-daily-will-closer-eu-ties-help-the-pound/</link>
@@ -14,16 +21,16 @@
       <guid isPermaLink="false">aitrade-intel-202611202018-next24h</guid>
     </item>
     <item>
-      <title>Evening snapshot Fri Nov 20 (TradingView ~20:17 Taipei): OANDA XAUUSD 3,574.47 (-50.17 / -1.38% d/d; high 3,636.93, low 3,514.56); COMEX GC1! 3,570.4 (-3.12%, low 3,514.9); DXY 103.853 (-0.07%; range 103.704-103.953); USDJPY 158.79 (-0.55%, low 158.71) - yen extends risk-off gains (Nikkei/NQN 17:00 JST: Tokyo 159.17-19, yen up 52 sen; Nikkei 225 closed below 57,000 for first time in 7 months, Boursorama/Reuters: -5.06% to 56,436.65 - resolves earlier UNKNOWN final figure); EURUSD 1.0965, GBPUSD 1.3102, AUDUSD 0.6660, USDCAD 1.4327; S&amp;P e-mini 7,138.75 (-0.81%). FXStreet (11:23 GMT = 19:23 Taipei): gold ~$3,586, off $3,514 low, still on track for worst week since March, RSI ~25 oversold, ADX &gt;30. SOURCE CONTRADICTIONS: daily change -1.38% (OANDA spot) vs -3.12% (GC1!, different reference close); FedWatch Dec +25bp 93.9% (FXEmpire, morning) vs 98.7% (CNBC 18:21) vs 99.3% (CNBC gold story)</title>
-      <link>https://www.fxstreet.com/news/gold-set-for-steepest-weekly-drop-since-march-as-fed-hike-bets-and-forced-selling-weigh-202611201123</link>
-      <description>[事實] 影響: XAUUSD/DXY/USDJPY | 重點: 20:17金價約3,574（日跌約1.4%，日內低3,514.56）仍守在3,500上方，美元指數約103.85持平，USDJPY跌破159至約158.79、避險買日圓延續；日經收跌5.06%；FedWatch 12月升息機率各來源不一（93.9%/98.7%/99.3%） | 發布: FXStreet 2026-11-20 19:23、TradingView報價 20:17 (Asia/Taipei) | 抓取: 2026-11-20 20:19 (Asia/Taipei)</description>
-      <pubDate>Fri, 20 Nov 2026 20:17:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611202017-evening-snapshot</guid>
+      <title>Dollar set for 4th weekly gain (Reuters London, via CNA; ~20:05 Taipei Fri Nov 20): DXY near 103.9, strongest since early April 2025; rally accelerated after Nov 10 hot CPI and Waller's 50bp remark. MSCI World down 7th straight session, longest losing streak since 2023. ING's Chris Turner: 'no reason for the Fed to drop its hawkish rhetoric anytime soon', next week's PCE likely to confirm Fed needs to act; for FX 'a continued strong dollar and continued pressure on popular carry trades', carry unwind slight positive for yen (opinion). CBA's Carol Kong: debate is how much, not whether, Fed hikes in Dec; still sees 25bp more likely, prefers consecutive 25bp moves over 50bp (opinion). Yen +0.6% to 158.78, set for small weekly gain after 3 weeks of losses; Japan Oct core CPI 2.2%; sterling ~$1.3105 near 1-year low; euro $1.0961. Dow Jones Market Talk headline 20:26 Taipei: 'Further AI Selloff Could Hit Dollar' - body paywalled, content UNKNOWN</title>
+      <link>https://www.channelnewsasia.com/business/dollar-set-fourth-weekly-gain-supported-fed-tightening-expectations-ai-driven-haven-bid-6567931</link>
+      <description>[事實] 影響: DXY/USDJPY/EURUSD/GBPUSD | 重點: 美元指數約103.9、連4週上漲在望，ING認為Fed不會放棄鷹派、套利交易持續受壓（觀點），日圓升0.6%至158.78；道瓊20:26標題稱「AI拋售若擴大可能打擊美元」但內文 UNKNOWN | 發布: Reuters（CNA轉載）2026-11-20 約20:05、道瓊 20:26 (Asia/Taipei) | 抓取: 2026-11-20 20:41 (Asia/Taipei)</description>
+      <pubDate>Fri, 20 Nov 2026 20:05:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611202005-dollar-4th-weekly-gain</guid>
     </item>
     <item>
-      <title>US Treasuries rally in European hours (CNBC, 5:21 AM EST = 18:21 Taipei Fri Nov 20): US10Y -6bp to 4.989% - back below 5% - US02Y -6bp 4.713%, US30Y -4bp 5.361%, as equity sell-off drives haven demand ahead of Fed Governor Waller's speech; CME FedWatch 98.7% for Dec +25bp. TradingView ~20:17 Taipei: US10Y 4.980% (day low 4.976%, high 5.044%), US02Y 4.707%. CNBC: 10Y down ~13bp on the week. Note: falling yields have NOT lifted gold much - analysts attribute gold weakness to USD strength and forced liquidation (opinion)</title>
+      <title>US Treasuries rally in European hours (CNBC, 5:21 AM EST = 18:21 Taipei Fri Nov 20): US10Y -6bp to 4.989% - back below 5% - US02Y -6bp 4.713%, US30Y -4bp 5.361%, as equity sell-off drives haven demand ahead of Fed Governor Waller's speech; CME FedWatch 98.7% for Dec +25bp. TradingView ~20:17 Taipei: US10Y 4.980% (day low 4.976%, high 5.044%), US02Y 4.707%. CNBC: 10Y down ~13bp on the week. Note: falling yields have NOT lifted gold much - analysts attribute gold weakness to USD strength and forced liquidation (opinion). UPDATE ~20:39 Taipei (TradingView): US10Y 4.966% - new day low (high 5.044%), US02Y 4.687% (low 4.683%), US30Y 5.343% - rally extends ahead of Waller 21:25 Taipei</title>
       <link>https://www.cnbc.com/2026/11/20/treasury-yields-bonds-inflation.html</link>
-      <description>[事實] 影響: XAUUSD/USDJPY/DXY/US10Y | 重點: 避險買盤推動美債走強，10年期殖利率跌回5%以下至約4.98%（日內低4.976%）、2年期約4.71%，本週累計約-13bp；但金價未明顯受惠 | 發布: CNBC 2026-11-20 18:21、TradingView 20:17 (Asia/Taipei) | 抓取: 2026-11-20 20:19 (Asia/Taipei)</description>
+      <description>[事實] 影響: XAUUSD/USDJPY/DXY/US10Y | 重點: 避險買盤推動美債續強，20:39 10年期殖利率再創日低4.966%、2年期約4.687%、30年期約5.343%，本週累計約-13bp以上；但金價未明顯受惠 | 發布: CNBC 2026-11-20 18:21、TradingView 20:39 (Asia/Taipei) | 抓取: 2026-11-20 20:41 (Asia/Taipei)</description>
       <pubDate>Fri, 20 Nov 2026 18:21:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611201821-ust-below-5pct</guid>
     </item>
@@ -47,6 +54,13 @@
       <description>[事實] 影響: EURUSD | 重點: 法國11月企業景氣指標降2點至95（長期平均100），所有產業皆下滑，就業景氣小升1點；市場預期值 UNKNOWN | 發布: INSEE 2026-11-20 15:45 (Asia/Taipei) | 抓取: 2026-11-20 20:19 (Asia/Taipei)</description>
       <pubDate>Fri, 20 Nov 2026 15:45:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611201545-france-insee-climate</guid>
+    </item>
+    <item>
+      <title>Asia close Fri Nov 20 - AI/chip selloff (final figures, merged with 11:24 interim item): Taiwan TAIEX -6.63% to 35,877.63 (Aju Press, posted 16:30 Seoul = 15:30 Taipei) vs TradingView TWSE:IX0001 36,033.29 (-6.23%) and Al Jazeera -6.2%; KOSPI -5.21% to 4,869.96 (first close below 4,900 in 10 months, -48.1% from Jun 19 peak; sidecars triggered on KOSPI 11:54 and KOSDAQ 13:28 KST; foreigners net sold 1.132tn won); KOSDAQ -5.71%; Nikkei 225 -5.06% to 56,436.65 (Aju Press says -4.77% to 56,606 - likely pre-close figure); Hang Seng -1.9%. Investing.com: MSCI Asia ex-Japan -3.6% to weakest since early April, ~-8.6% on week, worst since early 2020. Triggers cited: AI-valuation doubts despite Anthropic's Nasdaq debut, Hunterbrook report on AMD firmware in blacklisted IEIT Systems servers (no violation established; AMD says it complies), TSMC tightening rules on Chinese chip designers. Asia market-cap loss of 'over $1.1 trillion' (X News) = UNKNOWN, no primary source found</title>
+      <link>https://www.ajupress.com/view/20261120161654316</link>
+      <description>[事實] 影響: XAUUSD/USDJPY/AUDUSD/DXY | 重點: 亞股收盤重挫：台股跌6.2%~6.6%（來源不一，35,877.63 vs 36,033.29）、KOSPI跌5.21%、日經跌5.06%、恒指跌1.9%，MSCI亞太除日本週跌約8.6%為2020年以來最差；「亞股蒸發逾1.1兆美元」查無一手來源=UNKNOWN | 發布: Aju Press 2026-11-20 15:30、Al Jazeera/Investing.com 2026-11-20（時間 UNKNOWN）(Asia/Taipei) | 抓取: 2026-11-20 20:41 (Asia/Taipei)</description>
+      <pubDate>Fri, 20 Nov 2026 15:30:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611201530-asia-close</guid>
     </item>
     <item>
       <title>UK Oct public sector finances (ONS, 15:00 Taipei Fri Nov 20), ACTUALS: PSNB £17.0bn vs ~£18.0bn forecast (kinzan calendar), +£0.8bn y/y; central government debt interest £11.2bn, +33.4% y/y; FYTD borrowing £111.3bn, £7.3bn less than a year earlier (3.5% of GDP); net debt £3,058.3bn = 95.8% of GDP, highest share since early 1960s</title>
@@ -91,13 +105,6 @@
       <guid isPermaLink="false">aitrade-intel-202611201201-us-iran-strike-risk</guid>
     </item>
     <item>
-      <title>Cross-asset risk-off in Asia (Reuters, Fri Nov 20): MSCI Asia-Pacific ex-Japan -3.2% (-8.3% on week, worst since Mar 2020); Nikkei -4.1% (X news summary later says nearly -5%, final figure UNKNOWN), KOSPI -4.4%, Taiwan -5% (-16% week, worst since 1991); S&amp;P 500 futures -0.2%, Nasdaq futures -0.6%. DXY steady 103.86 near highest since Apr 2025, 4th weekly gain; US 10Y 5.02% near 1-week low, 2Y touched 4.749% vs US close 4.779%; Brent +0.4% $92.37. TradingView ~12:30 Taipei: DXY 103.80 (-0.12%), US10Y 5.016%, US02Y 4.737%, EURUSD 1.0978, GBPUSD 1.3106, AUDUSD 0.6663, JP10Y 2.804%. CME FedWatch: Dec +25bp 'essentially locked in'. Note: yields falling while gold falls - liquidation/dollar explanation is analyst opinion, not confirmed</title>
-      <link>https://www.investing.com/news/economy-news/asian-shares-head-for-worst-week-since-2020-as-ai-trade-gloom-fails-to-abate-5040496</link>
-      <description>[事實] 影響: XAUUSD/DXY/USDJPY/AUDUSD/US10Y | 重點: AI股拋售延燒亞股，台股跌5%（週跌16%）、日經跌逾4%、KOSPI跌4.4%；美元指數約103.8維持19個月高位，美債殖利率因避險回落（10年約5.02%、2年約4.74%），金價卻同步下跌 | 發布: Reuters（Investing轉載）約2026-11-20 11:24、TradingView 12:30 (Asia/Taipei) | 抓取: 2026-11-20 12:30 (Asia/Taipei)</description>
-      <pubDate>Fri, 20 Nov 2026 11:24:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611201124-asia-risk-off</guid>
-    </item>
-    <item>
       <title>PBOC November Loan Prime Rates unchanged (09:00 Taipei Fri Nov 20): 1-year LPR 3.00%, 5-year-plus 3.50%, in line with expectations, 18th straight month on hold (Investing.com). Comes after October data showed weakening momentum. Saxo: USDCNH near 6.70, yuan at one-month low</title>
       <link>https://www.chinanews.com.cn/cj/2026/11-20/10735037.shtml</link>
       <description>[事實] 影響: USDCNH/AUDUSD | 重點: 中國11月LPR維持1年期3.0%、5年期以上3.5%，符合預期，連續18個月不變 | 發布: 2026-11-20 09:00公布、中新網 09:23 (Asia/Taipei) | 抓取: 2026-11-20 12:30 (Asia/Taipei)</description>
@@ -138,6 +145,13 @@
       <description>[事實] 影響: XAUUSD/DXY/USDJPY | 重點: Fed的Goolsbee稱通膨遠高於2%、關稅影響比預期持久、要防AI投資讓經濟過熱；Barr稱金融條件相當寬鬆、貨幣政策需要進一步調整，兩人都偏鷹但未表態12月升息幅度 | 發布: Goolsbee 2026-11-20 02:25、Barr 2026-11-20 03:41 (Asia/Taipei) | 抓取: 2026-11-20 04:24 (Asia/Taipei)</description>
       <pubDate>Fri, 20 Nov 2026 03:41:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611200341-goolsbee-barr</guid>
+    </item>
+    <item>
+      <title>US Treasury 9-day cash management bill auction (Thu Nov 19, results ~18:04 UTC = 02:04 Taipei Fri Nov 20; CUSIP 912797VA2, reopening): $15.0bn sold at high discount rate 3.910% (investment rate 3.968%), median 3.880%, low 3.850%; bid-to-cover 3.97 ($59.6bn tendered); indirect 45.9% (vs 18.3% in Oct 22 10-day CMB), direct 2.0%, dealers 52.1%; issue Nov 24, maturity Dec 3. Newsquawk: CMBs bridge short-lived Treasury cash shortfalls; watch whether more CMBs follow (opinion). SOURCE CONTRADICTION: 新云社 calls it the 'first ultra-short CMB since 2008', but Treasury data compiled by Kresmion lists a 10-day CMB on Oct 22, 2026 ($25bn, 3.925%). Reason for issuance = UNKNOWN</title>
+      <link>https://kresmion.com/tools/treasury-auctions/cash-management-bills</link>
+      <description>[事實] 影響: US短券/DXY | 重點: 美財政部標售150億美元9天期現金管理券，得標利率3.910%、投標倍數3.97，11/24交割、12/3到期；發行原因 UNKNOWN，「2008年來首見」說法與10月已有10天期CMB的紀錄矛盾 | 發布: Newsquawk/Helious 2026-11-20 02:04-02:24 (Asia/Taipei) | 抓取: 2026-11-20 20:41 (Asia/Taipei)</description>
+      <pubDate>Fri, 20 Nov 2026 02:04:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611200204-us-9day-cmb</guid>
     </item>
     <item>
       <title>Gold breaks to fresh 14-month low in US session (Nov 19): OANDA XAUUSD low 3669.70, last ~3678.55 (-46.6 / -1.25% d/d; high 3758.73) per TradingView quote ~00:24 Taipei Nov 20; COMEX GC1! 3680.1 (-1.65%, low 3671.0). Below the earlier Thursday low $3,693.13 (Reuters) and Kitco's 2nd support $3,678. Same snapshot: DXY 103.838 (+0.02%, high 103.974), EURUSD 1.09778, USDJPY 159.84 (+0.32%), GBPUSD 1.31145 (-0.27%), AUDUSD 0.66776 (-0.52%), US02Y 4.817% (+1.3bp), US10Y 5.072% (+0.2bp). Reuters headline 22:50 Taipei: 'Strong dollar, tighter Fed policy bets leave gold to languish at 14-month low' (body paywalled). Source contradiction: weaker claims/Philly Fed did not lift gold; yields roughly flat, so driver of this leg = UNKNOWN</title>
@@ -201,20 +215,6 @@
       <description>[事實] 影響: XAUUSD/USDCNH/AUDUSD/原油 | 重點: 川普與普丁、習近平雙邊會已結束，川普稱美中都希望荷莫茲海峽能源暢通、伊朗不得擁核、俄烏戰爭結束；三方會談延後，普丁16:12才抵達會場，尚無結果，聯合聲明UNKNOWN | 發布: BBC 2026-11-19 14:39-16:19 (Asia/Taipei) | 抓取: 2026-11-19 16:30 (Asia/Taipei)</description>
       <pubDate>Thu, 19 Nov 2026 16:19:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611191619-summit-bilaterals</guid>
-    </item>
-    <item>
-      <title>Gold Asia session Nov 19: spot rose 0.8% to $3,754.85 at 01:18 GMT (09:18 Taipei), DXY little changed at 103.81 (Investing.com/Reuters); spot +0.6% at $3,743.26 at 02:40 GMT (10:40 Taipei), Dec futures $3,744.30 (CNBC/Reuters); exa minute price $3,726.15 at 12:17 Taipei, i.e. most of the early bounce faded. StoneX's Simpson: bounce more likely bears' profit-taking than a fundamental catalyst (opinion); ANZ: 14-day RSI near oversold (opinion). CME FedWatch (per CNBC): ~90% 25bp hike in Dec, ~10% 50bp. SOURCE CONFLICT: Kitco put the post-minutes low around $3,720, while Phemex and thegoldrates.com show trades below $3,700 (low ~3,697); exact low UNKNOWN</title>
-      <link>https://www.cnbc.com/2026/11/19/gold-silver-metals-price-treasury.html</link>
-      <description>[事實] 影響: XAUUSD/DXY | 重點: 金價亞洲早盤從14個月低點反彈至約3,755後回落，12:17約3,726；分析師視為空頭獲利了結（觀點），12月升息2碼機率約10%；前低是否跌破3,700來源不一 | 發布: Investing 09:18、CNBC 10:40、exa 12:17 2026-11-19 (Asia/Taipei) | 抓取: 2026-11-19 12:20 (Asia/Taipei)</description>
-      <pubDate>Thu, 19 Nov 2026 12:17:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611191217-gold-asia-fade</guid>
-    </item>
-    <item>
-      <title>IMF Managing Director Georgieva at APEC Shenzhen (Nov 19): energy supply shocks and AI demand are accelerating global inflation to 4.7%, calling for monetary policy tightening in many economies (Reuters via France 24 liveblog entry stamped 03:40; assumed Paris time = about 10:40 Taipei, exact time UNKNOWN). Adds to hawkish central bank backdrop after FOMC minutes</title>
-      <link>https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting</link>
-      <description>[事實] 影響: XAUUSD/DXY/全球利率 | 重點: IMF總裁稱能源衝擊與AI需求推升全球通膨至4.7%，多國需緊縮貨幣政策 | 發布: France 24 2026-11-19 約10:40 (Asia/Taipei，時區推定) | 抓取: 2026-11-19 16:30 (Asia/Taipei)</description>
-      <pubDate>Thu, 19 Nov 2026 10:40:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611191040-imf-georgieva</guid>
     </item>
   </channel>
 </rss>
