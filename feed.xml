@@ -5,7 +5,28 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 20 Nov 2026 12:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 16:30:00 +0800</lastBuildDate>
+    <item>
+      <title>Gold bounces off 14-month low in early Europe (Fri Nov 20): FXStreet (07:01 GMT = 15:01 Taipei): gold pares losses, trades above $3,550 on modest USD pullback, still bearish 3rd day, 'extremely oversold'; TD Securities: USD now trades a 'hawkish Fed regime', likely resilient until Fed hawkishness peaks (opinion). FXStreet Forex Today (15:12 Taipei): DXY corrects to ~103.70 after ~104.00 high; CME FedWatch fully prices Dec +25bp, ~65% chance of another hike in January; US index futures deep in red. exa gold minute price ~$3,574 for minute starting 16:20 Taipei. CNBC/Reuters (02:57 GMT = 10:57 Taipei): spot -1.9% $3,551.68, ~-8.9% on week (worst since week of Mar 20); Swiss gold exports Oct 109.7t, -34% m/m. ECB Lagarde spoke at Frankfurt European Banking Congress (09:00 CET = 16:00 Taipei) - content not yet found = UNKNOWN. SOURCE CONTRADICTIONS: daily change -1.75% to -2.27% (FXStreet range) vs -4.44% (exa, vs stale prior close 3,740.20); FedWatch Dec +25bp 97.3% (CNBC) vs 'fully priced' (FXStreet)</title>
+      <link>https://www.fxstreet.com/news/gold-slumps-below-3-550-fresh-low-since-september-2025-as-fed-bets-iran-risks-lift-usd-202611200227</link>
+      <description>[事實] 影響: XAUUSD/DXY | 重點: 金價歐洲盤自2025年9月以來低點反彈，16:20報約3,574，美元指數回落至約103.70；FedWatch全面定價12月升息1碼、1月再升息機率約65%；週跌約8.9%；Lagarde 16:00演講內容 UNKNOWN；日跌幅各來源不一（-1.75%~-2.27% vs -4.44%） | 發布: FXStreet 2026-11-20 15:01、15:12、exa報價 16:20 (Asia/Taipei) | 抓取: 2026-11-20 16:30 (Asia/Taipei)</description>
+      <pubDate>Fri, 20 Nov 2026 16:20:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611201620-gold-europe-bounce</guid>
+    </item>
+    <item>
+      <title>German Oct PPI (Destatis press release No. 407, 15:00 Taipei Fri Nov 20), ACTUALS: +1.4% m/m (forecast 0.9%, prior 1.9%), +8.1% y/y - largest annual rise since Feb 2023 (+13.9%). Energy +18.7% y/y, intermediate goods +6.8%, capital goods +2.4%; ex-energy +3.6% y/y, +0.3% m/m. Adds to energy-driven euro-area inflation pressure ahead of ECB Dec 17 decision (euro-area Oct HICP 4.0% per AktienCheck preview)</title>
+      <link>https://www.destatis.de/EN/Press/2026/11/PE26_407_61241.html</link>
+      <description>[事實] 影響: EURUSD/EURGBP | 重點: 德國10月PPI月增1.4%高於預期0.9%、年增8.1%創2023年2月以來最大，能源年增18.7%為主因、扣除能源年增3.6%，增添ECB 12/17會議前的通膨壓力 | 發布: Destatis 2026-11-20 15:00 (Asia/Taipei) | 抓取: 2026-11-20 16:30 (Asia/Taipei)</description>
+      <pubDate>Fri, 20 Nov 2026 15:01:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611201500-german-ppi-oct</guid>
+    </item>
+    <item>
+      <title>UK Oct retail sales (ONS, 15:00 Taipei Fri Nov 20), ACTUALS: volumes +0.7% m/m vs 0.0% forecast; Sep revised to -0.6% from -0.4%; +2.3% y/y. Ex-fuel +0.9% m/m (forecast -0.1% per Investing.com vs +0.1% per Minkabu - consensus figure differs by source), +2.5% y/y (fcst 1.7%). ONS: much of the rise from stockpiling long-life food after government 'Be Ready' preparedness campaign (launched Oct 22). Reaction (Minkabu 16:20 JST = 15:20 Taipei): GBPUSD to 1.3120 day high then 1.3117, GBPJPY 208.78, EURGBP 0.8375 - modest GBP bid</title>
+      <link>https://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/october2026</link>
+      <description>[事實] 影響: GBPUSD/EURGBP/GBPJPY | 重點: 英國10月零售銷售月增0.7%遠優於預期0%（除燃料+0.9%），ONS稱主因政府備災宣導帶動囤貨；英鎊小幅走強，GBPUSD升至1.3120日高；除燃料預期值各來源不一（-0.1%/+0.1%） | 發布: ONS 2026-11-20 15:00、Minkabu 15:20 (Asia/Taipei) | 抓取: 2026-11-20 16:30 (Asia/Taipei)</description>
+      <pubDate>Fri, 20 Nov 2026 15:00:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611201500-uk-retail-oct</guid>
+    </item>
     <item>
       <title>Gold freefall extends toward $3,500 (Fri Nov 20 Asia): TradingView snapshot ~12:30 Taipei OANDA XAUUSD 3,533.88 (-90.75 / -2.50% d/d), day high 3,636.93, low 3,517.39; COMEX GC1! 3,546.5 (-3.77%), low 3,518.5. Commercial Times (10:43 Taipei): spot 3,531.40 at 10:30, low near 3,526, lowest since Sep 2025, -36.9% from ~5,596 year high; StoneX (James Stanley) next level 3,500, resistance 3,800/3,870; Goldman cut end-2027 target to 4,650, UBS cut this-quarter target to 4,500. Reuters Asia wrap: gold -2.5% to $3,533.40, ~9% weekly loss. FXStreet (11:04 Taipei): ~$3,535, daily RSI(14) ~24 oversold, 21-day SMA 3,936, 50/100/200-day SMA ~4,090/4,179/4,408; drivers: hawkish Fed repricing, 19-month-high USD, liquidation to cover equity losses. SOURCE CONTRADICTIONS: intraday low 3,517.39 (OANDA) vs ~3,526 (CTEE, as of 10:30); daily % change -2.5% (OANDA/Reuters) vs -3.77% (COMEX, different reference close) vs -5.43% (exa, vs prior close 3,740.20 which looks stale); weekly loss ~7% (Economic Times) vs ~9% (Reuters)</title>
       <link>https://www.ctee.com.tw/news/20261120700723-430702</link>
@@ -194,27 +215,6 @@
       <description>[事實] 影響: XAUUSD/US10Y/US02Y | 重點: 紀要後金價再探低至約3,720（日跌逾3%），長端殖利率回落、短端持平；LPL認為紀要無大意外、12月升1碼（觀點） | 發布: Kitco/CNBC 2026-11-19 約03:00後，確切時間UNKNOWN (Asia/Taipei) | 抓取: 2026-11-19 04:40 (Asia/Taipei)</description>
       <pubDate>Thu, 19 Nov 2026 03:30:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611190330-post-minutes-gold</guid>
-    </item>
-    <item>
-      <title>FOMC minutes, Oct 27-28 meeting (released 03:00 Taipei Nov 19): 'almost all participants' judged further action to raise the fed funds target range 'would likely be appropriate'; 'some' favored a 25bp hike at that meeting and 'a couple' noted a larger increase might be needed in December; inflation pressures 'broad based', AI demand 'a material source of inflation risk' and potential financial-stability risk; vast majority saw upside inflation risks (energy, refined fuel supply). Vote 10-2 hold at 3.75%-4.00% (Cook, Hammack for +25bp)</title>
-      <link>https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm</link>
-      <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/EURUSD/USDJPY | 重點: Fed紀要顯示幾乎所有與會者認為進一步升息可能是適當的，有人提到12月或需更大幅度升息，AI被視為通膨風險來源，偏鷹 | 發布: Fed 2026-11-19 03:00 (Asia/Taipei) | 抓取: 2026-11-19 04:40 (Asia/Taipei)</description>
-      <pubDate>Thu, 19 Nov 2026 03:00:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611190300-fomc-minutes</guid>
-    </item>
-    <item>
-      <title>Gold fresh 14-month low (Nov 18-19): exa gold minute price for minute starting 00:22 Taipei Nov 19: XAUUSD 3,741.02, -121.94 / -3.16% vs that source's prior close 3,862.96. BullionVault (23:50 Taipei): London PM fix beneath $3,768, lowest benchmark since late Sept 2025; silver near $45 (London midday fix ~$45.90, lowest since Sept 26 2025); platinum low $1,363, palladium $944</title>
-      <link>https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-floor-fed-rates-111820261</link>
-      <description>[事實] 影響: XAUUSD/XAGUSD | 重點: 金價跌破前一輪日低3,757，凌晨00:22約3,741（日跌約3.2%），創2025年9月以來新低；白銀同步破底 | 發布: exa 2026-11-19 00:22；BullionVault 2026-11-18 23:50 (Asia/Taipei) | 抓取: 2026-11-19 00:30 (Asia/Taipei)</description>
-      <pubDate>Thu, 19 Nov 2026 00:22:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611190022-gold-new-low</guid>
-    </item>
-    <item>
-      <title>Source contradictions on Fed pricing (Nov 18): CME FedWatch for a 25bp Dec hike cited as 95% (CNBC Treasuries story), 100% (Barchart) and 97.8% for 25bp / ~2.2% for 50bp (Reuters via CNBC, earlier). Bond trader Ed Bradford on X (quoted by BullionVault, opinion): January hike odds already above 70%, 'the hawkish signaling was already priced'. Newsquawk (opinion): front-end yields and dollar up, gold down is the usual hawkish-repricing pattern; key is whether other officials echo 50bp</title>
-      <link>https://www.newsquawk.com/headlines/market-update-hawkish-reaction-as-fed-governor-waller-raises-possibility-of-a-50bps-rate-hike-upside-in-ust-yields-and-the-dollar-while-equities-and-gold-fall</link>
-      <description>[推測] 影響: XAUUSD/DXY/US02Y | 重點: 各來源引用的12月升息機率不一（95%/97.8%/100%），且有交易員認為Waller鷹派訊號早已反映在價格中，屬觀點 | 發布: Newsquawk 2026-11-18 21:06；BullionVault 2026-11-18 23:50 (Asia/Taipei) | 抓取: 2026-11-19 00:30 (Asia/Taipei)</description>
-      <pubDate>Wed, 18 Nov 2026 23:50:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611182350-fed-pricing-contradictions</guid>
     </item>
   </channel>
 </rss>
