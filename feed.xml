@@ -5,7 +5,28 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 20 Nov 2026 04:24:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 08:30:00 +0800</lastBuildDate>
+    <item>
+      <title>Next 24h calendar (Taipei time, Fri Nov 20 - Sat Nov 21): 15:00 UK Oct retail sales m/m (fcst 0.0%, prior -0.4%) and public sector net borrowing (fcst 18.0B, prior 24.5B), German PPI m/m (fcst 0.9%, prior 1.9%); 16:15 ECB President Lagarde speaks; 21:00 Bundesbank's Nagel; 21:25 Fed Governor Waller; 21:30 Canada Sep retail sales m/m (fcst 0.7%, prior 1.2%); 23:00 US UMich Nov final consumer sentiment (fcst 51.7, prelim 51.0) and inflation expectations (prelim 4.3%), Eurozone consumer confidence (fcst -18); Sat 01:15 Fed Governor Cook. Note: November flash PMIs (US/EZ/UK/AU) are Mon Nov 23, not today; Japan bank holiday Mon Nov 23</title>
+      <link>https://kinzan.io/calendar/2026-11-20/</link>
+      <description>[事實] 影響: XAUUSD/GBPUSD/EURUSD/USDCAD/DXY | 重點: 未來24小時重點：15:00英國零售銷售、16:15 Lagarde、21:25 Waller、21:30加拿大零售、23:00密大消費者信心終值與通膨預期、週六01:15 Cook；11月PMI初值在11/23週一，不是今天 | 發布: 2026-11-20 08:30 整理 (Asia/Taipei) | 抓取: 2026-11-20 08:30 (Asia/Taipei)</description>
+      <pubDate>Fri, 20 Nov 2026 08:25:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611200825-next24h-calendar</guid>
+    </item>
+    <item>
+      <title>Gold breaks below $3,600 in Asia (Fri Nov 20): RTHK 07:55 HKT/Taipei: spot gold fell as low as $3,591, a 14-month-plus low, then hovered ~$3,607; exa gold minute price XAUUSD 3,622.38 (-117.82 / -3.15% vs that source's prior close 3,740.20) for minute starting 08:21 Taipei. FXStreet (07:21 Taipei): selling toward ~$3,630, daily RSI(14) ~27 oversold, first resistance Bollinger lower band ~$3,705. Reuters close (04:25 KST Nov 20): spot -1.3% $3,674.13 at 2:05 pm ET, Dec futures settled -1.5% at $3,685.50, DXY at highest since Apr 2025. SOURCE CONTRADICTIONS: session low 3,591 (RTHK) vs 3,619.94 (FXNX MT5 feed, 07:10 Taipei) - feeds/timing differ; CME FedWatch Dec +25bp cited 94% (Reuters) vs 97.3% (FXStreet) vs 96.4% (CNBC earlier). USDJPY 159.757 (+0.27%, exa minute 08:18 Taipei)</title>
+      <link>https://news.rthk.hk/rthk/ch/component/k2/1878538-20261120.htm</link>
+      <description>[事實] 影響: XAUUSD/DXY/USDJPY | 重點: 亞洲盤金價跌破3,600美元，低見3,591（14個月以上新低）後回到約3,607–3,622，日線RSI約27超賣；各來源低點（3,591 vs 3,619.94）與FedWatch 12月升1碼機率（94%/96.4%/97.3%）不一致 | 發布: RTHK 2026-11-20 07:55、exa報價 08:21 (Asia/Taipei) | 抓取: 2026-11-20 08:30 (Asia/Taipei)</description>
+      <pubDate>Fri, 20 Nov 2026 08:21:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611200821-gold-below-3600</guid>
+    </item>
+    <item>
+      <title>Japan Oct national CPI (Statistics Bureau, 07:30 Taipei Fri Nov 20), ACTUALS: core (ex fresh food) +2.2% y/y vs 2.3% consensus (Reuters poll; QUICK median also 2.3%), Sep 2.1%, index 102.9 (2025=100), above BoJ 2% target 2nd straight month; headline 2.3% (Sep 2.1%); ex fresh food &amp; energy 2.2% (Sep 2.4%). Energy +2.2% y/y after -0.6% in Sep as household subsidies expired (electricity +1.6%, city gas +5.3% per Nikkei; CNBC gives gas +5.8% - figure differs by source); Japan reportedly to reintroduce energy subsidies in December. LSEG: ~75% chance of 25bp BoJ hike in December (BoJ at 1.25%). USDJPY ~159.76 after release (exa minute 08:18 Taipei), within half a yen of 160 where MOF's Mimura warned on Nov 12</title>
+      <link>https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html</link>
+      <description>[事實] 影響: USDJPY/EURJPY/XAUUSD | 重點: 日本10月核心CPI年增2.2%，略低於預期2.3%但高於9月2.1%；整體2.3%、核心核心降至2.2%；能源補貼結束推升電費瓦斯；LSEG估12月日銀升息1碼機率約75%；公布後USDJPY約159.76仍貼近160 | 發布: 2026-11-20 07:30 (Asia/Taipei) | 抓取: 2026-11-20 08:30 (Asia/Taipei)</description>
+      <pubDate>Fri, 20 Nov 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611200730-japan-oct-cpi</guid>
+    </item>
     <item>
       <title>Gold extends slide into US close (Nov 19 session): OANDA XAUUSD low 3662.08, last ~3668.27 (-56.91 / -1.53% d/d) per TradingView quote ~04:23 Taipei Nov 20; COMEX GC1! 3668.5 (-1.96%, low 3663.3). CNBC/Reuters: spot -1.24% at $3,676.27 at 1:18 pm ET (02:18 Taipei), lowest since Sep 2025; CME FedWatch 96.4% for +25bp in Dec, ~4% for +50bp. Same TradingView snapshot: DXY 103.89 (+0.07%), EURUSD 1.0974, USDJPY 159.674 (+0.21%, high 159.969), GBPUSD 1.30999 (-0.38%), AUDUSD 0.66611 (-0.77%), US02Y 4.772% (-3.2bp), US10Y 5.046% (-2.4bp). SOURCE CONTRADICTION: Treasury yields fell yet gold kept falling; explanation (dollar strength vs. liquidation tied to AI-equity selloff, per Investing/Reuters opinion) is not confirmed = UNKNOWN</title>
       <link>https://www.cnbc.com/2026/11/19/gold-silver-metals-price-treasury.html</link>
@@ -194,27 +215,6 @@
       <description>[事實] 影響: EURUSD/EURGBP/EURJPY | 重點: 歐元區10月HICP終值確認4.0%，核心上修至2.6%(初值2.5%)、能源21.0%，基本通膨壓力略強於初值 | 發布: Eurostat 2026-11-18 18:00 (Asia/Taipei) | 抓取: 2026-11-18 20:25 (Asia/Taipei)</description>
       <pubDate>Wed, 18 Nov 2026 18:00:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611181800-ez-hicp-final-oct</guid>
-    </item>
-    <item>
-      <title>ECB Financial Stability Review Nov 2026 (published Nov 18): risks from AI valuations (ambitious earnings expectations leave markets vulnerable to abrupt adjustments), fiscal imbalances in major advanced economies could trigger global repricing of sovereign risk, geoeconomic tensions; VP Vujcic: risks remain elevated, banks well placed, non-banks more vulnerable. Exact release time UNKNOWN</title>
-      <link>https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html</link>
-      <description>[事實] 影響: EURUSD/美債殖利率/XAUUSD | 重點: ECB金融穩定報告警告AI估值可能急速修正、主要經濟體財政失衡恐引發主權風險重新定價 | 發布: ECB 2026-11-18 (時刻UNKNOWN) | 抓取: 2026-11-18 20:25 (Asia/Taipei)</description>
-      <pubDate>Wed, 18 Nov 2026 17:00:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611181700-ecb-fsr-nov</guid>
-    </item>
-    <item>
-      <title>Gold extends slide (exa gold minute price, minute starting 16:20 Taipei Nov 18): XAUUSD 3,761.93, -101.03 / -2.62% vs that source's previous close 3,862.96 (other sources show prior close ~3,849-3,850, so % change differs by source). Price now inside/below the Reuters technical target zone 3,745-3,776 cited earlier; X trending summary attributes the drop to 19-month-high USD, ~5% Treasury yields and Fed hike bets</title>
-      <link>https://exa.ai/library/markets/commodity/gold</link>
-      <description>[事實] 影響: XAUUSD | 重點: 台北16:20金價約3,761.93、日跌約2.6%，續創逾一年新低並跌入Reuters技術面3,745-3,776區間；各來源前收不同，跌幅數字有差異 | 發布: exa 2026-11-18 16:20 (Asia/Taipei) | 抓取: 2026-11-18 16:25 (Asia/Taipei)</description>
-      <pubDate>Wed, 18 Nov 2026 16:20:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611181620-gold-3762</guid>
-    </item>
-    <item>
-      <title>UK Oct CPI (ONS, 15:00 Taipei Nov 18): CPI 3.6% y/y (prior 3.5%), +0.5% m/m; core CPI 2.8% y/y (unchanged); CPIH 3.7% y/y; motor fuels +33.2% y/y, diesel avg 199.5p/l record high. Source contradiction on consensus: FXStreet says headline missed 3.7% estimate, CNBC says in line with Reuters poll (our earlier calendar cited TD 3.6%). GBP slipped after release, GBPJPY ~209.90 (FXStreet 15:17 Taipei); ING (pre-release): ~80% implied probability of Dec BoE hike</title>
-      <link>https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/october2026</link>
-      <description>[事實] 影響: GBPUSD/GBPJPY/EURGBP | 重點: 英國10月CPI年增3.6%(前值3.5%)、月增0.5%，核心2.8%持平；預期值來源矛盾(FXStreet稱預期3.7%低於預期、CNBC稱符合路透調查)，公布後英鎊走弱 | 發布: ONS 2026-11-18 15:00 (Asia/Taipei) | 抓取: 2026-11-18 16:25 (Asia/Taipei)</description>
-      <pubDate>Wed, 18 Nov 2026 15:00:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611181500-uk-cpi-oct</guid>
     </item>
   </channel>
 </rss>
