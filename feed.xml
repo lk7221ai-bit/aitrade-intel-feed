@@ -5,7 +5,28 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 20 Nov 2026 22:35:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 00:21:00 +0800</lastBuildDate>
+    <item>
+      <title>Late-night snapshot Sat Nov 21 (TradingView ~00:21 Taipei): OANDA XAUUSD 3,547.50 (-77.14 / -2.13% d/d; day high 3,636.93, low 3,514.56 unchanged) - back BELOW $3,550, down ~25 from 3,572.5 at 22:34; COMEX GC1! 3,550.8 (-3.65%, low 3,514.9); COMEX SI1! 41.555 (-6.32%, low 41.02). DXY 103.743 (-0.17%, range 103.582-103.953); USDJPY 158.765 (-0.57%, low 158.549); EURUSD 1.09824 (+0.14%), GBPUSD 1.3102, AUDUSD 0.66455 (-0.19%), USDCAD 1.43207. Yields extend fall: US10Y 4.950% (-10bp, day low 4.940%), US02Y 4.653% (-11.5bp, low 4.643%). Reuters via CNA (NY): DXY -0.2% at 103.75, on track to snap an 8-session winning streak, +1.7% this month; Bannockburn's Chandler: dollar momentum 'stalled' but 'early to pick a top' (opinion). Next scheduled: Fed Governor Cook on US economy Sat 01:15 Taipei; then weekend close. SOURCE CONTRADICTION: thegoldrates.com shows a 'close' of 3,543.17 (-1.84%) and exa.ai shows 3,548.48 (-5.13%) while the US session is still open - daily % differs by reference close; final Friday close = UNKNOWN</title>
+      <link>https://www.channelnewsasia.com/business/dollar-falls-fed-fueled-rally-stalls-lower-us-yields-help-yen-6567931</link>
+      <description>[事實] 影響: XAUUSD/XAGUSD/DXY/USDJPY/US10Y | 重點: 00:21金價約3,547.5（日跌約2.1%）再度跌回3,550下方但未破亞洲低點3,514.56；美10年債降至4.950%、2年債4.653%創日低，美元指數103.74、USDJPY 158.77；各站日跌幅基準不一，週五收盤價UNKNOWN | 發布: TradingView報價 2026-11-21 00:21、Reuters/CNA 2026-11-20 晚間 (Asia/Taipei) | 抓取: 2026-11-21 00:21 (Asia/Taipei)</description>
+      <pubDate>Sat, 21 Nov 2026 00:21:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611210021-late-snapshot</guid>
+    </item>
+    <item>
+      <title>US UMich consumer sentiment, Nov FINAL (University of Michigan, released Fri Nov 20, 10:00 ET = 23:00 Taipei), ACTUALS: sentiment 51.5 (Oct 48.0; consensus 51.5 per Kitco - in line; prelim 51.0 per earlier calendar); current conditions 49.4 (Oct 46.7); expectations 52.9 (Oct 48.8). Median 1-yr inflation expectations 3.7% (Oct 4.7%; earlier calendar listed prelim 4.3%); long-run 5-10yr 3.3% (Oct 3.5%). Director Hsu: gains led by post-election expected business conditions; sentiment still 9% below February (before the Iran conflict); interviews Oct 20-Nov 16. Kitco: spot gold ~3,568.65 (-1.56%) minutes after release, 'treading water'. Lower inflation expectations are mildly dovish vs the Fed's hike debate (interpretation)</title>
+      <link>https://www.sca.isr.umich.edu/</link>
+      <description>[事實] 影響: XAUUSD/DXY/US10Y | 重點: 密大11月終值消費者信心51.5符合預期（10月48.0），1年通膨預期由4.7%降至3.7%、長期由3.5%降至3.3%；公布後金價約3,568持平 | 發布: 2026-11-20 23:00 (Asia/Taipei) | 抓取: 2026-11-21 00:21 (Asia/Taipei)</description>
+      <pubDate>Fri, 20 Nov 2026 23:00:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611202300-umich-final-nov</guid>
+    </item>
+    <item>
+      <title>Eurozone consumer confidence, Nov FLASH (European Commission, released Fri Nov 20, 16:00 CET = 23:00 Taipei), ACTUAL: -16.9 vs Oct -17.9 (five-month low); EU -16.5 vs -17.3. Consensus differs by source: Trading Economics says -17.9 (unchanged), Il Sole/earlier calendar -18.0 - beat either way. Both still well below long-term averages. EURUSD 1.0982 (+0.14% d/d) at ~00:21 Taipei; reaction attributable to the release = UNKNOWN</title>
+      <link>https://tradingeconomics.com/euro-area/consumer-confidence/news/603229</link>
+      <description>[事實] 影響: EURUSD | 重點: 歐元區11月消費者信心初值-16.9，優於10月-17.9與預期（-17.9或-18.0，來源不一），仍遠低於長期平均 | 發布: 2026-11-20 23:00 (Asia/Taipei) | 抓取: 2026-11-21 00:21 (Asia/Taipei)</description>
+      <pubDate>Fri, 20 Nov 2026 23:00:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611202300-ez-consumer-conf-nov</guid>
+    </item>
     <item>
       <title>Late-evening snapshot Fri Nov 20 (TradingView ~22:34 Taipei): OANDA XAUUSD 3,572.51 (-52.13 / -1.44% d/d; day high 3,636.93, low 3,514.56 unchanged), i.e. little changed vs 20:39 (3,570.33) and holding above $3,550 through the US open; COMEX GC1! 3,577.9 (-2.92%, low 3,514.9); COMEX SI1! 42.035 (-5.24%, low 41.02). DXY 103.696 (-0.22%, day low 103.582 - now below FXEmpire's 103.70 pivot cited earlier); USDJPY 158.78 (-0.56%, low 158.55); EURUSD 1.09876, GBPUSD 1.31162, AUDUSD 0.66629, USDCAD 1.43197 (-0.14%); US10Y 4.984% (-6.6bp, day low 4.964%), US02Y 4.690% (-7.8bp). SOURCE CONTRADICTION: X News stories (21:38-22:32 Taipei) describe gold 'crashing below $3,550' / '9% to $3,540 low' / 'down 8% to 9%' - quotes show neither a new low after Asia's 3,514.56 nor a 9% daily fall; the 8-9% figure appears to be a multi-day/from-recent-high decline (X story: from highs near $3,740) - exact basis UNKNOWN</title>
       <link>https://www.cnbc.com/2026/11/20/gold-federal-reserve-price-dollar-metals.html</link>
@@ -194,27 +215,6 @@
       <description>[事實] 影響: XAUUSD/DXY/USDJPY/EURUSD/GBPUSD | 重點: 數據偏弱後美元小幅走軟（歐元兌美元觸1.1000），但金價未獲支撐，約3,714（-0.24%~-0.28%），仍貼近今日低點3,693；市場仍押12月升息25bp約九成；殖利率反應UNKNOWN | 發布: Kitco 2026-11-19 21:43、財經新聞 21:59 (Asia/Taipei) | 抓取: 2026-11-19 22:30 (Asia/Taipei)</description>
       <pubDate>Thu, 19 Nov 2026 21:50:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611192150-data-reaction</guid>
-    </item>
-    <item>
-      <title>US data 21:30 Taipei (Nov 19), ACTUALS: initial jobless claims w/e Nov 14 203K (prior revised 202K from 200K; 4-wk avg 197,750), highest since early Sep per Zaikei; continuing claims w/e Nov 7 1.763M (+70K, prior 1.693M), highest since Aug. Philly Fed Nov general activity 6.3 vs 20.9 prior, lowest since May; new orders -0.4; prices paid 58.2 (+15, highest since Apr); prices received 47.0 (highest since Jun 2022); employment 11.6. SOURCE CONFLICT on consensus: claims 197K (Reuters poll) vs 198K (Zaikei); Philly Fed 20.6 (Investing), 20.0 (TradingEconomics), 20.1 (Zaikei), 17.0 (RTTNews), 23.2 (Yahoo via MLQ) - all well above actual</title>
-      <link>https://www.dol.gov/newsroom/releases</link>
-      <description>[事實] 影響: XAUUSD/DXY/EURUSD/USDJPY | 重點: 初領失業金20.3萬（預期約19.7-19.8萬、前值修正20.2萬），續領176.3萬為8月來最高；費城Fed指數驟降至6.3（前值20.9、預期17-23不等），但物價支付分項升至58.2、收取價格47.0創2022年6月來新高——活動轉弱但通膨壓力升 | 發布: 美國勞工部/費城Fed 2026-11-19 21:30 (Asia/Taipei) | 抓取: 2026-11-19 22:30 (Asia/Taipei)</description>
-      <pubDate>Thu, 19 Nov 2026 21:30:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611192130-claims-phillyfed</guid>
-    </item>
-    <item>
-      <title>Evening snapshot Nov 19: exa gold minute price XAUUSD about $3,719 for minute starting 20:11 Taipei (12:11 GMT), giving back the European-morning rebound. FXStreet (European session, URL stamp 08:37 GMT = 16:37 Taipei): fresh yearly low $3,693.50 earlier Thursday, rebound to about $3,740; DXY extending rally toward 104.00 on hawkish Fed narrative; 50-day EMA $4,072.78, RSI(14) near 31 (technical opinion: bearish bias, near oversold). LBMA gold AM price $3,727.35 (Nov 18 PM 3,759.35). USDJPY 159.95 at 20:14 Taipei (exa, +0.38% vs 159.35), still just under 160; Japan's Nov 13 warnings of action against one-sided moves stand, no new intervention reported (UNKNOWN). Next: 21:30 US jobless claims and Philly Fed</title>
-      <link>https://www.fxstreet.com/news/gold-price-forecast-xau-usd-regains-ground-below-3-700-outlook-remains-fragile-202611190837</link>
-      <description>[事實] 影響: XAUUSD/DXY/USDJPY | 重點: 金價歐盤一度回升至約3,740後，20:11回落到約3,719（今日低點3,693.5）；DXY逼近104；美元兌日圓20:14約159.95貼近160，尚無新介入消息 | 發布: FXStreet 2026-11-19 16:37、exa 20:11/20:14 (Asia/Taipei) | 抓取: 2026-11-19 20:25 (Asia/Taipei)</description>
-      <pubDate>Thu, 19 Nov 2026 20:15:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611192015-evening-snapshot</guid>
-    </item>
-    <item>
-      <title>Shenzhen trilateral result (Nov 19): China, Russia and the US issued a four-point 'Heads of State Declaration toward Peace' (full text Xinhua 18:54 Taipei; also Kremlin): 1) commit to UN reform; 2) plan to increase production and supply of refined petroleum products and reaffirm importance of stable energy flows; 3) state officials' immunity, ICC 'must not abuse' jurisdiction; 4) nuclear war cannot be won, dialogue on reducing nuclear risks and non-proliferation. Per AP, the declaration did not mention the Ukraine or Iran wars. No trade/tariff terms in the text. Supersedes earlier 'joint statement UNKNOWN' items. Market reaction attributable to the declaration = UNKNOWN</title>
-      <link>https://english.news.cn/20261119/f54674416ffb46a68734353f2b1bc0ea/c.html</link>
-      <description>[事實] 影響: XAUUSD/原油/USDCNH/AUDUSD | 重點: 美中俄三方發表四點「和平宣言」：聯合國改革、增產精煉油品並重申能源穩定流通、限制ICC管轄、核風險對話；未提俄烏與伊朗戰爭，也無貿易條款；市場反應UNKNOWN | 發布: 新華社 2026-11-19 18:54 (Asia/Taipei) | 抓取: 2026-11-19 20:25 (Asia/Taipei)</description>
-      <pubDate>Thu, 19 Nov 2026 18:54:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611191854-trilateral-declaration</guid>
     </item>
   </channel>
 </rss>
