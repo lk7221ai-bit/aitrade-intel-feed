@@ -5,7 +5,28 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 21 Nov 2026 12:35:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 04:00:00 +0800</lastBuildDate>
+    <item>
+      <title>Trump on Iran (Fox News exclusive, published 12:52 pm EST Sun Nov 22 = 01:52 Taipei Mon): inclined to order military strikes on Iran after the new year if no agreement is reached; indirect talks continue but he called Iranian negotiators 'professional tap dancers'; 'They're more aggressive now than before the election'. On Iranian state-media reports that Iran will test the blockade: 'I hope they do, they'll all be at the bottom of the sea like the rest of the navy' (Iran International 17:56 GMT). Fox's Yingst: two US carrier strike groups in the Arabian Sea. Timing of any strikes, and whether the Sunday UKMTO tanker incident involved US forces = UNKNOWN</title>
+      <link>https://www.foxnews.com/politics/trump-warns-new-strikes-against-iran-after-new-year-calls-negotiators-professional-tap-dancers</link>
+      <description>[事實] 影響: XAUUSD/USOIL/DXY | 重點: 川普週日受訪稱談判無果則傾向新年後再打伊朗，並稱闖封鎖的伊朗船將被擊沉；實際行動時程=UNKNOWN | 發布: 2026-11-23 01:52 (Asia/Taipei) | 抓取: 2026-11-23 03:55 (Asia/Taipei)</description>
+      <pubDate>Mon, 23 Nov 2026 01:52:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611230152-trump-fox-iran</guid>
+    </item>
+    <item>
+      <title>Hormuz / blockade escalation Sun Nov 22 (not previously in feed): UKMTO ADVISORY 217-26 - incident at 14:25 UTC (= 22:25 Taipei Sun) involving 'a tanker and military forces' in the Gulf of Oman near Chabahar, Iran; reported by a company security officer, authorities aware, investigations ongoing; tanker identity and which military forces = UNKNOWN (Iran International 16:20 GMT = 00:20 Taipei Mon; Reuters via Arab News 19:13). Euronews (19:07 CET = 02:07 Taipei Mon) says location/timing are consistent with an Iranian tanker trying to break the US blockade after leaving Kharg Island, amid conflicting reports - this is Euronews' inference, not confirmed. Earlier Sunday the IRGC Navy (via Fars/Anadolu; Iran International 15:55 GMT = 23:55 Taipei) claimed two supertankers hit naval mines and caught fire in a 'restricted area' east of Hormuz / north of Ghanam Island after using 'unauthorized routes' with AIS off; no vessel names, casualties or damage given - independent confirmation = UNKNOWN; whether the two events are linked = UNKNOWN. Context: Iran deputy FM Gharibabadi (Sat) called the US blockade 'an act of war' and said Iran will take measures to break it; &gt;14 Iranian tankers reported loading at Kharg. No CENTCOM statement on the Sunday incident found as of retrieval = UNKNOWN. Markets were closed; price impact = UNKNOWN until Monday open (FX/metals usually reopen ~06:00 Taipei)</title>
+      <link>https://www.ukmto.org/-/media/ukmto/products/20261122_ukmto_-advisory_217-26.pdf</link>
+      <description>[事實] 影響: USOIL/XAUUSD/DXY/USDJPY | 重點: UKMTO稱週日阿曼灣近恰巴哈爾發生「油輪與軍方」事件，細節未明；IRGC另稱兩艘超級油輪觸雷起火（未獲獨立證實），是否為伊朗油輪闖封鎖=UNKNOWN | 發布: 2026-11-23 00:20 (Asia/Taipei) | 抓取: 2026-11-23 03:55 (Asia/Taipei)</description>
+      <pubDate>Mon, 23 Nov 2026 00:20:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611230020-ukmto-217-tanker-mines</guid>
+    </item>
+    <item>
+      <title>Weekend Gulf military events Sat-Sun Nov 21-22 (updates 10:54 Sat item): (1) Bahrain - IRGC says it launched a missile-and-drone assault on US military positions in Bahrain (Fifth Fleet HQ); Bahrain says air defences intercepted attacks but one hit a civilian industrial facility (fire), and its Interior Ministry said Sunday two people were injured; Bahrain denied US bases were hit; US confirmation of damage = UNKNOWN (Reuters 19:15 UTC Sat = 03:15 Taipei Sun). (2) CENTCOM denied Iran's account that a missile damaged a US F-16: 'Iran did not attack a US F-16 fighter aircraft yesterday - at all'; all US fighter jets in the region 'safe and accounted for' (Reuters 15:20 UTC Sat = 23:20 Taipei) - CONTRADICTS Iranian state-media claim. (3) IRGC claims it downed a 19th (over Qeshm) and 20th (east of Hormuz) US MQ-1 drone, 'fourth in 24 hours' (Mehr; Iran International 08:39 GMT Sun = 16:39 Taipei); no US confirmation = UNKNOWN</title>
+      <link>https://www.reuters.com/5f374b32b07b/world/middle-east/bahrain-warns-residents-potential-threat-iran-conflict-persists-2026-11-21/</link>
+      <description>[事實] 影響: XAUUSD/USOIL/DXY | 重點: 伊朗週六飛彈無人機攻擊巴林（巴林稱民用工廠起火、2傷）；CENTCOM否認F-16遭擊中；IRGC稱再擊落MQ-1無人機（美方未證實） | 發布: 2026-11-22 03:15 (Asia/Taipei) | 抓取: 2026-11-23 03:55 (Asia/Taipei)</description>
+      <pubDate>Sun, 22 Nov 2026 03:15:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611220315-bahrain-f16-mq1</guid>
+    </item>
     <item>
       <title>UKMTO weekly Hormuz report (week ending Wed Nov 18; reported Fri, Iran International 03:11 GMT Sat = 11:11 Taipei): 263 transits through the Strait of Hormuz vs 308 the prior week (115 outbound / 148 inbound vs 139 / 169), about 65% below pre-war levels; about half of vessels were energy carriers; most AIS-transmitting ships still use the route through Iranian waters, though southern-route traffic increased. Six tanker attacks in the week (four in the strait, two in the Persian Gulf); two vessels needed assistance, outcomes of the other four UNKNOWN; 106 incidents in the strait since the conflict began Feb 28. The National (Nov 21) reports experts find little independent evidence for Iran's repeated sea-mine claims - CONTRADICTS IRGC mine attributions (see 07:37 item)</title>
       <link>https://www.iranintl.com/en/202611215184</link>
@@ -194,27 +215,6 @@
       <description>[事實] 影響: XAUUSD/DXY/USDJPY | 重點: 亞洲盤金價跌破3,600美元，低見3,591（14個月以上新低）後回到約3,607–3,622，日線RSI約27超賣；各來源低點（3,591 vs 3,619.94）與FedWatch 12月升1碼機率（94%/96.4%/97.3%）不一致 | 發布: RTHK 2026-11-20 07:55、exa報價 08:21 (Asia/Taipei) | 抓取: 2026-11-20 08:30 (Asia/Taipei)</description>
       <pubDate>Fri, 20 Nov 2026 08:21:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611200821-gold-below-3600</guid>
-    </item>
-    <item>
-      <title>Japan Oct national CPI (Statistics Bureau, 07:30 Taipei Fri Nov 20), ACTUALS: core (ex fresh food) +2.2% y/y vs 2.3% consensus (Reuters poll; QUICK median also 2.3%), Sep 2.1%, index 102.9 (2025=100), above BoJ 2% target 2nd straight month; headline 2.3% (Sep 2.1%); ex fresh food &amp; energy 2.2% (Sep 2.4%). Energy +2.2% y/y after -0.6% in Sep as household subsidies expired (electricity +1.6%, city gas +5.3% per Nikkei; CNBC gives gas +5.8% - figure differs by source); Japan reportedly to reintroduce energy subsidies in December. LSEG: ~75% chance of 25bp BoJ hike in December (BoJ at 1.25%). USDJPY ~159.76 after release (exa minute 08:18 Taipei), within half a yen of 160 where MOF's Mimura warned on Nov 12</title>
-      <link>https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html</link>
-      <description>[事實] 影響: USDJPY/EURJPY/XAUUSD | 重點: 日本10月核心CPI年增2.2%，略低於預期2.3%但高於9月2.1%；整體2.3%、核心核心降至2.2%；能源補貼結束推升電費瓦斯；LSEG估12月日銀升息1碼機率約75%；公布後USDJPY約159.76仍貼近160 | 發布: 2026-11-20 07:30 (Asia/Taipei) | 抓取: 2026-11-20 08:30 (Asia/Taipei)</description>
-      <pubDate>Fri, 20 Nov 2026 07:30:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611200730-japan-oct-cpi</guid>
-    </item>
-    <item>
-      <title>Gold extends slide into US close (Nov 19 session): OANDA XAUUSD low 3662.08, last ~3668.27 (-56.91 / -1.53% d/d) per TradingView quote ~04:23 Taipei Nov 20; COMEX GC1! 3668.5 (-1.96%, low 3663.3). CNBC/Reuters: spot -1.24% at $3,676.27 at 1:18 pm ET (02:18 Taipei), lowest since Sep 2025; CME FedWatch 96.4% for +25bp in Dec, ~4% for +50bp. Same TradingView snapshot: DXY 103.89 (+0.07%), EURUSD 1.0974, USDJPY 159.674 (+0.21%, high 159.969), GBPUSD 1.30999 (-0.38%), AUDUSD 0.66611 (-0.77%), US02Y 4.772% (-3.2bp), US10Y 5.046% (-2.4bp). SOURCE CONTRADICTION: Treasury yields fell yet gold kept falling; explanation (dollar strength vs. liquidation tied to AI-equity selloff, per Investing/Reuters opinion) is not confirmed = UNKNOWN</title>
-      <link>https://www.cnbc.com/2026/11/19/gold-silver-metals-price-treasury.html</link>
-      <description>[事實] 影響: XAUUSD/DXY/USDJPY/AUDUSD | 重點: 美盤尾段金價續跌，OANDA最低3,662.08、現約3,668（-1.53%），再刷14個月新低；同時美債殖利率下滑（2年4.77%、10年5.05%），殖利率跌而金價仍跌的原因UNKNOWN；CME FedWatch 12月升息1碼機率96.4% | 發布: TradingView報價 2026-11-20 04:23、CNBC/Reuters 2026-11-20 02:18 (Asia/Taipei) | 抓取: 2026-11-20 04:24 (Asia/Taipei)</description>
-      <pubDate>Fri, 20 Nov 2026 04:23:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611200423-gold-us-close-low</guid>
-    </item>
-    <item>
-      <title>Fed speakers Nov 19 (US afternoon): Chicago Fed's Goolsbee (2027 voter) at Indiana forum: inflation 'way higher' than 2% goal, tariff impact more persistent than expected, job market stable, consumer demand strong; Fed's job is to keep AI-driven investment/spending from overheating the economy; less weight on monthly payrolls due to immigration changes (Reuters via Investing, 1:25 pm ET = 02:25 Taipei Nov 20). Governor Barr at FinRegLab AI Symposium: financial conditions 'quite accommodative', inflation too high, 'we're going to need to adjust monetary policy further' (Newsquawk 19:41 UTC = 03:41 Taipei). Neither gave a specific December hike size (UNKNOWN)</title>
-      <link>https://www.investing.com/news/economy-news/feds-goolsbee-says-ai-boom-risks-overheating-economy-5039734</link>
-      <description>[事實] 影響: XAUUSD/DXY/USDJPY | 重點: Fed的Goolsbee稱通膨遠高於2%、關稅影響比預期持久、要防AI投資讓經濟過熱；Barr稱金融條件相當寬鬆、貨幣政策需要進一步調整，兩人都偏鷹但未表態12月升息幅度 | 發布: Goolsbee 2026-11-20 02:25、Barr 2026-11-20 03:41 (Asia/Taipei) | 抓取: 2026-11-20 04:24 (Asia/Taipei)</description>
-      <pubDate>Fri, 20 Nov 2026 03:41:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611200341-goolsbee-barr</guid>
     </item>
   </channel>
 </rss>
