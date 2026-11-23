@@ -5,7 +5,14 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 24 Nov 2026 00:47:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 03:50:00 +0800</lastBuildDate>
+    <item>
+      <title>Iran escalation Mon Nov 23 (not previously in feed): (1) Iranian Army claims its air defenses shot down a US LUCAS one-way attack drone over the Persian Gulf east of the Strait of Hormuz (Iran International 16:56 GMT = 00:56 Taipei Tue); claim NOT independently verified, US military had not immediately commented (Kurdistan24); Kurdistan24 says it is the second such Iranian Army claim in under a week (prior Nov 17). (2) Foreign Ministry spokesman Esmaeil Baghaei at his weekly Tehran news conference (Daily Sabah 1:13 pm GMT+3 = 18:13 Taipei Mon; Al Jazeera, Iran International): Iran 'will use all available means to counter U.S. aggression', calls the US naval blockade and sanctions military aggression, invokes UN Charter Article 51 self-defense; measures being examined and to follow leadership decisions - no specifics given; reopening Hormuz depends on Washington meeting Iran's conditions. Concrete Iranian action and timing = UNKNOWN; gold/FX reaction attributable to these items = UNKNOWN</title>
+      <link>https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade</link>
+      <description>[事實] 影響: XAUUSD/USDJPY/DXY | 重點: 伊朗外交部發言人巴蓋伊稱將用「一切可用手段」對抗美國海上封鎖、視其為軍事侵略（具體措施未說明）；伊朗陸軍另宣稱在荷莫茲海峽以東擊落美國LUCAS無人機，此說法未獲獨立證實（屬伊朗單方宣稱），美軍未回應；市場反應 UNKNOWN | 發布: 2026-11-24 00:56 (Asia/Taipei)（無人機）；2026-11-23 18:13 (Asia/Taipei)（記者會） | 抓取: 2026-11-24 03:45 (Asia/Taipei)</description>
+      <pubDate>Tue, 24 Nov 2026 00:56:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611240056-iran-drone-baghaei</guid>
+    </item>
     <item>
       <title>Market snapshot 00:46 Taipei Tue Nov 24 (TradingView quotes, d/d change): XAUUSD 3,659.83 (+3.44%; day high 3,689.87, low 3,558.63, OANDA; off the high vs 3,674.99 at 23:42), DXY 104.43 (+0.57%; new day high 104.526), US10Y 4.936% (-0.28%; range 4.908-4.984%), US02Y 4.679% (range 4.640-4.730%), EURUSD 1.08931 (-0.66%; low 1.08813), GBPUSD 1.30159 (-0.50%; low 1.30139), USDJPY 159.217 (+0.41%; high 159.504), AUDUSD 0.66159 (-0.01%), USDCAD 1.43732 (+0.17%). No new gold headline on TradingView since 22:52 Taipei (latest: Dow Jones 'Gold Up Nearly 5% After Sharpest Weekly Decline Since March - Update', paywalled = body UNKNOWN; Reuters 22:33 'Gold rises as bargain hunters step in after steep weekly drop', headline only). Next 24h (TradingView calendar, Taipei time, Tue 11/24): ADP weekly employment 21:15 (prev 23,750), S&amp;P/Case-Shiller home prices 22:00 (20-city MoM exp 0.2%, YoY exp 2.7%), Conference Board consumer confidence 23:00 (exp 92.5, prev 91.7). Then US GDP/PCE Wed 11/25 21:30 Taipei; US Thanksgiving market holiday Thu 11/26; Fri 11/27 early close</title>
       <link>https://www.tradingview.com/symbols/XAUUSD/</link>
@@ -208,13 +215,6 @@
       <description>[事實] 影響: XAUUSD/USDJPY/AUDUSD/DXY | 重點: 亞股收盤重挫：台股跌6.2%~6.6%（來源不一，35,877.63 vs 36,033.29）、KOSPI跌5.21%、日經跌5.06%、恒指跌1.9%，MSCI亞太除日本週跌約8.6%為2020年以來最差；「亞股蒸發逾1.1兆美元」查無一手來源=UNKNOWN | 發布: Aju Press 2026-11-20 15:30、Al Jazeera/Investing.com 2026-11-20（時間 UNKNOWN）(Asia/Taipei) | 抓取: 2026-11-20 20:41 (Asia/Taipei)</description>
       <pubDate>Fri, 20 Nov 2026 15:30:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611201530-asia-close</guid>
-    </item>
-    <item>
-      <title>UK Oct public sector finances (ONS, 15:00 Taipei Fri Nov 20), ACTUALS: PSNB £17.0bn vs ~£18.0bn forecast (kinzan calendar), +£0.8bn y/y; central government debt interest £11.2bn, +33.4% y/y; FYTD borrowing £111.3bn, £7.3bn less than a year earlier (3.5% of GDP); net debt £3,058.3bn = 95.8% of GDP, highest share since early 1960s</title>
-      <link>https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/october2026</link>
-      <description>[事實] 影響: GBPUSD/EURGBP | 重點: 英國10月公部門淨借款170億英鎊略低於預期約180億，但債息支出年增33.4%，淨債務占GDP 95.8%為1960年代初以來最高 | 發布: ONS 2026-11-20 15:00 (Asia/Taipei) | 抓取: 2026-11-20 20:19 (Asia/Taipei)</description>
-      <pubDate>Fri, 20 Nov 2026 15:02:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611201500-uk-psf-oct</guid>
     </item>
   </channel>
 </rss>
