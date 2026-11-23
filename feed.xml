@@ -5,7 +5,14 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 23 Nov 2026 14:55:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 17:50:00 +0800</lastBuildDate>
+    <item>
+      <title>Europe Nov flash PMIs, ACTUALS (S&amp;P Global/HCOB, Mon Nov 23): EUROZONE (17:00 Taipei) composite 51.7 (Oct 51.7, exp 51.9 per Newsquawk), services 51.2 (Oct 51.4, 5-month low; exp 51.8 per investingLive), manufacturing PMI 52.9 (Oct 52.7, 2-month high); S&amp;P: input costs and output prices still rising sharply though inflation pressures eased. GERMANY (16:30 Taipei) composite 55.0 (Oct 53.4, highest since Mar 2022), services 54.0 (Oct 52.5), manufacturing 55.0 (Oct 54.2; exp 54.0 per investingLive). FRANCE (16:15 Taipei) composite 46.2 (Oct 46.6, 6-month low), services 46.6 (exp 47.5). UK (17:30 Taipei, FXStreet 09:33 GMT) composite 52.3 (prev 52.9), services 52.0 (exp 53.0, prev 52.8). Gold context: goldreporter.de 08:00 CET (15:00 Taipei) spot $3,622.28 (+2.7% d/d), US10Y 4.940%. Immediate EURUSD/GBPUSD reaction to PMIs = UNKNOWN (no verified quote found). Next: US S&amp;P Global flash PMI 22:45 Taipei; US GDP/PCE Wed 11/25 21:30 Taipei</title>
+      <link>https://www.pmi.spglobal.com/Public/Home/PressRelease/2c032f309b2e4b41bc77568f1b97b540</link>
+      <description>[事實] 影響: EURUSD/GBPUSD/EURGBP/XAUUSD | 重點: 歐元區11月綜合PMI初值51.7持平（略低於預期51.9）、服務業51.2為5個月低；德國綜合55.0創2022年3月來新高，法國46.2續萎縮；英國綜合52.3、服務業52.0低於預期53.0；匯價即時反應UNKNOWN | 發布: 2026-11-23 17:00-17:33 (Asia/Taipei) | 抓取: 2026-11-23 17:45 (Asia/Taipei)</description>
+      <pubDate>Mon, 23 Nov 2026 17:33:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611231733-europe-flash-pmi-nov</guid>
+    </item>
     <item>
       <title>Gold back above $3,600 in Monday Asia/early Europe (updates 10:27 snapshot). CNBC (12:47 AM EST = 13:47 Taipei): spot gold +2% to $3,603.77, Dec COMEX futures +2.5% to $3,603.20, after ~9% drop last week (steepest weekly fall since March); spot silver +2.4% to $42.15. FXStreet (05:42 GMT = 13:42 Taipei): XAU/USD holds above $3,600, snapping a 5-day slide from ~$3,500 (lowest since Sep 2025); cites Treasury Secretary Bessent warning the Fed risks overtightening, lower oil and equity-selloff safe-haven flows; FXStreet technical levels: resistance $3,655 (23.6% Fibo) / $3,750 / $3,826, support ~$3,502 swing low. DXY/FX: Reuters (Singapore, Euronext page stamp 05:13, timezone UNKNOWN) DXY -0.1% at 103.72, EURUSD 1.0985, GBPUSD 1.3111, USDJPY 158.95, NZDUSD 0.5468 (weakest since Mar 2009); FXStreet (06:23 GMT = 14:23 Taipei) DXY ~103.64, EURUSD ~1.0996 (18-month low 1.0953 last week). Fed pricing: FedWatch Dec +25bp 93.5% / hold 6.5%, +50bp priced out (Reuters); CNBC 93% vs ~100% last week; Rabobank: OIS implies full Dec hike plus ~70% of a Jan hike. Source differences: a quote-page snapshot shows spot $3,621.95 (+2.34%) at unstated time vs CNBC $3,603.77 - timing difference. Next: flash PMIs France 16:15 / Germany 16:30 / EZ 17:00 / UK 17:30 Taipei, US S&amp;P Global flash 22:45 Taipei; US PCE Wed 11/25 21:30 Taipei</title>
       <link>https://www.cnbc.com/2026/11/23/gold-rises-from-14-month-low-as-markets-await-us-inflation-data.html</link>
@@ -208,13 +215,6 @@
       <description>[事實] 影響: EURUSD/EURGBP | 重點: 德國10月PPI月增1.4%高於預期0.9%、年增8.1%創2023年2月以來最大，能源年增18.7%為主因、扣除能源年增3.6%，增添ECB 12/17會議前的通膨壓力 | 發布: Destatis 2026-11-20 15:00 (Asia/Taipei) | 抓取: 2026-11-20 16:30 (Asia/Taipei)</description>
       <pubDate>Fri, 20 Nov 2026 15:01:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611201500-german-ppi-oct</guid>
-    </item>
-    <item>
-      <title>UK Oct retail sales (ONS, 15:00 Taipei Fri Nov 20), ACTUALS: volumes +0.7% m/m vs 0.0% forecast; Sep revised to -0.6% from -0.4%; +2.3% y/y. Ex-fuel +0.9% m/m (forecast -0.1% per Investing.com vs +0.1% per Minkabu - consensus figure differs by source), +2.5% y/y (fcst 1.7%). ONS: much of the rise from stockpiling long-life food after government 'Be Ready' preparedness campaign (launched Oct 22). Reaction (Minkabu 16:20 JST = 15:20 Taipei): GBPUSD to 1.3120 day high then 1.3117, GBPJPY 208.78, EURGBP 0.8375 - modest GBP bid</title>
-      <link>https://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/october2026</link>
-      <description>[事實] 影響: GBPUSD/EURGBP/GBPJPY | 重點: 英國10月零售銷售月增0.7%遠優於預期0%（除燃料+0.9%），ONS稱主因政府備災宣導帶動囤貨；英鎊小幅走強，GBPUSD升至1.3120日高；除燃料預期值各來源不一（-0.1%/+0.1%） | 發布: ONS 2026-11-20 15:00、Minkabu 15:20 (Asia/Taipei) | 抓取: 2026-11-20 16:30 (Asia/Taipei)</description>
-      <pubDate>Fri, 20 Nov 2026 15:00:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611201500-uk-retail-oct</guid>
     </item>
   </channel>
 </rss>
