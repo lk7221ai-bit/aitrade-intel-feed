@@ -5,7 +5,14 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 23 Nov 2026 10:50:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 14:55:00 +0800</lastBuildDate>
+    <item>
+      <title>Gold back above $3,600 in Monday Asia/early Europe (updates 10:27 snapshot). CNBC (12:47 AM EST = 13:47 Taipei): spot gold +2% to $3,603.77, Dec COMEX futures +2.5% to $3,603.20, after ~9% drop last week (steepest weekly fall since March); spot silver +2.4% to $42.15. FXStreet (05:42 GMT = 13:42 Taipei): XAU/USD holds above $3,600, snapping a 5-day slide from ~$3,500 (lowest since Sep 2025); cites Treasury Secretary Bessent warning the Fed risks overtightening, lower oil and equity-selloff safe-haven flows; FXStreet technical levels: resistance $3,655 (23.6% Fibo) / $3,750 / $3,826, support ~$3,502 swing low. DXY/FX: Reuters (Singapore, Euronext page stamp 05:13, timezone UNKNOWN) DXY -0.1% at 103.72, EURUSD 1.0985, GBPUSD 1.3111, USDJPY 158.95, NZDUSD 0.5468 (weakest since Mar 2009); FXStreet (06:23 GMT = 14:23 Taipei) DXY ~103.64, EURUSD ~1.0996 (18-month low 1.0953 last week). Fed pricing: FedWatch Dec +25bp 93.5% / hold 6.5%, +50bp priced out (Reuters); CNBC 93% vs ~100% last week; Rabobank: OIS implies full Dec hike plus ~70% of a Jan hike. Source differences: a quote-page snapshot shows spot $3,621.95 (+2.34%) at unstated time vs CNBC $3,603.77 - timing difference. Next: flash PMIs France 16:15 / Germany 16:30 / EZ 17:00 / UK 17:30 Taipei, US S&amp;P Global flash 22:45 Taipei; US PCE Wed 11/25 21:30 Taipei</title>
+      <link>https://www.cnbc.com/2026/11/23/gold-rises-from-14-month-low-as-markets-await-us-inflation-data.html</link>
+      <description>[事實] 影響: XAUUSD/DXY/EURUSD/GBPUSD/USDJPY | 重點: 金價重回3,600美元上方（CNBC現貨+2%至3,603.77，上週跌約9%）；DXY約103.64-103.72自19個月高點回落；FedWatch 12月升息25bp約93%-93.5%、50bp已排除；FXStreet技術位阻力3,655、支撐約3,502（屬分析觀點）；今晚歐美PMI、週三PCE | 發布: 2026-11-23 14:23 (Asia/Taipei) | 抓取: 2026-11-23 14:52 (Asia/Taipei)</description>
+      <pubDate>Mon, 23 Nov 2026 14:23:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611231423-gold-back-above-3600</guid>
+    </item>
     <item>
       <title>Monday Nov 23 late-morning Asia snapshot (contest start 11:00 Taipei). FX (Zaikei/FISCO, 11:27 JST = 10:27 Taipei): USDJPY rose to 158.96 in the late 10 o'clock JST hour then eased to the high-158.80s, Tokyo range 158.49-159.04 (Xinhua Finance flash: touched 159, +0.30% intraday); EURJPY 173.81-174.61; EURUSD 1.0960-1.0986; Tokyo stock market closed for holiday. FXStreet (01:38 GMT = 09:38 Taipei): yen weighed by BoJ policy-path uncertainty while intervention risk near 160 limits losses. GOLD: FXStreet (01:09 GMT = 09:09 Taipei) headline 'Gold recovers above $3,550 as AI trade concern spurs safe-haven flows'; live quotes ~10:29-10:43 Taipei around $3,577-3,584 (gold-pricex 02:29 UTC $3,583.70; Exa minute price 02:43 UTC $3,577.55, +1.26% vs prior close 3,533.11) - quote sources differ in prior-close reference. Fed pricing: CME FedWatch Dec +25bp 91.4% / hold 8.6% / +50bp 0% (NBD 06:07 Beijing = 06:07 Taipei) vs 93.2% / 6.8% (Yahoo Finance 8:41 pm EST Sun; ChainCatcher 08:38) - snapshot-time difference. Iran: Iran International cites i24NEWS that CENTCOM is pushing for a strike amid heightened readiness (unconfirmed); Trump on Fox Sun said inclined to resume strikes after the new year if no deal - near-term timing UNKNOWN. Next: ~17:00/17:30 Taipei EZ/UK flash PMIs, 22:45 US S&amp;P Global flash PMIs</title>
       <link>https://www.zaikei.co.jp/article/20261123/878758.html</link>
@@ -208,13 +215,6 @@
       <description>[事實] 影響: GBPUSD/EURGBP/GBPJPY | 重點: 英國10月零售銷售月增0.7%遠優於預期0%（除燃料+0.9%），ONS稱主因政府備災宣導帶動囤貨；英鎊小幅走強，GBPUSD升至1.3120日高；除燃料預期值各來源不一（-0.1%/+0.1%） | 發布: ONS 2026-11-20 15:00、Minkabu 15:20 (Asia/Taipei) | 抓取: 2026-11-20 16:30 (Asia/Taipei)</description>
       <pubDate>Fri, 20 Nov 2026 15:00:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611201500-uk-retail-oct</guid>
-    </item>
-    <item>
-      <title>Gold freefall extends toward $3,500 (Fri Nov 20 Asia): TradingView snapshot ~12:30 Taipei OANDA XAUUSD 3,533.88 (-90.75 / -2.50% d/d), day high 3,636.93, low 3,517.39; COMEX GC1! 3,546.5 (-3.77%), low 3,518.5. Commercial Times (10:43 Taipei): spot 3,531.40 at 10:30, low near 3,526, lowest since Sep 2025, -36.9% from ~5,596 year high; StoneX (James Stanley) next level 3,500, resistance 3,800/3,870; Goldman cut end-2027 target to 4,650, UBS cut this-quarter target to 4,500. Reuters Asia wrap: gold -2.5% to $3,533.40, ~9% weekly loss. FXStreet (11:04 Taipei): ~$3,535, daily RSI(14) ~24 oversold, 21-day SMA 3,936, 50/100/200-day SMA ~4,090/4,179/4,408; drivers: hawkish Fed repricing, 19-month-high USD, liquidation to cover equity losses. SOURCE CONTRADICTIONS: intraday low 3,517.39 (OANDA) vs ~3,526 (CTEE, as of 10:30); daily % change -2.5% (OANDA/Reuters) vs -3.77% (COMEX, different reference close) vs -5.43% (exa, vs prior close 3,740.20 which looks stale); weekly loss ~7% (Economic Times) vs ~9% (Reuters)</title>
-      <link>https://www.ctee.com.tw/news/20261120700723-430702</link>
-      <description>[事實] 影響: XAUUSD/XAGUSD | 重點: 金價跌破3,600後續跌，亞洲盤低見約3,517（OANDA）、12:30報約3,534、日跌約2.5%，逼近3,500關卡；日線RSI約24超賣；StoneX列3,800/3,870為上方壓力；各來源低點、日跌幅（-2.5%/-3.77%/-5.43%）與週跌幅（7%/9%）不一致 | 發布: 工商時報 2026-11-20 10:43、FXStreet 11:04、TradingView報價 12:30 (Asia/Taipei) | 抓取: 2026-11-20 12:30 (Asia/Taipei)</description>
-      <pubDate>Fri, 20 Nov 2026 12:25:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611201225-gold-3517-low</guid>
     </item>
   </channel>
 </rss>
