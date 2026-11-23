@@ -5,7 +5,14 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 23 Nov 2026 07:55:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 10:50:00 +0800</lastBuildDate>
+    <item>
+      <title>Monday Nov 23 late-morning Asia snapshot (contest start 11:00 Taipei). FX (Zaikei/FISCO, 11:27 JST = 10:27 Taipei): USDJPY rose to 158.96 in the late 10 o'clock JST hour then eased to the high-158.80s, Tokyo range 158.49-159.04 (Xinhua Finance flash: touched 159, +0.30% intraday); EURJPY 173.81-174.61; EURUSD 1.0960-1.0986; Tokyo stock market closed for holiday. FXStreet (01:38 GMT = 09:38 Taipei): yen weighed by BoJ policy-path uncertainty while intervention risk near 160 limits losses. GOLD: FXStreet (01:09 GMT = 09:09 Taipei) headline 'Gold recovers above $3,550 as AI trade concern spurs safe-haven flows'; live quotes ~10:29-10:43 Taipei around $3,577-3,584 (gold-pricex 02:29 UTC $3,583.70; Exa minute price 02:43 UTC $3,577.55, +1.26% vs prior close 3,533.11) - quote sources differ in prior-close reference. Fed pricing: CME FedWatch Dec +25bp 91.4% / hold 8.6% / +50bp 0% (NBD 06:07 Beijing = 06:07 Taipei) vs 93.2% / 6.8% (Yahoo Finance 8:41 pm EST Sun; ChainCatcher 08:38) - snapshot-time difference. Iran: Iran International cites i24NEWS that CENTCOM is pushing for a strike amid heightened readiness (unconfirmed); Trump on Fox Sun said inclined to resume strikes after the new year if no deal - near-term timing UNKNOWN. Next: ~17:00/17:30 Taipei EZ/UK flash PMIs, 22:45 US S&amp;P Global flash PMIs</title>
+      <link>https://www.zaikei.co.jp/article/20261123/878758.html</link>
+      <description>[事實] 影響: XAUUSD/USDJPY/EURUSD/EURJPY | 重點: 比賽開始前快照：USDJPY東京區間158.49-159.04、一度觸159後回落；金價約3,577-3,584美元較前收漲約1%；FedWatch 12月升息25bp機率91.4%-93.2%（來源時點不同）；伊朗打擊時程=UNKNOWN | 發布: 2026-11-23 10:27 (Asia/Taipei) | 抓取: 2026-11-23 10:48 (Asia/Taipei)</description>
+      <pubDate>Mon, 23 Nov 2026 10:27:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611231027-monday-late-morning-snapshot</guid>
+    </item>
     <item>
       <title>Monday Nov 23 Asia open snapshot (FX/metals reopened ~06:00 Taipei): GOLD gapped higher - Kitco via VietNamNet: spot rose from ~$3,538 to as high as $3,582; 06:20 Vietnam (= 07:20 Taipei) bid/ask 3,579.5/3,581.5, +$39.7 (+1.12%) vs prior reference. China News Service via Sina (07:16 Beijing = 07:16 Taipei): spot gold +1% at $3,576.11; spot silver touched $42 (+1.99%); Nasdaq futures up ~2%, S&amp;P 500 futures up &gt;1%. FX678 (07:18): gold ~$3,570, cites weekend US-Iran escalation and slightly lower Dec Fed hike odds (no FedWatch figure given = UNKNOWN). FX (ZAI FX/DZH, 08:00 JST = 07:00 Taipei): USDJPY 158.51 vs NY close 158.57, range 158.51-158.67; EURUSD 1.0969 (range 1.0967-1.0983); EURJPY 173.90; Tokyo closed for Labour Thanksgiving Day (thin JPY liquidity). DXY Fri close 103.84 (Newsquawk). Week's key events: Wed 11/25 21:30 Taipei US GDP/PCE, Thu 11/26 US Thanksgiving, Fri 11/27 US early close. SOURCE CONTRADICTIONS: FX678 gives Friday spot-gold close $3,625.01 (-2.49%) and low 3,502.73, vs OANDA final 3,538.19 / Kitco 5pm ET 3,537.90 - FX678 close figure appears inconsistent; US10Y Fri close 4.91% (Newsquawk) vs 4.950% (TradingView). Whether the gap-up holds into Europe = UNKNOWN</title>
       <link>https://vietnamnet.vn/gia-vang-hom-nay-23-11-bat-tang-gan-40-usd-ngay-khi-mo-cua-tuan-moi-2577570.html</link>
@@ -208,13 +215,6 @@
       <description>[事實] 影響: XAUUSD/XAGUSD | 重點: 金價跌破3,600後續跌，亞洲盤低見約3,517（OANDA）、12:30報約3,534、日跌約2.5%，逼近3,500關卡；日線RSI約24超賣；StoneX列3,800/3,870為上方壓力；各來源低點、日跌幅（-2.5%/-3.77%/-5.43%）與週跌幅（7%/9%）不一致 | 發布: 工商時報 2026-11-20 10:43、FXStreet 11:04、TradingView報價 12:30 (Asia/Taipei) | 抓取: 2026-11-20 12:30 (Asia/Taipei)</description>
       <pubDate>Fri, 20 Nov 2026 12:25:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611201225-gold-3517-low</guid>
-    </item>
-    <item>
-      <title>USDJPY firmer yen in Tokyo (Fri Nov 20): Jiji 12:12 Taipei: Tokyo noon 159.26-27, yen +44 sen vs previous day 159.70; TradingView ~12:30 Taipei USDJPY 159.17 (-0.31%), day high 159.84, low 159.11. NY close Thu 159.65-75, intraday high 159.97 (Nikkei/NQN). FXStreet: Japan Economy Minister Kiuchi said wages and prices are rising steadily together, supporting BoJ December hike bets; intervention risk supports JPY; technical resistance 159.74 (61.8% Fib), support 158.85 (100-day SMA). No new FX remarks from Finance Minister Katayama or Mimura found today (MOF conference list latest Nov 17 at time of check) = UNKNOWN</title>
-      <link>https://sp.m.jiji.com/article/show/3915918</link>
-      <description>[事實] 影響: USDJPY/EURJPY/XAUUSD | 重點: 東京正午USDJPY約159.26、較前日升值44錢，亞洲盤低見約159.11；經濟再生相木內稱薪資物價同步上升，支撐日銀12月升息預期；今日片山／三村是否有新口頭干預 UNKNOWN | 發布: 時事通信 2026-11-20 12:12 (Asia/Taipei) | 抓取: 2026-11-20 12:30 (Asia/Taipei)</description>
-      <pubDate>Fri, 20 Nov 2026 12:12:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611201212-usdjpy-tokyo-noon</guid>
     </item>
   </channel>
 </rss>
