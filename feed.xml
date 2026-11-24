@@ -5,13 +5,20 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 24 Nov 2026 18:42:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 19:42:00 +0800</lastBuildDate>
     <item>
-      <title>Gold/FX snapshot ~18:41 Taipei (replaces 17:43 snapshot). No new gold/FX headlines on TradingView since Reuters 'Gold slips with spotlight on US inflation data' (16:55 Taipei). TRADINGVIEW ~18:41 Taipei: XAUUSD 3,624.28 (OANDA, -0.29% d/d; session high 3,678.49, low 3,607.51); DXY 104.163 (-0.15%, day low 104.138); US10Y 4.904% (day low); US02Y 4.654% (day low); EURUSD 1.09318 (+0.27%, near day high 1.09371); GBPUSD 1.30652 (+0.26%); USDJPY 159.455 (+0.28%, high 159.583); AUDUSD 0.66240; USDCAD 1.43431; USDCHF 0.84110. Yields and DXY slipped vs 17:43; specific catalyst = UNKNOWN. Next 24h (Taipei): ADP weekly 21:15, Case-Shiller 22:00, Conference Board consumer confidence + Richmond Fed 23:00; CME gold/silver margin hikes effective after Tue close; Wed 11/25 21:30 US Q3 GDP 2nd est / Oct PCE (consensus per earlier WSJ item: PCE y/y 3.8%, core 3.2%)</title>
+      <title>Gold/FX snapshot ~19:40 Taipei (replaces 18:41 snapshot). TRADINGVIEW ~19:40 Taipei: XAUUSD 3,629.30 (OANDA, -0.15% d/d; session high 3,678.49, low 3,607.51); DXY 104.016 (-0.29%, near day low 103.996); US10Y 4.896% (day low 4.888%); US02Y 4.642% (day low 4.631%); EURUSD 1.09479 (+0.42%, near day high 1.09499); GBPUSD 1.30781 (+0.36%); USDJPY 159.197 (+0.12%, high 159.583); AUDUSD 0.66355; USDCAD 1.43331 (-0.20%); USDCHF 0.83922 (-0.27%). Dollar and yields extended declines vs 18:41; specific catalyst = UNKNOWN. Latest Reuters gold headline (19:13 Taipei, paywalled, headline only): 'Gold slips with spotlight on US inflation data'. Next 24h (Taipei): ADP weekly 21:15, Case-Shiller 22:00, Conference Board consumer confidence + Richmond Fed 23:00; CME gold/silver margin hikes effective after Tue close; Wed 11/25 21:30 US Q3 GDP 2nd est / Oct PCE (consensus per earlier WSJ item: PCE y/y 3.8%, core 3.2%)</title>
       <link>https://www.tradingview.com/symbols/XAUUSD/</link>
-      <description>[事實] 影響: XAUUSD/DXY/EURUSD/USDJPY | 重點: 台北18:41 XAUUSD約3,624（日跌0.29%），DXY 104.16、美10年債4.904%、2年債4.654%皆在日內低點附近，EURUSD 1.0932近日高；17:43後無新的黃金/外匯標題，具體催化因素UNKNOWN | 發布: 2026-11-24 18:41 (Asia/Taipei) | 抓取: 2026-11-24 18:41 (Asia/Taipei)</description>
-      <pubDate>Tue, 24 Nov 2026 18:41:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611241841-gold-fx-snapshot</guid>
+      <description>[事實] 影響: XAUUSD/DXY/EURUSD/USDCHF | 重點: 台北19:40 XAUUSD約3,629（日跌0.15%），DXY 104.02、美10年債4.896%、2年債4.642%續貼近日內低點，EURUSD 1.0948近日高；具體催化因素UNKNOWN，焦點仍是週三21:30 GDP/PCE | 發布: 2026-11-24 19:40 (Asia/Taipei) | 抓取: 2026-11-24 19:40 (Asia/Taipei)</description>
+      <pubDate>Tue, 24 Nov 2026 19:40:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611241940-gold-fx-snapshot</guid>
+    </item>
+    <item>
+      <title>World Gold Council: first live pilot of Wholesale Digital Gold settlement in London (Reuters headline 18:59 Taipei; Seeking Alpha via TradingView 19:32 Taipei, citing a WGC statement): HSBC, J.P. Morgan and StoneX traded, settled and used Pooled Gold Interests (PGI) as collateral in live, legally binding wholesale transactions for the first time; loco London 400-oz Good Delivery bars were placed into the ecosystem, PGI created, then gold withdrawn after settlement. Still pilot stage; comes as the UK FCA considers responses to its Call for Input on tokenised gold in wholesale markets. Market-structure news; short-term XAUUSD price impact = UNKNOWN</title>
+      <link>https://www.tradingview.com/news/seekingalpha:bdf85810e094b:0-jpmorgan-hsbc-stonex-complete-first-digital-gold-trade-in-london/</link>
+      <description>[事實] 影響: XAUUSD | 重點: 世界黃金協會宣布倫敦批發數位黃金結算首次實盤試點完成，HSBC、摩根大通、StoneX以Pooled Gold Interests交易、結算並作抵押；仍屬試點，對短線金價影響UNKNOWN | 發布: 2026-11-24 18:59 (Asia/Taipei) | 抓取: 2026-11-24 19:40 (Asia/Taipei)</description>
+      <pubDate>Tue, 24 Nov 2026 18:59:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611241859-wgc-digital-gold-pilot</guid>
     </item>
     <item>
       <title>Pushback against further Fed hikes (not previously in feed): Treasury Secretary Bessent on CBS 'Face the Nation' (aired Sun Nov 22; transcript updated 12:41 PM EST = 01:41 Taipei Mon Nov 23): 'Many people believe that they may be making a policy mistake if they over-tighten. We've seen a substantial tightening in financial conditions over the past few months.' Pershing Square CEO Bill Ackman (X post, reported by Hindustan Times 05:10 IST Mon Nov 23 = 07:40 Taipei, and investingLive): Fed should switch to a 3% inflation goal; a Dec 9 hike risks pushing the US/world into recession; cites SpaceX secured debt at ~8.3% vs &lt;6% at IPO. investingLive: Goldman data show the sharpest weekly US financial-conditions tightening since March 2020; futures still price a December hike as near-certain; investor commentary alone unlikely to move rate pricing (opinion). Contrast: Fed's Cook/Waller/Paulson hawkish, NY Fed Williams Mon 'still work to do'. Whether the Fed softens its December message = UNKNOWN</title>
@@ -208,13 +215,6 @@
       <description>[事實] 影響: USDCAD | 重點: 加拿大9月零售銷售月增0.8%至753億加元，主要靠加油站+6.9%，核心零售僅+0.1%、實質量+0.1%；市場預期UNKNOWN | 發布: 2026-11-20 21:30 (Asia/Taipei) | 抓取: 2026-11-20 22:35 (Asia/Taipei)</description>
       <pubDate>Fri, 20 Nov 2026 21:30:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611202130-canada-retail-sep</guid>
-    </item>
-    <item>
-      <title>Fed Governor Waller (voter, hawk) welcoming remarks at the 2026 College Fed Challenge Finals (embargo 8:25 a.m. EST = 21:25 Taipei Fri Nov 20): prepared text contains NO comment on monetary policy or the economic outlook (Fed PDF; Newsquawk headline). His policy view stands as given Nov 18 on CNBC: a 50bp hike 'probably necessary' at the Dec 8-9 FOMC, or 25bp plus a clear signal of another hike in January. Remaining scheduled Fed: Governor Cook on US economy Sat 01:15 Taipei. Q&amp;A content, if any = UNKNOWN</title>
-      <link>https://www.federalreserve.gov/newsevents/speech/files/waller20261120a.pdf</link>
-      <description>[事實] 影響: XAUUSD/DXY/US10Y | 重點: Waller今晚致詞未談貨幣政策與經濟前景，沒有新訊號；其11/18「12月可能需升息50bp」立場不變；下一場Fed談話為週六01:15 Cook | 發布: 2026-11-20 21:25 (Asia/Taipei) | 抓取: 2026-11-20 22:35 (Asia/Taipei)</description>
-      <pubDate>Fri, 20 Nov 2026 21:25:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611202125-waller-no-policy</guid>
     </item>
   </channel>
 </rss>
