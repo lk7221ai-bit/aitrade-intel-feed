@@ -5,13 +5,20 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 25 Nov 2026 22:45:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 00:47:00 +0800</lastBuildDate>
     <item>
-      <title>SNAPSHOT ~22:47 Taipei Wed Nov 25 (TradingView; ~75 min after US PCE/GDP release). XAUUSD 3,454.77 (OANDA, -2.86% d/d; day range 3,454.21-3,575.29; below the 21:40 post-data level 3,479.70 and the 3,476.08 low noted then); silver 38.655 (-5.52%, at day low); DXY 103.911 (+0.06%); US10Y 4.820% (from 4.844% at 21:40); US02Y 4.582% (from 4.606%); EURUSD 1.09505 (-0.13%); GBPUSD 1.30533 (-0.47%); USDJPY 159.065 (-0.12%); AUDUSD 0.65730 (-1.01%); USDCAD 1.42338 (-0.26%); USDCHF 0.82945 (-0.74%). Observation: gold and silver extended losses while US yields fell and DXY was near flat - the usual yields/USD explanation does not fit; cause = UNKNOWN. Not yet released: 23:00 US new home sales (fcst 650k per WSJ week-ahead); Fed Beige Book 03:00 Thu Taipei; Thu US Thanksgiving (see hours item)</title>
+      <title>SNAPSHOT ~00:50 Taipei Thu Nov 26 (TradingView). XAUUSD 3,456.34 (OANDA, -2.81% d/d; day low 3,426.81, high 3,575.29; slightly above the 23:45 level 3,442.98); DXY 103.746 (-0.10%, at session low); US10Y 4.813%; US02Y 4.596%; EURUSD 1.09668 (+0.02%); GBPUSD 1.30894 (-0.19%); USDJPY 158.778 (-0.30%); AUDUSD 0.65896 (-0.76%); USDCAD 1.42189 (-0.36%); USDCHF 0.83025 (-0.65%). Silver quote not found this run = UNKNOWN. Observation: DXY slipped to its session low and gold bounced modestly off the day low; cause = UNKNOWN. Next: Fed Beige Book 03:00 Thu Taipei; Thu US Thanksgiving (see hours item); Fri US early close</title>
       <link>https://www.tradingview.com/symbols/XAUUSD/</link>
-      <description>[事實] 影響: XAUUSD/XAGUSD/DXY/US10Y/US02Y/主要美元貨幣對 | 重點: 22:47快照 XAUUSD 3,454.77（日跌2.86%，再破21:40的3,476低點）、白銀38.655（-5.52%），美債10年降至4.820%、DXY 103.911持平，金價下跌原因UNKNOWN | 發布: 2026-11-25 22:47 (Asia/Taipei，TradingView) | 抓取: 2026-11-25 22:45 (Asia/Taipei)</description>
-      <pubDate>Wed, 25 Nov 2026 22:47:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611252247-snapshot</guid>
+      <description>[事實] 影響: XAUUSD/DXY/US10Y/US02Y/主要美元貨幣對 | 重點: 00:50快照 XAUUSD 3,456.34（日跌2.81%，日低3,426.81），DXY 103.746 走到日低、美債10年4.813%，白銀報價UNKNOWN，波動原因UNKNOWN；03:00 Fed褐皮書、週四感恩節休市 | 發布: 2026-11-26 00:50 (Asia/Taipei，TradingView) | 抓取: 2026-11-26 00:47 (Asia/Taipei)</description>
+      <pubDate>Thu, 26 Nov 2026 00:50:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611260050-snapshot</guid>
+    </item>
+    <item>
+      <title>ACTUAL - US October new home sales (Census Bureau/HUD release CB26-188, 10:00 ET = 23:00 Taipei Wed Nov 25): 701,000 SAAR, +14.2% m/m (+/-22.6%, not statistically significant) from revised 614,000 in September; +7.5% y/y. Forecast cited earlier ~650k (WSJ week-ahead) - Seeking Alpha (10:01 AM ET): 'topping consensus'. Inventory 470,000 = 8.0 months supply (Sep 9.3). Median price $391,300 (-0.3% m/m, -3.2% y/y); average $459,900. Market reaction attributable to this release = UNKNOWN (see 23:45 snapshot)</title>
+      <link>https://www.census.gov/construction/nrs/current/</link>
+      <description>[事實] 影響: DXY/US10Y/XAUUSD/USD貨幣對 | 重點: 美國10月新屋銷售年率701,000戶（月增14.2%，高於預期約650k），庫存8.0個月，此數據對市場的影響UNKNOWN | 發布: 2026-11-25 23:00 (Asia/Taipei，Census Bureau) | 抓取: 2026-11-25 23:44 (Asia/Taipei)</description>
+      <pubDate>Wed, 25 Nov 2026 23:00:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611252300-us-new-home-sales-oct</guid>
     </item>
     <item>
       <title>ACTUAL - US Oct PCE + Q3 GDP 2nd estimate (BEA, released 8:30 ET = 21:30 Taipei Wed Nov 25). PCE price index 3.8% y/y (in line with Dow Jones consensus; Sep 3.6%); CORE PCE 3.3% y/y (0.1pp above 3.2% forecast; Sep 3.1%) per CNBC (Jeff Cox, 8:31 AM EST). PCE m/m and core m/m actuals not retrieved this run = UNKNOWN. Q3 real GDP 2nd estimate +4.3% annualized (advance 3.4%; forecasts 3.4-3.6%; Q2 2.2%) per BEA. BEA: Oct personal income +0.7% m/m (+$201.8bn; forecast ~0.4%), disposable income +0.8%, nominal PCE spending +0.3% (+$63.8bn; forecast ~0.4%), saving rate 4.1%. Jobless claims / durable goods actuals = UNKNOWN (not retrieved). MARKET (TradingView ~21:40 Taipei, after release): XAUUSD 3,479.70 (OANDA, -2.16% d/d; new session low 3,476.08, from 3,522.94 at 20:42); silver 39.374 (-3.76%); DXY 103.947 (+0.10%); US10Y 4.844%; US02Y 4.606%; EURUSD 1.09444; GBPUSD 1.30693; USDJPY 159.230; AUDUSD 0.65798; USDCAD 1.42408; USDCHF 0.82961. Attribution of gold move solely to the data = UNKNOWN (gold was already falling before release). VIEW (CNBC, opinion): data reinforce expectations of a December Fed hike. Next: 23:00 new home sales; 03:00 Thu Fed Beige Book; Thu US Thanksgiving (see hours item)</title>
