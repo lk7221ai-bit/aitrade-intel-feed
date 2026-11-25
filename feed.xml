@@ -5,7 +5,14 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 26 Nov 2026 00:47:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 03:47:00 +0800</lastBuildDate>
+    <item>
+      <title>RELEASED - Fed Beige Book, November 2026 (Federal Reserve, Wed Nov 25 14:00 ET = 03:00 Taipei Thu; prepared by Atlanta Fed, info collected on or before Nov 16). Activity: 8 of 12 Districts reported slight-to-moderate growth, 4 no change; consumer spending little changed, households price sensitive and more selective; auto sales softened (contacts cite elevated fuel prices and higher interest rates); residential real estate weakened, construction declined amid higher borrowing costs; manufacturing grew modestly; majority of Districts expect slight-to-moderate growth. Labor: employment rose slightly, hiring mostly to replace attrition; wages and benefits rose moderately - an uptick from modest in the prior report. Prices: increased moderately overall, as in the prior period; cost pressure from energy, transportation, healthcare, insurance and tariffs; input costs generally outpaced selling prices; contacts expect expenses and prices to keep rising. Media framing (Reuters headline): 'continued growth and sticky inflation' ahead of the Fed's decision on whether to raise rates (FOMC Dec 8-9). Market reaction to the release (gold/DXY/yields) = UNKNOWN (not retrieved this run)</title>
+      <link>https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20261125.pdf</link>
+      <description>[事實] 影響: XAUUSD/DXY/US10Y/US02Y/主要美元貨幣對 | 重點: Fed 11月褐皮書：12區中8區輕微至溫和成長、4區持平，物價延續溫和上漲且業者預期續漲，工資漲幅由「小幅」升至「溫和」；市場反應UNKNOWN | 發布: 2026-11-26 03:00 (Asia/Taipei，federalreserve.gov) | 抓取: 2026-11-26 03:47 (Asia/Taipei)</description>
+      <pubDate>Thu, 26 Nov 2026 03:00:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611260300-beigebook</guid>
+    </item>
     <item>
       <title>SNAPSHOT ~00:50 Taipei Thu Nov 26 (TradingView). XAUUSD 3,456.34 (OANDA, -2.81% d/d; day low 3,426.81, high 3,575.29; slightly above the 23:45 level 3,442.98); DXY 103.746 (-0.10%, at session low); US10Y 4.813%; US02Y 4.596%; EURUSD 1.09668 (+0.02%); GBPUSD 1.30894 (-0.19%); USDJPY 158.778 (-0.30%); AUDUSD 0.65896 (-0.76%); USDCAD 1.42189 (-0.36%); USDCHF 0.83025 (-0.65%). Silver quote not found this run = UNKNOWN. Observation: DXY slipped to its session low and gold bounced modestly off the day low; cause = UNKNOWN. Next: Fed Beige Book 03:00 Thu Taipei; Thu US Thanksgiving (see hours item); Fri US early close</title>
       <link>https://www.tradingview.com/symbols/XAUUSD/</link>
@@ -208,13 +215,6 @@
       <description>[事實] 影響: XAUUSD | 重點: CFTC持倉（截至11/17週二）投機淨多單降約2.4萬口至約16.6萬口（多單減1.6萬、空單增0.8萬），但未反映週三至週五的急跌，之後的持倉變化 UNKNOWN | 發布: 2026-11-21 04:35 (Asia/Taipei，CFTC 15:30 ET 公布) | 抓取: 2026-11-21 08:29 (Asia/Taipei)</description>
       <pubDate>Sat, 21 Nov 2026 04:35:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611210435-cftc-cot-gold</guid>
-    </item>
-    <item>
-      <title>Week ahead Nov 23-27 (Taipei time; replaces Nov 20 next-24h items). Mon 11/23: Japan holiday; ~17:00 EZ / ~17:30 UK flash PMIs (usual times, exact UNKNOWN); 22:45 US S&amp;P Global flash Mfg/Svcs PMI (prior end-Oct 54.9/56.1; consensus NA per WSJ); speakers BoE Pill, ECB Lane, Fed NY Williams (times UNKNOWN). Tue 11/24: German IFO; 22:00 Case-Shiller 20-city Sep (fcst +2.7% y/y); 23:00 Conference Board consumer confidence Nov (fcst 92.8, prior 91.7) and Richmond Fed; BoC Macklem; Dell/HP earnings. Wed 11/25: Australia Oct CPI (Taipei morning); 21:30 US Q3 GDP 2nd est (fcst 3.6%, 1st 3.4%), Oct PCE prices m/m 0.3% / y/y 3.8% (prior 0.5%/3.6%), core PCE m/m 0.3% / y/y 3.2% (prior 3.1%), personal income +0.4%, spending +0.4%, durable goods +1.1%, jobless claims 200k; 23:00 new home sales 650k; Fed Beige Book (usually 14:00 ET = 03:00 Thu Taipei). Thu 11/26: US Thanksgiving (US markets closed); BoK rate decision; ECB Oct minutes; Tokyo Nov CPI (Newsquawk lists Thursday; time UNKNOWN); BoJ Tamura. Fri 11/27: US shortened session; French/Spanish flash CPI; S&amp;P rating review on France. FOMC Dec 8-9. Consensus per WSJ survey (Dow Jones 14:14 ET Nov 20); Cook's estimate of Oct PCE 3.8%/core 3.2% matches consensus</title>
-      <link>https://www.marketscreener.com/news/gdp-revision-and-pce-prices-on-tap-data-week-ahead-ce785ed3dd8ff524</link>
-      <description>[事實] 影響: XAUUSD/DXY/EURUSD/GBPUSD/USDJPY/AUDUSD | 重點: 下週重點：週一22:45美國PMI初值、週二23:00諮商會信心、週三21:30 GDP修正與10月PCE（核心年增預估3.2%）、週四感恩節休市、週五美股提早收盤，假期前流動性偏薄 | 發布: 道瓊/WSJ 2026-11-21 03:14、Newsquawk 2026-11-20 23:20 (Asia/Taipei) | 抓取: 2026-11-21 04:20 (Asia/Taipei)</description>
-      <pubDate>Sat, 21 Nov 2026 03:14:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611210314-week-ahead-nov23</guid>
     </item>
   </channel>
 </rss>
