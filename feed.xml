@@ -5,7 +5,21 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 27 Nov 2026 03:47:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 07:46:00 +0800</lastBuildDate>
+    <item>
+      <title>PREVIEW - US early close Fri Nov 27 (day after Thanksgiving), converted to Taipei, plus 07:46 Taipei snapshot. NYSE equities close early 1:00 PM ET (= 02:00 Taipei Sat), eligible options 1:15 PM ET (NYSE holiday calendar). SIFMA recommends US bond markets close early 2:00 PM ET (= 03:00 Taipei Sat; voluntary recommendation). CME Globex (from Wed feed item, LPF guide citing CME): metals/energy early close 13:45 CT (= 03:45 Taipei Sat), equity index/rates 12:15 CT (= 02:15 Taipei Sat); FX/rates/equity settlements 12:00 CT (= 02:00 Taipei Sat). All of these are after the AITrade competition end (01:00 Taipei Sat). Spot FX / OTC gold / broker MT5 session hours = UNKNOWN (broker-specific). No US economic data scheduled Fri per calendar checked earlier (re-check not done this run = UNKNOWN). SNAPSHOT 07:46 Taipei (TradingView): XAUUSD 3,568.69 (OANDA, +0.07% d/d; range 3,563.94-3,569.91); Silver TVC 41.51 (+0.29%); DXY 103.777 (+0.08%); US10Y 4.864%; US02Y 4.650% (Treasury cash closed Thu, quotes may be stale); EURUSD 1.09703; GBPUSD 1.31071; USDJPY 159.285; AUDUSD 0.66352; USDCAD 1.42465; USDCHF 0.83449. Pending: Israel security cabinet outcome on Iran = UNKNOWN (no official/wire result found). VIEW: thin holiday liquidity expected Friday - opinion</title>
+      <link>https://www.nyse.com/trade/hours-calendars</link>
+      <description>[事實/推測] 影響: XAUUSD/DXY/全部美元貨幣對 | 重點: 週五美股提早收盤台北週六02:00、美債建議03:00、CME金屬03:45，均在比賽01:00結束後；現貨外匯/MT5時段UNKNOWN；07:46黃金3,568.69、DXY 103.78持平，假日流動性偏薄屬推測 | 發布: 2026-11-27 07:46 (Asia/Taipei，NYSE/SIFMA/TradingView) | 抓取: 2026-11-27 07:46 (Asia/Taipei)</description>
+      <pubDate>Fri, 27 Nov 2026 07:46:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-20261127-early-close-preview</guid>
+    </item>
+    <item>
+      <title>ACTUAL - Tokyo November CPI, mid-month flash (Statistics Bureau of Japan, released 08:30 JST = 07:30 Taipei Fri Nov 27). Core (ex fresh food) +2.9% y/y vs QUICK median forecast +3.0% and October +2.6% (index 103.9, 2025=100; Nikkei 08:31 JST). Headline +2.8% y/y; ex fresh food and energy +2.5% y/y (Fisco via Zai FX 08:34 JST). Nikkei: end of government electricity/gas subsidies (from November bills) pushed energy prices up. Tokyo CPI is treated as a leading indicator for national CPI. Market snapshot (TradingView 07:46 Taipei): USDJPY 159.285 (+0.00% d/d, session range 159.189-159.300). Reaction attributable to the release = UNKNOWN. Implication for BoJ December decision = speculation, not assessed here</title>
+      <link>https://www.nikkei.com/article/DGXZQOUA174MJ0X11C26A1000000/</link>
+      <description>[事實] 影響: USDJPY/EURJPY/XAUUSD(日圓相關) | 重點: 東京11月核心CPI年增2.9%，略低於預期3.0%但高於10月2.6%，主因電氣瓦斯補貼結束；USDJPY 07:46報159.29幾乎持平，反應歸因UNKNOWN | 發布: 2026-11-27 07:30 (Asia/Taipei，總務省/日經08:31 JST) | 抓取: 2026-11-27 07:46 (Asia/Taipei)</description>
+      <pubDate>Fri, 27 Nov 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-20261127-tokyo-cpi-nov</guid>
+    </item>
     <item>
       <title>SNAPSHOT 00:45 Taipei Fri Nov 27 (TradingView; still US Thanksgiving Thu in New York, US cash markets closed, thin liquidity). XAUUSD 3,572.75 (OANDA, -0.46% d/d; range 3,551.34-3,607.25; 23:45 snapshot 3,572.32). Silver TVC 41.61 (+0.53%; range 40.86-42.29). DXY 103.787 (+0.09%); US10Y 4.864%; US02Y 4.650% (Treasury cash not trading today, quotes may be stale); EURUSD 1.09691 (-0.05%); GBPUSD 1.31067 (-0.07%); USDJPY 159.298 (+0.08%; range 158.952-159.339); AUDUSD 0.66298 (+0.04%); USDCAD 1.42460 (+0.22%); USDCHF 0.83426 (+0.40%). Brent = UNKNOWN (not fetched). No new market-moving official/wire news found in the past hour. RUMOR/UNVERIFIED (X news summaries 22:00 and 23:53 Taipei Thu; no official/wire confirmation found by 00:45 Fri): IDF spokesman Defrin told Kan Israel is 'ready to act alone' on Iran and PM Netanyahu to convene the security cabinet Thursday evening - not confirmed by an official or wire source this run; outcome = UNKNOWN. VIEW (X news summaries 22:20-22:55 Taipei, opinion): some traders see a possible silver bottom after the drop from January highs - opinion, not fact. NEXT 24H (Taipei): Fri 07:30 Tokyo November CPI (core-core prev 2.4% y/y; forecast UNKNOWN); Fri 07:50 Japan weekly portfolio flows; Fri 16:55 Germany unemployment change (forecast 4k) / rate (forecast 6.4%); Fri 18:00 euro area economic sentiment (forecast 97.2, prev 96.9); Fri US early close (see early-close item)</title>
       <link>https://www.tradingview.com/symbols/XAUUSD/</link>
@@ -201,20 +215,6 @@
       <description>[事實] 影響: USOIL/XAUUSD/DXY/USDJPY | 重點: UKMTO稱週日阿曼灣近恰巴哈爾發生「油輪與軍方」事件，細節未明；IRGC另稱兩艘超級油輪觸雷起火（未獲獨立證實），是否為伊朗油輪闖封鎖=UNKNOWN | 發布: 2026-11-23 00:20 (Asia/Taipei) | 抓取: 2026-11-23 03:55 (Asia/Taipei)</description>
       <pubDate>Mon, 23 Nov 2026 00:20:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611230020-ukmto-217-tanker-mines</guid>
-    </item>
-    <item>
-      <title>Weekend Gulf military events Sat-Sun Nov 21-22 (updates 10:54 Sat item): (1) Bahrain - IRGC says it launched a missile-and-drone assault on US military positions in Bahrain (Fifth Fleet HQ); Bahrain says air defences intercepted attacks but one hit a civilian industrial facility (fire), and its Interior Ministry said Sunday two people were injured; Bahrain denied US bases were hit; US confirmation of damage = UNKNOWN (Reuters 19:15 UTC Sat = 03:15 Taipei Sun). (2) CENTCOM denied Iran's account that a missile damaged a US F-16: 'Iran did not attack a US F-16 fighter aircraft yesterday - at all'; all US fighter jets in the region 'safe and accounted for' (Reuters 15:20 UTC Sat = 23:20 Taipei) - CONTRADICTS Iranian state-media claim. (3) IRGC claims it downed a 19th (over Qeshm) and 20th (east of Hormuz) US MQ-1 drone, 'fourth in 24 hours' (Mehr; Iran International 08:39 GMT Sun = 16:39 Taipei); no US confirmation = UNKNOWN</title>
-      <link>https://www.reuters.com/5f374b32b07b/world/middle-east/bahrain-warns-residents-potential-threat-iran-conflict-persists-2026-11-21/</link>
-      <description>[事實] 影響: XAUUSD/USOIL/DXY | 重點: 伊朗週六飛彈無人機攻擊巴林（巴林稱民用工廠起火、2傷）；CENTCOM否認F-16遭擊中；IRGC稱再擊落MQ-1無人機（美方未證實） | 發布: 2026-11-22 03:15 (Asia/Taipei) | 抓取: 2026-11-23 03:55 (Asia/Taipei)</description>
-      <pubDate>Sun, 22 Nov 2026 03:15:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611220315-bahrain-f16-mq1</guid>
-    </item>
-    <item>
-      <title>UKMTO weekly Hormuz report (week ending Wed Nov 18; reported Fri, Iran International 03:11 GMT Sat = 11:11 Taipei): 263 transits through the Strait of Hormuz vs 308 the prior week (115 outbound / 148 inbound vs 139 / 169), about 65% below pre-war levels; about half of vessels were energy carriers; most AIS-transmitting ships still use the route through Iranian waters, though southern-route traffic increased. Six tanker attacks in the week (four in the strait, two in the Persian Gulf); two vessels needed assistance, outcomes of the other four UNKNOWN; 106 incidents in the strait since the conflict began Feb 28. The National (Nov 21) reports experts find little independent evidence for Iran's repeated sea-mine claims - CONTRADICTS IRGC mine attributions (see 07:37 item)</title>
-      <link>https://www.iranintl.com/en/202611215184</link>
-      <description>[事實] 影響: USOIL/XAUUSD/DXY | 重點: UKMTO稱截至11/18當週荷莫茲通行263艘次（前週308），約比戰前低65%，當週6艘油輪遇襲；水雷說法與專家評估矛盾 | 發布: 2026-11-21 11:11 (Asia/Taipei) | 抓取: 2026-11-21 12:30 (Asia/Taipei)</description>
-      <pubDate>Sat, 21 Nov 2026 11:11:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611211111-ukmto-weekly-hormuz</guid>
     </item>
   </channel>
 </rss>
