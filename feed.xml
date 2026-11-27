@@ -5,7 +5,14 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 27 Nov 2026 07:46:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 10:44:00 +0800</lastBuildDate>
+    <item>
+      <title>GOLD/SILVER JUMP in Friday Asia session (Taipei morning Fri Nov 27). Dow Jones Newswires headline (10:26 Taipei): spot gold rises 1.3% to $3,611.89/oz. TradingView snapshot 10:44 Taipei: XAUUSD 3,624.02 (OANDA, +1.62% d/d; day range 3,557.69-3,637.09; vs 3,568.69 at 07:46 Taipei); Silver TVC 43.43 (+4.92%; range 41.35-43.69); DXY 103.666 (-0.11%); US10Y 4.906% (+0.86%); US02Y 4.679%; EURUSD 1.09801 (+0.10%); GBPUSD 1.31252 (+0.15%); USDJPY 159.179 (-0.06%); AUDUSD 0.66659 (+0.47%); USDCAD 1.42293 (-0.13%); USDCHF 0.83349 (-0.11%). Cause: no single official/wire catalyst found as of retrieval = UNKNOWN. CNBC TV18 (08:01 IST = 10:31 Taipei) cites bargain buying and short-covering after this week's selloff (gold low ~3,444 earlier in the week per CNBC TV18) - analyst view. Context: US cash markets early close later today (NYSE 02:00 Taipei Sat, after competition end); thin holiday liquidity. Next 24h: France flash CPI Nov 15:45 Taipei today (PPN World calendar); Germany flash CPI Mon Nov 30; no US data Friday found</title>
+      <link>https://www.cnbctv18.com/market/commodities/comex-gold-rises-silver-gains-over-2-pc-can-recovery-hold-20042400.htm</link>
+      <description>[事實/推測] 影響: XAUUSD/XAGUSD/DXY | 重點: 台北上午黃金急升，10:44報3,624.02(+1.62%，高3,637.09)，白銀+4.92%至43.43，DXY小跌至103.67；具體觸發消息UNKNOWN，CNBC TV18稱逢低買盤與空頭回補屬觀點；下一個事件為15:45法國11月CPI初值 | 發布: 2026-11-27 10:26 (Asia/Taipei，道瓊快訊/TradingView 10:44) | 抓取: 2026-11-27 10:44 (Asia/Taipei)</description>
+      <pubDate>Fri, 27 Nov 2026 10:44:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-20261127-gold-jump-asia</guid>
+    </item>
     <item>
       <title>PREVIEW - US early close Fri Nov 27 (day after Thanksgiving), converted to Taipei, plus 07:46 Taipei snapshot. NYSE equities close early 1:00 PM ET (= 02:00 Taipei Sat), eligible options 1:15 PM ET (NYSE holiday calendar). SIFMA recommends US bond markets close early 2:00 PM ET (= 03:00 Taipei Sat; voluntary recommendation). CME Globex (from Wed feed item, LPF guide citing CME): metals/energy early close 13:45 CT (= 03:45 Taipei Sat), equity index/rates 12:15 CT (= 02:15 Taipei Sat); FX/rates/equity settlements 12:00 CT (= 02:00 Taipei Sat). All of these are after the AITrade competition end (01:00 Taipei Sat). Spot FX / OTC gold / broker MT5 session hours = UNKNOWN (broker-specific). No US economic data scheduled Fri per calendar checked earlier (re-check not done this run = UNKNOWN). SNAPSHOT 07:46 Taipei (TradingView): XAUUSD 3,568.69 (OANDA, +0.07% d/d; range 3,563.94-3,569.91); Silver TVC 41.51 (+0.29%); DXY 103.777 (+0.08%); US10Y 4.864%; US02Y 4.650% (Treasury cash closed Thu, quotes may be stale); EURUSD 1.09703; GBPUSD 1.31071; USDJPY 159.285; AUDUSD 0.66352; USDCAD 1.42465; USDCHF 0.83449. Pending: Israel security cabinet outcome on Iran = UNKNOWN (no official/wire result found). VIEW: thin holiday liquidity expected Friday - opinion</title>
       <link>https://www.nyse.com/trade/hours-calendars</link>
@@ -208,13 +215,6 @@
       <description>[事實] 影響: XAUUSD/USOIL/DXY | 重點: 川普週日受訪稱談判無果則傾向新年後再打伊朗，並稱闖封鎖的伊朗船將被擊沉；實際行動時程=UNKNOWN | 發布: 2026-11-23 01:52 (Asia/Taipei) | 抓取: 2026-11-23 03:55 (Asia/Taipei)</description>
       <pubDate>Mon, 23 Nov 2026 01:52:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611230152-trump-fox-iran</guid>
-    </item>
-    <item>
-      <title>Hormuz / blockade escalation Sun Nov 22 (not previously in feed): UKMTO ADVISORY 217-26 - incident at 14:25 UTC (= 22:25 Taipei Sun) involving 'a tanker and military forces' in the Gulf of Oman near Chabahar, Iran; reported by a company security officer, authorities aware, investigations ongoing; tanker identity and which military forces = UNKNOWN (Iran International 16:20 GMT = 00:20 Taipei Mon; Reuters via Arab News 19:13). Euronews (19:07 CET = 02:07 Taipei Mon) says location/timing are consistent with an Iranian tanker trying to break the US blockade after leaving Kharg Island, amid conflicting reports - this is Euronews' inference, not confirmed. Earlier Sunday the IRGC Navy (via Fars/Anadolu; Iran International 15:55 GMT = 23:55 Taipei) claimed two supertankers hit naval mines and caught fire in a 'restricted area' east of Hormuz / north of Ghanam Island after using 'unauthorized routes' with AIS off; no vessel names, casualties or damage given - independent confirmation = UNKNOWN; whether the two events are linked = UNKNOWN. Context: Iran deputy FM Gharibabadi (Sat) called the US blockade 'an act of war' and said Iran will take measures to break it; &gt;14 Iranian tankers reported loading at Kharg. No CENTCOM statement on the Sunday incident found as of retrieval = UNKNOWN. Markets were closed; price impact = UNKNOWN until Monday open (FX/metals usually reopen ~06:00 Taipei)</title>
-      <link>https://www.ukmto.org/-/media/ukmto/products/20261122_ukmto_-advisory_217-26.pdf</link>
-      <description>[事實] 影響: USOIL/XAUUSD/DXY/USDJPY | 重點: UKMTO稱週日阿曼灣近恰巴哈爾發生「油輪與軍方」事件，細節未明；IRGC另稱兩艘超級油輪觸雷起火（未獲獨立證實），是否為伊朗油輪闖封鎖=UNKNOWN | 發布: 2026-11-23 00:20 (Asia/Taipei) | 抓取: 2026-11-23 03:55 (Asia/Taipei)</description>
-      <pubDate>Mon, 23 Nov 2026 00:20:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611230020-ukmto-217-tanker-mines</guid>
     </item>
   </channel>
 </rss>
